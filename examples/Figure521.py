@@ -15,15 +15,15 @@ maps_file = str(root_dir / input_parent_dir / "ClairDeLune_MariaJoaoPires_untilM
 
 fig = Visualizer(audio=audio_file, score=svg_score, maps=maps_file)
 
-fig.add_panel(Waveform(color=(0, 1, 0), normalize=True),
-              Onset(onset_color="#00E6E6", line_width=0.5),
+fig.add_panel(Waveform(color="#FFD500", normalize=True),
+              Onset(onset_color="#000000", line_width=0.5),
               height_scale=0.5)
 
-fig.add_panel(MelSpec(freq_window=(40, 1600), color_map="magma"),
-              Onset(onset_color="#00E6E6", line_width=0.5),
+fig.add_panel(MelSpec(freq_window=(40, 1600), color_map="cool"),
+              Onset(onset_color="#000000", line_width=0.5),
               height_scale=0.5)
 
-fig.add_panel(Chromagram(color_map="magma"),
+fig.add_panel(Chromagram(color_map="cool"),
               height_scale=0.5)
 
 SVG_fig = fig.compose("FIG521.svg", print_output=True)
