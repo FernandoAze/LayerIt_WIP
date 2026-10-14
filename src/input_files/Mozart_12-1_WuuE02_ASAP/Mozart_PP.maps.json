@@ -1,0 +1,10277 @@
+[
+{
+"obs_mean_onset": 1.044897959,
+"xml_id": [
+"gul9epy",
+"bi7sz0m"
+],
+"obs_num": 1
+},
+{
+"obs_mean_onset": 1.288707483,
+"xml_id": [
+"iomaihc"
+],
+"obs_num": 2
+},
+{
+"obs_mean_onset": 1.497687075,
+"xml_id": [
+"j1d3veym"
+],
+"obs_num": 3
+},
+{
+"obs_mean_onset": 1.706666667,
+"xml_id": [
+"kjzv9ic"
+],
+"obs_num": 4
+},
+{
+"obs_mean_onset": 1.880816327,
+"xml_id": [
+"lokkbri",
+"d1pkosak"
+],
+"obs_num": 5
+},
+{
+"obs_mean_onset": 2.03755102,
+"xml_id": [
+"m19ovwby"
+],
+"obs_num": 6
+},
+{
+"obs_mean_onset": 2.281360544,
+"xml_id": [
+"kt5ix8m",
+"z17ihl97"
+],
+"obs_num": 7
+},
+{
+"obs_mean_onset": 2.403265306,
+"xml_id": [
+"lxvjfhn"
+],
+"obs_num": 8
+},
+{
+"obs_mean_onset": 2.629659864,
+"xml_id": [
+"m1j4q008"
+],
+"obs_num": 9
+},
+{
+"obs_mean_onset": 2.803809524,
+"xml_id": [
+"oxjd0bl"
+],
+"obs_num": 10
+},
+{
+"obs_mean_onset": 3.012789116,
+"xml_id": [
+"pywmh7f",
+"h11k4bnc"
+],
+"obs_num": 11
+},
+{
+"obs_mean_onset": 3.16952381,
+"xml_id": [
+"r1lqv6cz"
+],
+"obs_num": 12
+},
+{
+"obs_mean_onset": 3.378503401,
+"xml_id": [
+"k5orgo4",
+"effgudk"
+],
+"obs_num": 13
+},
+{
+"obs_mean_onset": 3.570068027,
+"xml_id": [
+"m1czjwna"
+],
+"obs_num": 14
+},
+{
+"obs_mean_onset": 3.779047619,
+"xml_id": [
+"owlw7xn"
+],
+"obs_num": 15
+},
+{
+"obs_mean_onset": 3.918367347,
+"xml_id": [
+"pgnb4a8"
+],
+"obs_num": 16
+},
+{
+"obs_mean_onset": 4.127346939,
+"xml_id": [
+"rq39wk",
+"h14da6bs"
+],
+"obs_num": 17
+},
+{
+"obs_mean_onset": 4.284081633,
+"xml_id": [
+"s1v8an77"
+],
+"obs_num": 18
+},
+{
+"obs_mean_onset": 4.458231293,
+"xml_id": [
+"o1n4gycz",
+"he4w0ng"
+],
+"obs_num": 19
+},
+{
+"obs_mean_onset": 4.649795918,
+"xml_id": [
+"qaj2o9j",
+"j4mrxpk"
+],
+"obs_num": 20
+},
+{
+"obs_mean_onset": 4.85877551,
+"xml_id": [
+"r1hc2zf6",
+"k1mwbnql"
+],
+"obs_num": 21
+},
+{
+"obs_mean_onset": 5.050340136,
+"xml_id": [
+"t1x1j6t4"
+],
+"obs_num": 22
+},
+{
+"obs_mean_onset": 5.224489796,
+"xml_id": [
+"u4465jj"
+],
+"obs_num": 23
+},
+{
+"obs_mean_onset": 5.398639456,
+"xml_id": [
+"w1ri794s"
+],
+"obs_num": 24
+},
+{
+"obs_mean_onset": 5.590204082,
+"xml_id": [
+"t1fxynt7",
+"vz3k84o",
+"jmh6yxk"
+],
+"obs_num": 25
+},
+{
+"obs_mean_onset": 6.042993197,
+"xml_id": [
+"q1tvz1q3"
+],
+"obs_num": 26
+},
+{
+"obs_mean_onset": 6.408707483,
+"xml_id": [
+"r132z8pr"
+],
+"obs_num": 27
+},
+{
+"obs_mean_onset": 6.791836735,
+"xml_id": [
+"k1fi3zwp"
+],
+"obs_num": 28
+},
+{
+"obs_mean_onset": 7.192380952,
+"xml_id": [
+"m1qtd506"
+],
+"obs_num": 29
+},
+{
+"obs_mean_onset": 7.801904762,
+"xml_id": [
+"n14s4q7n"
+],
+"obs_num": 30
+},
+{
+"obs_mean_onset": 8.010884354,
+"xml_id": [
+"j8y9mwf",
+"d18wqpx4"
+],
+"obs_num": 31
+},
+{
+"obs_mean_onset": 8.428843537,
+"xml_id": [
+"l1jap44f"
+],
+"obs_num": 32
+},
+{
+"obs_mean_onset": 8.829387755,
+"xml_id": [
+"m1uwkyb6"
+],
+"obs_num": 33
+},
+{
+"obs_mean_onset": 9.195102041,
+"xml_id": [
+"j1a3lj5u",
+"hgy4ue2"
+],
+"obs_num": 34
+},
+{
+"obs_mean_onset": 9.595646259,
+"xml_id": [
+"kkm9q6s",
+"b1cokjde"
+],
+"obs_num": 35
+},
+{
+"obs_mean_onset": 9.822040816,
+"xml_id": [
+"e1dpc6i1"
+],
+"obs_num": 36
+},
+{
+"obs_mean_onset": 9.97877551,
+"xml_id": [
+"f1dpxi2f"
+],
+"obs_num": 37
+},
+{
+"obs_mean_onset": 10.170340136,
+"xml_id": [
+"l19cwga9"
+],
+"obs_num": 38
+},
+{
+"obs_mean_onset": 10.379319728,
+"xml_id": [
+"klv31oq",
+"h18nyvkl",
+"b1r7bfov"
+],
+"obs_num": 39
+},
+{
+"obs_mean_onset": 10.779863946,
+"xml_id": [
+"l56ldeh",
+"d19y1g21"
+],
+"obs_num": 40
+},
+{
+"obs_mean_onset": 11.162993197,
+"xml_id": [
+"mmaqgo5",
+"f1rxzwr6"
+],
+"obs_num": 41
+},
+{
+"obs_mean_onset": 11.546122449,
+"xml_id": [
+"oiu0zkm",
+"bnbwmho"
+],
+"obs_num": 42
+},
+{
+"obs_mean_onset": 11.772517007,
+"xml_id": [
+"d5b8722"
+],
+"obs_num": 43
+},
+{
+"obs_mean_onset": 11.981496599,
+"xml_id": [
+"e106x5nd"
+],
+"obs_num": 44
+},
+{
+"obs_mean_onset": 12.155646259,
+"xml_id": [
+"g1up4sfe"
+],
+"obs_num": 45
+},
+{
+"obs_mean_onset": 12.329795918,
+"xml_id": [
+"qe0alwe",
+"h1catmw4"
+],
+"obs_num": 46
+},
+{
+"obs_mean_onset": 12.521360544,
+"xml_id": [
+"i1tuoheq"
+],
+"obs_num": 47
+},
+{
+"obs_mean_onset": 12.695510204,
+"xml_id": [
+"r17fiox4",
+"f2aayi6"
+],
+"obs_num": 48
+},
+{
+"obs_mean_onset": 13.165714286,
+"xml_id": [
+"h1glteal"
+],
+"obs_num": 49
+},
+{
+"obs_mean_onset": 13.496598639,
+"xml_id": [
+"u1vimra5",
+"j1iybf84",
+"mv8blkj"
+],
+"obs_num": 50
+},
+{
+"obs_mean_onset": 13.897142857,
+"xml_id": [
+"w84435n",
+"h1wn4q09",
+"j1mli11d"
+],
+"obs_num": 51
+},
+{
+"obs_mean_onset": 14.802721088,
+"xml_id": [
+"z14bq14d",
+"b1obww36",
+"oqs8p4m"
+],
+"obs_num": 52
+},
+{
+"obs_mean_onset": 15.09877551,
+"xml_id": [
+"c1fwmcqw",
+"eyn0zy3",
+"p11ix9ig"
+],
+"obs_num": 53
+},
+{
+"obs_mean_onset": 15.220680272,
+"xml_id": [
+"b1enahae",
+"d19a2og6",
+"s9gfpc9"
+],
+"obs_num": 54
+},
+{
+"obs_mean_onset": 15.603809524,
+"xml_id": [
+"e1n4s4x2",
+"gp3ygaf",
+"t1k2rqs7"
+],
+"obs_num": 55
+},
+{
+"obs_mean_onset": 16.004353741,
+"xml_id": [
+"ik8okpx",
+"k1ext6f2",
+"v12u9bqh"
+],
+"obs_num": 56
+},
+{
+"obs_mean_onset": 16.300408163,
+"xml_id": [
+"lh80u42",
+"np6z9zw",
+"w1y6j1rp"
+],
+"obs_num": 57
+},
+{
+"obs_mean_onset": 16.404897959,
+"xml_id": [
+"gm31v33",
+"i16tfsgs",
+"bp23igx"
+],
+"obs_num": 58
+},
+{
+"obs_mean_onset": 16.805442177,
+"xml_id": [
+"j264ebl",
+"lz9xext",
+"c19ry7oi"
+],
+"obs_num": 59
+},
+{
+"obs_mean_onset": 17.223401361,
+"xml_id": [
+"mmqtyu6",
+"oonbckm",
+"d1qgcw64"
+],
+"obs_num": 60
+},
+{
+"obs_mean_onset": 17.641360544,
+"xml_id": [
+"o1xy49gh",
+"q1epuhh6",
+"bgnu1c0",
+"e1i6vnbu"
+],
+"obs_num": 61
+},
+{
+"obs_mean_onset": 18.00707483,
+"xml_id": [
+"r7kv312",
+"t1eralef",
+"f3ciug5",
+"i13jrbt0"
+],
+"obs_num": 62
+},
+{
+"obs_mean_onset": 18.425034014,
+"xml_id": [
+"u1qknrgr",
+"w1q1ch9y",
+"j1q6xn63",
+"m168pjtp"
+],
+"obs_num": 63
+},
+{
+"obs_mean_onset": 18.842993197,
+"xml_id": [
+"y1n1ne7e",
+"b6867x3",
+"j1c19u61",
+"m1xv3210"
+],
+"obs_num": 64
+},
+{
+"obs_mean_onset": 19.260952381,
+"xml_id": [
+"chfoz0r",
+"e9ci3y3",
+"nj3fous",
+"p1aclury"
+],
+"obs_num": 65
+},
+{
+"obs_mean_onset": 19.644081633,
+"xml_id": [
+"g1eksv02",
+"i1qp8137",
+"rtwvg5o"
+],
+"obs_num": 66
+},
+{
+"obs_mean_onset": 19.748571429,
+"xml_id": [
+"tz3sreg"
+],
+"obs_num": 67
+},
+{
+"obs_mean_onset": 19.853061224,
+"xml_id": [
+"u1i8qosr"
+],
+"obs_num": 68
+},
+{
+"obs_mean_onset": 19.940136054,
+"xml_id": [
+"jax94v5",
+"lqr8rfb",
+"v61mgia"
+],
+"obs_num": 69
+},
+{
+"obs_mean_onset": 20.04462585,
+"xml_id": [
+"jot1ayd",
+"l1ror4v2",
+"z1np4k5v"
+],
+"obs_num": 70
+},
+{
+"obs_mean_onset": 20.427755102,
+"xml_id": [
+"m17sbp3f",
+"ot06jea",
+"a7lh2jv"
+],
+"obs_num": 71
+},
+{
+"obs_mean_onset": 20.810884354,
+"xml_id": [
+"qa1v13n",
+"sqx48it",
+"c84j1lj"
+],
+"obs_num": 72
+},
+{
+"obs_mean_onset": 20.932789116,
+"xml_id": [
+"e17p1pe"
+],
+"obs_num": 73
+},
+{
+"obs_mean_onset": 21.037278912,
+"xml_id": [
+"g1mb3k55"
+],
+"obs_num": 74
+},
+{
+"obs_mean_onset": 21.124353741,
+"xml_id": [
+"tqt3wq1",
+"v6n7va2",
+"h1tlwiwo"
+],
+"obs_num": 75
+},
+{
+"obs_mean_onset": 21.228843537,
+"xml_id": [
+"m9ttfpf",
+"o1t05kox",
+"i5e3pt8"
+],
+"obs_num": 76
+},
+{
+"obs_mean_onset": 21.629387755,
+"xml_id": [
+"patob18",
+"r1311nv7",
+"j1dtt2n0"
+],
+"obs_num": 77
+},
+{
+"obs_mean_onset": 22.029931973,
+"xml_id": [
+"s1mrwwd8",
+"urxhq1q",
+"k1wrgooi"
+],
+"obs_num": 78
+},
+{
+"obs_mean_onset": 22.447891156,
+"xml_id": [
+"rlvuyod",
+"t1x4z70d",
+"h1init1h"
+],
+"obs_num": 79
+},
+{
+"obs_mean_onset": 22.86585034,
+"xml_id": [
+"j1mbmapn"
+],
+"obs_num": 80
+},
+{
+"obs_mean_onset": 23.161904762,
+"xml_id": [
+"v1botz3e",
+"y1wgvivp",
+"lptyb7i",
+"p14d9qr4"
+],
+"obs_num": 81
+},
+{
+"obs_mean_onset": 23.788843537,
+"xml_id": [
+"sde6hre",
+"l19858qn",
+"n1opq3gh"
+],
+"obs_num": 82
+},
+{
+"obs_mean_onset": 24.502857143,
+"xml_id": [
+"u7iuhrb",
+"xyedorw",
+"z1cpb3au",
+"p1wb7zwe"
+],
+"obs_num": 83
+},
+{
+"obs_mean_onset": 24.973061224,
+"xml_id": [
+"tznteb6",
+"v1qmfasj",
+"p67mxq5"
+],
+"obs_num": 84
+},
+{
+"obs_mean_onset": 25.07755102,
+"xml_id": [
+"21+1/16"
+],
+"obs_num": 85
+},
+{
+"obs_mean_onset": 25.112380952,
+"xml_id": [
+"21+5/64"
+],
+"obs_num": 86
+},
+{
+"obs_mean_onset": 25.199455782,
+"xml_id": [
+"21+1/8"
+],
+"obs_num": 87
+},
+{
+"obs_mean_onset": 25.704489796,
+"xml_id": [
+"y19ymrrx",
+"csqx4o9",
+"d1951t4q",
+"r12s02ym"
+],
+"obs_num": 88
+},
+{
+"obs_mean_onset": 26.279183673,
+"xml_id": [
+"y1x2h03u",
+"apntmvf",
+"rn13bdz"
+],
+"obs_num": 89
+},
+{
+"obs_mean_onset": 27.062857143,
+"xml_id": [
+"c1aueo8m",
+"f1vfwo5h",
+"vc71tvi"
+],
+"obs_num": 90
+},
+{
+"obs_mean_onset": 27.567891156,
+"xml_id": [
+"d17rzs6r",
+"f1pf7ii",
+"t19ntsb0"
+],
+"obs_num": 91
+},
+{
+"obs_mean_onset": 27.794285714,
+"xml_id": [
+"gzz8epc"
+],
+"obs_num": 92
+},
+{
+"obs_mean_onset": 28.020680272,
+"xml_id": [
+"hdb33e7"
+],
+"obs_num": 93
+},
+{
+"obs_mean_onset": 28.212244898,
+"xml_id": [
+"im014s4",
+"v1l5lqth"
+],
+"obs_num": 94
+},
+{
+"obs_mean_onset": 28.299319728,
+"xml_id": [
+"w8f69e6"
+],
+"obs_num": 95
+},
+{
+"obs_mean_onset": 28.403809524,
+"xml_id": [
+"j18b5rc5",
+"y3v0esu"
+],
+"obs_num": 96
+},
+{
+"obs_mean_onset": 28.577959184,
+"xml_id": [
+"ku7wi69",
+"z1kli212"
+],
+"obs_num": 97
+},
+{
+"obs_mean_onset": 28.699863946,
+"xml_id": [
+"aus2ubp"
+],
+"obs_num": 98
+},
+{
+"obs_mean_onset": 28.804353741,
+"xml_id": [
+"l1rfo9sr",
+"y1vx4tg2"
+],
+"obs_num": 99
+},
+{
+"obs_mean_onset": 28.995918367,
+"xml_id": [
+"m155r85k",
+"zv9fw9e"
+],
+"obs_num": 100
+},
+{
+"obs_mean_onset": 29.100408163,
+"xml_id": [
+"a19olj8j"
+],
+"obs_num": 101
+},
+{
+"obs_mean_onset": 29.204897959,
+"xml_id": [
+"oaimp1p",
+"c2qo79k"
+],
+"obs_num": 102
+},
+{
+"obs_mean_onset": 29.396462585,
+"xml_id": [
+"pi5dwzu",
+"e94e9h4"
+],
+"obs_num": 103
+},
+{
+"obs_mean_onset": 29.588027211,
+"xml_id": [
+"r1pnm1wa",
+"hv4y10q"
+],
+"obs_num": 104
+},
+{
+"obs_mean_onset": 29.762176871,
+"xml_id": [
+"sw4rh9g",
+"i1ynyd6j"
+],
+"obs_num": 105
+},
+{
+"obs_mean_onset": 29.971156463,
+"xml_id": [
+"z1cjxhlj",
+"bl5xsto",
+"nob0utz"
+],
+"obs_num": 106
+},
+{
+"obs_mean_onset": 30.319455782,
+"xml_id": [
+"c1b8ajpr",
+"e129w2ck",
+"f1jjowhm",
+"h1r3mrkg"
+],
+"obs_num": 107
+},
+{
+"obs_mean_onset": 30.63292517,
+"xml_id": [
+"q1ltumc8"
+],
+"obs_num": 108
+},
+{
+"obs_mean_onset": 30.754829932,
+"xml_id": [
+"rpcv7bb"
+],
+"obs_num": 109
+},
+{
+"obs_mean_onset": 30.841904762,
+"xml_id": [
+"tfy2bkp"
+],
+"obs_num": 110
+},
+{
+"obs_mean_onset": 30.946394558,
+"xml_id": [
+"up1yh1m"
+],
+"obs_num": 111
+},
+{
+"obs_mean_onset": 31.033469388,
+"xml_id": [
+"vfsshid"
+],
+"obs_num": 112
+},
+{
+"obs_mean_onset": 31.137959184,
+"xml_id": [
+"wuzsvma"
+],
+"obs_num": 113
+},
+{
+"obs_mean_onset": 31.24244898,
+"xml_id": [
+"l16vaque",
+"npx6twz",
+"zeei476"
+],
+"obs_num": 114
+},
+{
+"obs_mean_onset": 31.642993197,
+"xml_id": [
+"onsjnu0",
+"q1b8a3a6",
+"r17fckfk",
+"t1tqpjsw"
+],
+"obs_num": 115
+},
+{
+"obs_mean_onset": 31.886802721,
+"xml_id": [
+"c1gyrx3a"
+],
+"obs_num": 116
+},
+{
+"obs_mean_onset": 31.991292517,
+"xml_id": [
+"d1a4maz9"
+],
+"obs_num": 117
+},
+{
+"obs_mean_onset": 32.078367347,
+"xml_id": [
+"fm3omx2"
+],
+"obs_num": 118
+},
+{
+"obs_mean_onset": 32.182857143,
+"xml_id": [
+"g18qcghi"
+],
+"obs_num": 119
+},
+{
+"obs_mean_onset": 32.287346939,
+"xml_id": [
+"h9ku7nu"
+],
+"obs_num": 120
+},
+{
+"obs_mean_onset": 32.374421769,
+"xml_id": [
+"i1iuoji"
+],
+"obs_num": 121
+},
+{
+"obs_mean_onset": 32.513741497,
+"xml_id": [
+"s18gpvek",
+"ihzzf81"
+],
+"obs_num": 122
+},
+{
+"obs_mean_onset": 32.722721088,
+"xml_id": [
+"tv66z3f"
+],
+"obs_num": 123
+},
+{
+"obs_mean_onset": 32.93170068,
+"xml_id": [
+"u1x563z2"
+],
+"obs_num": 124
+},
+{
+"obs_mean_onset": 33.123265306,
+"xml_id": [
+"v1shqm7v",
+"k5lzifd"
+],
+"obs_num": 125
+},
+{
+"obs_mean_onset": 33.210340136,
+"xml_id": [
+"l1i1qm7t"
+],
+"obs_num": 126
+},
+{
+"obs_mean_onset": 33.332244898,
+"xml_id": [
+"w1ti69cm",
+"n1gl6zsb"
+],
+"obs_num": 127
+},
+{
+"obs_mean_onset": 33.488979592,
+"xml_id": [
+"x3wtj9z",
+"o5lmp23"
+],
+"obs_num": 128
+},
+{
+"obs_mean_onset": 33.610884354,
+"xml_id": [
+"p6y21h9"
+],
+"obs_num": 129
+},
+{
+"obs_mean_onset": 33.732789116,
+"xml_id": [
+"xmpc1l8",
+"l1w714z9"
+],
+"obs_num": 130
+},
+{
+"obs_mean_onset": 33.924353741,
+"xml_id": [
+"yttsnuo",
+"m1xmon9i"
+],
+"obs_num": 131
+},
+{
+"obs_mean_onset": 34.028843537,
+"xml_id": [
+"nuc9ldt"
+],
+"obs_num": 132
+},
+{
+"obs_mean_onset": 34.133333333,
+"xml_id": [
+"zijv7mz",
+"pq3rvdz"
+],
+"obs_num": 133
+},
+{
+"obs_mean_onset": 34.342312925,
+"xml_id": [
+"ahwe6r7",
+"rx9em1i"
+],
+"obs_num": 134
+},
+{
+"obs_mean_onset": 34.533877551,
+"xml_id": [
+"bkeiyk1",
+"t9hcw5n"
+],
+"obs_num": 135
+},
+{
+"obs_mean_onset": 34.725442177,
+"xml_id": [
+"civjsqf",
+"u1jy91jb"
+],
+"obs_num": 136
+},
+{
+"obs_mean_onset": 34.917006803,
+"xml_id": [
+"i1a9ess1",
+"k1njyjju",
+"rbbwgps",
+"u1pq6q03",
+"v128ujm6",
+"wr9m758"
+],
+"obs_num": 137
+},
+{
+"obs_mean_onset": 35.369795918,
+"xml_id": [
+"l166om7p",
+"n18g6985",
+"o19r69uk",
+"q1lnhtty"
+],
+"obs_num": 138
+},
+{
+"obs_mean_onset": 35.57877551,
+"xml_id": [
+"z13gz8l5"
+],
+"obs_num": 139
+},
+{
+"obs_mean_onset": 35.700680272,
+"xml_id": [
+"a183s94p"
+],
+"obs_num": 140
+},
+{
+"obs_mean_onset": 35.805170068,
+"xml_id": [
+"cqubx10"
+],
+"obs_num": 141
+},
+{
+"obs_mean_onset": 35.892244898,
+"xml_id": [
+"ejxibtc"
+],
+"obs_num": 142
+},
+{
+"obs_mean_onset": 35.996734694,
+"xml_id": [
+"f1heyy6g"
+],
+"obs_num": 143
+},
+{
+"obs_mean_onset": 36.083809524,
+"xml_id": [
+"g1www8fe"
+],
+"obs_num": 144
+},
+{
+"obs_mean_onset": 36.205714286,
+"xml_id": [
+"u22z1y6",
+"wama4jz",
+"h1i3y5ju"
+],
+"obs_num": 145
+},
+{
+"obs_mean_onset": 36.623673469,
+"xml_id": [
+"x17lc28n",
+"zo8welz",
+"a1owgxgs",
+"c67uzbz"
+],
+"obs_num": 146
+},
+{
+"obs_mean_onset": 36.832653061,
+"xml_id": [
+"k1kg58ft"
+],
+"obs_num": 147
+},
+{
+"obs_mean_onset": 36.954557823,
+"xml_id": [
+"l18nknmn"
+],
+"obs_num": 148
+},
+{
+"obs_mean_onset": 37.059047619,
+"xml_id": [
+"nn2nkx4"
+],
+"obs_num": 149
+},
+{
+"obs_mean_onset": 37.146122449,
+"xml_id": [
+"pg57hb"
+],
+"obs_num": 150
+},
+{
+"obs_mean_onset": 37.250612245,
+"xml_id": [
+"q1jcfwzx"
+],
+"obs_num": 151
+},
+{
+"obs_mean_onset": 37.355102041,
+"xml_id": [
+"rxxowyd"
+],
+"obs_num": 152
+},
+{
+"obs_mean_onset": 37.459591837,
+"xml_id": [
+"i5a0mwv",
+"s1m61m6w"
+],
+"obs_num": 153
+},
+{
+"obs_mean_onset": 37.668571429,
+"xml_id": [
+"kruions"
+],
+"obs_num": 154
+},
+{
+"obs_mean_onset": 37.860136054,
+"xml_id": [
+"31+1/4"
+],
+"obs_num": 155
+},
+{
+"obs_mean_onset": 37.982040816,
+"xml_id": [
+"wn86xp3"
+],
+"obs_num": 156
+},
+{
+"obs_mean_onset": 38.069115646,
+"xml_id": [
+"m1c4fou",
+"x1xlhf6b"
+],
+"obs_num": 157
+},
+{
+"obs_mean_onset": 38.191020408,
+"xml_id": [
+"y4aw5qh"
+],
+"obs_num": 158
+},
+{
+"obs_mean_onset": 38.295510204,
+"xml_id": [
+"n1nuvn46",
+"a59wdip"
+],
+"obs_num": 159
+},
+{
+"obs_mean_onset": 38.382585034,
+"xml_id": [
+"c1d8j6ia"
+],
+"obs_num": 160
+},
+{
+"obs_mean_onset": 38.469659864,
+"xml_id": [
+"oue8pl5",
+"d1fobnpl"
+],
+"obs_num": 161
+},
+{
+"obs_mean_onset": 38.57414966,
+"xml_id": [
+"f10gave8"
+],
+"obs_num": 162
+},
+{
+"obs_mean_onset": 38.678639456,
+"xml_id": [
+"m1jqdocu",
+"c1n7zwi5"
+],
+"obs_num": 163
+},
+{
+"obs_mean_onset": 38.783129252,
+"xml_id": [
+"d1ezo8n9"
+],
+"obs_num": 164
+},
+{
+"obs_mean_onset": 38.887619048,
+"xml_id": [
+"oaaa7tb",
+"f60lmm4"
+],
+"obs_num": 165
+},
+{
+"obs_mean_onset": 38.974693878,
+"xml_id": [
+"gwg8clf"
+],
+"obs_num": 166
+},
+{
+"obs_mean_onset": 39.114013605,
+"xml_id": [
+"pj255mf"
+],
+"obs_num": 167
+},
+{
+"obs_mean_onset": 39.340408163,
+"xml_id": [
+"q1tuvhx7"
+],
+"obs_num": 168
+},
+{
+"obs_mean_onset": 39.566802721,
+"xml_id": [
+"rv7o8wk"
+],
+"obs_num": 169
+},
+{
+"obs_mean_onset": 39.740952381,
+"xml_id": [
+"sno5qqq"
+],
+"obs_num": 170
+},
+{
+"obs_mean_onset": 39.949931973,
+"xml_id": [
+"xd4jq7s",
+"f1qtrozc"
+],
+"obs_num": 171
+},
+{
+"obs_mean_onset": 40.176326531,
+"xml_id": [
+"ygeufmy"
+],
+"obs_num": 172
+},
+{
+"obs_mean_onset": 40.385306122,
+"xml_id": [
+"akoz2bz"
+],
+"obs_num": 173
+},
+{
+"obs_mean_onset": 40.489795918,
+"xml_id": [
+"j1njqdrg"
+],
+"obs_num": 174
+},
+{
+"obs_mean_onset": 40.594285714,
+"xml_id": [
+"c1flmowi",
+"lwplndi"
+],
+"obs_num": 175
+},
+{
+"obs_mean_onset": 40.69877551,
+"xml_id": [
+"m641kky"
+],
+"obs_num": 176
+},
+{
+"obs_mean_onset": 40.803265306,
+"xml_id": [
+"ek9mrmd",
+"p1pppl6h"
+],
+"obs_num": 177
+},
+{
+"obs_mean_onset": 40.907755102,
+"xml_id": [
+"r17qk1fs"
+],
+"obs_num": 178
+},
+{
+"obs_mean_onset": 40.994829932,
+"xml_id": [
+"gusbjjy",
+"s5an7vu"
+],
+"obs_num": 179
+},
+{
+"obs_mean_onset": 41.099319728,
+"xml_id": [
+"u1tfxxzk"
+],
+"obs_num": 180
+},
+{
+"obs_mean_onset": 41.203809524,
+"xml_id": [
+"h1ruobrf",
+"v1brrx96"
+],
+"obs_num": 181
+},
+{
+"obs_mean_onset": 41.30829932,
+"xml_id": [
+"xxr77z2"
+],
+"obs_num": 182
+},
+{
+"obs_mean_onset": 41.412789116,
+"xml_id": [
+"i11rijc5",
+"z1actoz"
+],
+"obs_num": 183
+},
+{
+"obs_mean_onset": 41.517278912,
+"xml_id": [
+"b1at0p49"
+],
+"obs_num": 184
+},
+{
+"obs_mean_onset": 41.621768707,
+"xml_id": [
+"k12gzlf1",
+"d1vt7ttz"
+],
+"obs_num": 185
+},
+{
+"obs_mean_onset": 41.865578231,
+"xml_id": [
+"moo5eqe"
+],
+"obs_num": 186
+},
+{
+"obs_mean_onset": 42.074557823,
+"xml_id": [
+"oyouhec"
+],
+"obs_num": 187
+},
+{
+"obs_mean_onset": 42.300952381,
+"xml_id": [
+"q1v1mkac"
+],
+"obs_num": 188
+},
+{
+"obs_mean_onset": 42.492517007,
+"xml_id": [
+"x95rd9t",
+"f17k01oc"
+],
+"obs_num": 189
+},
+{
+"obs_mean_onset": 42.718911565,
+"xml_id": [
+"z1400ny2"
+],
+"obs_num": 190
+},
+{
+"obs_mean_onset": 42.927891156,
+"xml_id": [
+"a11nv3ai"
+],
+"obs_num": 191
+},
+{
+"obs_mean_onset": 43.049795918,
+"xml_id": [
+"j75ixd2"
+],
+"obs_num": 192
+},
+{
+"obs_mean_onset": 43.154285714,
+"xml_id": [
+"cgntwu8",
+"l1thcil3"
+],
+"obs_num": 193
+},
+{
+"obs_mean_onset": 43.241360544,
+"xml_id": [
+"m1ycpuot"
+],
+"obs_num": 194
+},
+{
+"obs_mean_onset": 43.34585034,
+"xml_id": [
+"d151m3pw",
+"py8ficw"
+],
+"obs_num": 195
+},
+{
+"obs_mean_onset": 43.43292517,
+"xml_id": [
+"r80092q"
+],
+"obs_num": 196
+},
+{
+"obs_mean_onset": 43.537414966,
+"xml_id": [
+"f1axwis1",
+"sjk6svr"
+],
+"obs_num": 197
+},
+{
+"obs_mean_onset": 43.641904762,
+"xml_id": [
+"ucqzug5"
+],
+"obs_num": 198
+},
+{
+"obs_mean_onset": 43.728979592,
+"xml_id": [
+"h1kxkt8x",
+"t1wk2wbp"
+],
+"obs_num": 199
+},
+{
+"obs_mean_onset": 43.833469388,
+"xml_id": [
+"v1o2e04v"
+],
+"obs_num": 200
+},
+{
+"obs_mean_onset": 43.937959184,
+"xml_id": [
+"j1dohfrl",
+"xgtjmvg"
+],
+"obs_num": 201
+},
+{
+"obs_mean_onset": 44.04244898,
+"xml_id": [
+"z1m1fqbl"
+],
+"obs_num": 202
+},
+{
+"obs_mean_onset": 44.146938776,
+"xml_id": [
+"k1iurabb",
+"b1g2pde2"
+],
+"obs_num": 203
+},
+{
+"obs_mean_onset": 44.338503401,
+"xml_id": [
+"mpxmjmb"
+],
+"obs_num": 204
+},
+{
+"obs_mean_onset": 44.547482993,
+"xml_id": [
+"n18xf0q1",
+"d9ilpu"
+],
+"obs_num": 205
+},
+{
+"obs_mean_onset": 44.704217687,
+"xml_id": [
+"p1eh4blc"
+],
+"obs_num": 206
+},
+{
+"obs_mean_onset": 44.913197279,
+"xml_id": [
+"s1hcwh8e",
+"hxpup9p"
+],
+"obs_num": 207
+},
+{
+"obs_mean_onset": 45.226666667,
+"xml_id": [
+"tfkai7q"
+],
+"obs_num": 208
+},
+{
+"obs_mean_onset": 45.453061224,
+"xml_id": [
+"ve3lb7b"
+],
+"obs_num": 209
+},
+{
+"obs_mean_onset": 45.662040816,
+"xml_id": [
+"w1i2747r"
+],
+"obs_num": 210
+},
+{
+"obs_mean_onset": 45.836190476,
+"xml_id": [
+"xqczesj",
+"j1g6wcao"
+],
+"obs_num": 211
+},
+{
+"obs_mean_onset": 45.958095238,
+"xml_id": [
+"m196boy7"
+],
+"obs_num": 212
+},
+{
+"obs_mean_onset": 46.045170068,
+"xml_id": [
+"y1nrg5c3",
+"o16enl24"
+],
+"obs_num": 213
+},
+{
+"obs_mean_onset": 46.149659864,
+"xml_id": [
+"p1s08t66"
+],
+"obs_num": 214
+},
+{
+"obs_mean_onset": 46.271564626,
+"xml_id": [
+"w149ypu3",
+"m15riz9"
+],
+"obs_num": 215
+},
+{
+"obs_mean_onset": 46.497959184,
+"xml_id": [
+"xd0hxod"
+],
+"obs_num": 216
+},
+{
+"obs_mean_onset": 46.706938776,
+"xml_id": [
+"z11gnpe4"
+],
+"obs_num": 217
+},
+{
+"obs_mean_onset": 46.898503401,
+"xml_id": [
+"a1akfnwv"
+],
+"obs_num": 218
+},
+{
+"obs_mean_onset": 47.090068027,
+"xml_id": [
+"b1849vdf",
+"o1t61cfp"
+],
+"obs_num": 219
+},
+{
+"obs_mean_onset": 47.211972789,
+"xml_id": [
+"q1durjac"
+],
+"obs_num": 220
+},
+{
+"obs_mean_onset": 47.316462585,
+"xml_id": [
+"c1r907cg",
+"s11f768k"
+],
+"obs_num": 221
+},
+{
+"obs_mean_onset": 47.420952381,
+"xml_id": [
+"t47dga6"
+],
+"obs_num": 222
+},
+{
+"obs_mean_onset": 47.542857143,
+"xml_id": [
+"hqe6zb2",
+"ja98yel",
+"r1uoyoem"
+],
+"obs_num": 223
+},
+{
+"obs_mean_onset": 48.169795918,
+"xml_id": [
+"l189xm0p",
+"t16zfbca"
+],
+"obs_num": 224
+},
+{
+"obs_mean_onset": 48.256870748,
+"xml_id": [
+"ns7fxt3",
+"wrn6rtw"
+],
+"obs_num": 225
+},
+{
+"obs_mean_onset": 48.361360544,
+"xml_id": [
+"p14gw4oy",
+"y1u38ac6"
+],
+"obs_num": 226
+},
+{
+"obs_mean_onset": 48.448435374,
+"xml_id": [
+"qyn2iha",
+"z1wdr2b5"
+],
+"obs_num": 227
+},
+{
+"obs_mean_onset": 48.55292517,
+"xml_id": [
+"smwgfu3",
+"bcgof7m"
+],
+"obs_num": 228
+},
+{
+"obs_mean_onset": 48.657414966,
+"xml_id": [
+"t3e14q5",
+"cv9fivh"
+],
+"obs_num": 229
+},
+{
+"obs_mean_onset": 48.81414966,
+"xml_id": [
+"pgwc9xw",
+"guavdms"
+],
+"obs_num": 230
+},
+{
+"obs_mean_onset": 49.214693878,
+"xml_id": [
+"r1cppcqc",
+"iswv8qs"
+],
+"obs_num": 231
+},
+{
+"obs_mean_onset": 50.729795918,
+"xml_id": [
+"b1vx5nl6",
+"k1metne7"
+],
+"obs_num": 232
+},
+{
+"obs_mean_onset": 50.93877551,
+"xml_id": [
+"41+1/8"
+],
+"obs_num": 233
+},
+{
+"obs_mean_onset": 51.165170068,
+"xml_id": [
+"orfbwb0"
+],
+"obs_num": 234
+},
+{
+"obs_mean_onset": 51.496054422,
+"xml_id": [
+"rx1yfav"
+],
+"obs_num": 235
+},
+{
+"obs_mean_onset": 51.826938776,
+"xml_id": [
+"e3ofym0",
+"to45hjn"
+],
+"obs_num": 236
+},
+{
+"obs_mean_onset": 52.384217687,
+"xml_id": [
+"42+1/4"
+],
+"obs_num": 237
+},
+{
+"obs_mean_onset": 52.767346939,
+"xml_id": [
+"u1yfq5v7"
+],
+"obs_num": 238
+},
+{
+"obs_mean_onset": 53.028571429,
+"xml_id": [
+"vhvste0"
+],
+"obs_num": 239
+},
+{
+"obs_mean_onset": 53.463945578,
+"xml_id": [
+"k1b0octf",
+"g1kww0fq",
+"u1g0gblc"
+],
+"obs_num": 240
+},
+{
+"obs_mean_onset": 53.707755102,
+"xml_id": [
+"w69dqua"
+],
+"obs_num": 241
+},
+{
+"obs_mean_onset": 53.899319728,
+"xml_id": [
+"lyzp3ae",
+"x1jft48k",
+"a1uorpit"
+],
+"obs_num": 242
+},
+{
+"obs_mean_onset": 54.299863946,
+"xml_id": [
+"mcvpngs"
+],
+"obs_num": 243
+},
+{
+"obs_mean_onset": 54.526258503,
+"xml_id": [
+"bu8iw9y",
+"e1khx98u"
+],
+"obs_num": 244
+},
+{
+"obs_mean_onset": 54.735238095,
+"xml_id": [
+"l12jrxrw",
+"zpnlh74",
+"d1jz1wn1"
+],
+"obs_num": 245
+},
+{
+"obs_mean_onset": 55.188027211,
+"xml_id": [
+"m181rhfx"
+],
+"obs_num": 246
+},
+{
+"obs_mean_onset": 55.623401361,
+"xml_id": [
+"e15qbdnr",
+"g1kfbd4p"
+],
+"obs_num": 247
+},
+{
+"obs_mean_onset": 56.093605442,
+"xml_id": [
+"n1ayfzxn",
+"b104zf93"
+],
+"obs_num": 248
+},
+{
+"obs_mean_onset": 56.563809524,
+"xml_id": [
+"o1kfwhr4",
+"qokihvo"
+],
+"obs_num": 249
+},
+{
+"obs_mean_onset": 56.75537415,
+"xml_id": [
+"i13rqq27"
+],
+"obs_num": 250
+},
+{
+"obs_mean_onset": 56.981768707,
+"xml_id": [
+"kbecjqp"
+],
+"obs_num": 251
+},
+{
+"obs_mean_onset": 57.155918367,
+"xml_id": [
+"lul4m8q"
+],
+"obs_num": 252
+},
+{
+"obs_mean_onset": 57.399727891,
+"xml_id": [
+"poeo5ge",
+"fue64kx"
+],
+"obs_num": 253
+},
+{
+"obs_mean_onset": 57.626122449,
+"xml_id": [
+"h4ewicd"
+],
+"obs_num": 254
+},
+{
+"obs_mean_onset": 57.800272109,
+"xml_id": [
+"scr723",
+"u5oqjur",
+"i1k5drxb"
+],
+"obs_num": 255
+},
+{
+"obs_mean_onset": 58.026666667,
+"xml_id": [
+"kf1u8fs"
+],
+"obs_num": 256
+},
+{
+"obs_mean_onset": 58.218231293,
+"xml_id": [
+"l1twjxfv"
+],
+"obs_num": 257
+},
+{
+"obs_mean_onset": 58.427210884,
+"xml_id": [
+"n1fcax3x"
+],
+"obs_num": 258
+},
+{
+"obs_mean_onset": 58.636190476,
+"xml_id": [
+"s1dhzywz",
+"jhxy0h7"
+],
+"obs_num": 259
+},
+{
+"obs_mean_onset": 58.827755102,
+"xml_id": [
+"msmh1h6"
+],
+"obs_num": 260
+},
+{
+"obs_mean_onset": 59.05414966,
+"xml_id": [
+"t1nsnsg2",
+"wx99q3l",
+"n1tbn11o"
+],
+"obs_num": 261
+},
+{
+"obs_mean_onset": 59.263129252,
+"xml_id": [
+"o1tgaulf"
+],
+"obs_num": 262
+},
+{
+"obs_mean_onset": 59.524353741,
+"xml_id": [
+"x1i60wtz",
+"z1bhmnqg",
+"pmi8elc"
+],
+"obs_num": 263
+},
+{
+"obs_mean_onset": 59.715918367,
+"xml_id": [
+"q1xq333k"
+],
+"obs_num": 264
+},
+{
+"obs_mean_onset": 59.907482993,
+"xml_id": [
+"y1sgaug4",
+"av7a7q7",
+"ob6cmkz"
+],
+"obs_num": 265
+},
+{
+"obs_mean_onset": 60.133877551,
+"xml_id": [
+"qink7eo"
+],
+"obs_num": 266
+},
+{
+"obs_mean_onset": 60.325442177,
+"xml_id": [
+"s1k22uyt"
+],
+"obs_num": 267
+},
+{
+"obs_mean_onset": 60.551836735,
+"xml_id": [
+"t11tx207"
+],
+"obs_num": 268
+},
+{
+"obs_mean_onset": 60.760816327,
+"xml_id": [
+"v1svlrri"
+],
+"obs_num": 269
+},
+{
+"obs_mean_onset": 60.952380952,
+"xml_id": [
+"w2kgs5m"
+],
+"obs_num": 270
+},
+{
+"obs_mean_onset": 61.196190476,
+"xml_id": [
+"mtf5rsg",
+"skm4b8j"
+],
+"obs_num": 271
+},
+{
+"obs_mean_onset": 61.300680272,
+"xml_id": [
+"49+5/64"
+],
+"obs_num": 272
+},
+{
+"obs_mean_onset": 61.405170068,
+"xml_id": [
+"y117ov2e"
+],
+"obs_num": 273
+},
+{
+"obs_mean_onset": 61.474829932,
+"xml_id": [
+"o1ewvcew"
+],
+"obs_num": 274
+},
+{
+"obs_mean_onset": 61.596734694,
+"xml_id": [
+"r4uvth4",
+"a1g1lv31"
+],
+"obs_num": 275
+},
+{
+"obs_mean_onset": 61.718639456,
+"xml_id": [
+"s1bnaipw"
+],
+"obs_num": 276
+},
+{
+"obs_mean_onset": 61.805714286,
+"xml_id": [
+"d188ckif"
+],
+"obs_num": 277
+},
+{
+"obs_mean_onset": 61.857959184,
+"xml_id": [
+"49+13/32"
+],
+"obs_num": 278
+},
+{
+"obs_mean_onset": 61.892789116,
+"xml_id": [
+"tcwkox"
+],
+"obs_num": 279
+},
+{
+"obs_mean_onset": 62.014693878,
+"xml_id": [
+"w156adlj",
+"f72kolj"
+],
+"obs_num": 280
+},
+{
+"obs_mean_onset": 62.119183673,
+"xml_id": [
+"x1pcy3em"
+],
+"obs_num": 281
+},
+{
+"obs_mean_onset": 62.206258503,
+"xml_id": [
+"i1o43lph"
+],
+"obs_num": 282
+},
+{
+"obs_mean_onset": 62.258503401,
+"xml_id": [
+"49+21/32"
+],
+"obs_num": 283
+},
+{
+"obs_mean_onset": 62.293333333,
+"xml_id": [
+"y1yi56xx"
+],
+"obs_num": 284
+},
+{
+"obs_mean_onset": 62.415238095,
+"xml_id": [
+"h76n8mk",
+"ncihnh5"
+],
+"obs_num": 285
+},
+{
+"obs_mean_onset": 62.519727891,
+"xml_id": [
+"j13uugu7"
+],
+"obs_num": 286
+},
+{
+"obs_mean_onset": 62.606802721,
+"xml_id": [
+"qd2w7j2"
+],
+"obs_num": 287
+},
+{
+"obs_mean_onset": 62.659047619,
+"xml_id": [
+"50+5/32"
+],
+"obs_num": 288
+},
+{
+"obs_mean_onset": 62.693877551,
+"xml_id": [
+"k1tb86vi"
+],
+"obs_num": 289
+},
+{
+"obs_mean_onset": 62.815782313,
+"xml_id": [
+"nw2vrwm",
+"sb4er1v"
+],
+"obs_num": 290
+},
+{
+"obs_mean_onset": 62.937687075,
+"xml_id": [
+"oi1at53"
+],
+"obs_num": 291
+},
+{
+"obs_mean_onset": 63.007346939,
+"xml_id": [
+"v1ipiznt"
+],
+"obs_num": 292
+},
+{
+"obs_mean_onset": 63.059591837,
+"xml_id": [
+"50+13/32"
+],
+"obs_num": 293
+},
+{
+"obs_mean_onset": 63.094421769,
+"xml_id": [
+"p1l9911a"
+],
+"obs_num": 294
+},
+{
+"obs_mean_onset": 63.233741497,
+"xml_id": [
+"s154oduw",
+"x1mwcv4f"
+],
+"obs_num": 295
+},
+{
+"obs_mean_onset": 63.320816327,
+"xml_id": [
+"tffflyf"
+],
+"obs_num": 296
+},
+{
+"obs_mean_onset": 63.425306122,
+"xml_id": [
+"a1di4w9u"
+],
+"obs_num": 297
+},
+{
+"obs_mean_onset": 63.460136054,
+"xml_id": [
+"50+21/32"
+],
+"obs_num": 298
+},
+{
+"obs_mean_onset": 63.512380952,
+"xml_id": [
+"u5u1by5"
+],
+"obs_num": 299
+},
+{
+"obs_mean_onset": 63.65170068,
+"xml_id": [
+"ct05h1",
+"eb87rai",
+"kbfx460"
+],
+"obs_num": 300
+},
+{
+"obs_mean_onset": 63.860680272,
+"xml_id": [
+"m1acq34b"
+],
+"obs_num": 301
+},
+{
+"obs_mean_onset": 64.052244898,
+"xml_id": [
+"f18y984a",
+"y1f8a4ma",
+"o11qmlu7"
+],
+"obs_num": 302
+},
+{
+"obs_mean_onset": 64.26122449,
+"xml_id": [
+"q1rqlwk1"
+],
+"obs_num": 303
+},
+{
+"obs_mean_onset": 64.487619048,
+"xml_id": [
+"g13nkuqs",
+"zc4g42h",
+"s4ugyfb"
+],
+"obs_num": 304
+},
+{
+"obs_mean_onset": 64.714013605,
+"xml_id": [
+"u18rvlhh"
+],
+"obs_num": 305
+},
+{
+"obs_mean_onset": 64.957823129,
+"xml_id": [
+"d19bgh0f",
+"z1fx2zcl",
+"t1hdyzey"
+],
+"obs_num": 306
+},
+{
+"obs_mean_onset": 65.358367347,
+"xml_id": [
+"e1klp2u"
+],
+"obs_num": 307
+},
+{
+"obs_mean_onset": 65.532517007,
+"xml_id": [
+"v1xcffri"
+],
+"obs_num": 308
+},
+{
+"obs_mean_onset": 65.776326531,
+"xml_id": [
+"f1d67pek",
+"bm605am",
+"xhjmou8"
+],
+"obs_num": 309
+},
+{
+"obs_mean_onset": 66.29877551,
+"xml_id": [
+"m1l5dalj",
+"tcs4lfp"
+],
+"obs_num": 310
+},
+{
+"obs_mean_onset": 66.56,
+"xml_id": [
+"osl49c8"
+],
+"obs_num": 311
+},
+{
+"obs_mean_onset": 66.82122449,
+"xml_id": [
+"p19swvym"
+],
+"obs_num": 312
+},
+{
+"obs_mean_onset": 66.99537415,
+"xml_id": [
+"qdt245y",
+"db0b4gb"
+],
+"obs_num": 313
+},
+{
+"obs_mean_onset": 67.204353741,
+"xml_id": [
+"r18cxrr3",
+"f1le4nwn"
+],
+"obs_num": 314
+},
+{
+"obs_mean_onset": 67.378503401,
+"xml_id": [
+"sr0mkc8",
+"gb0oan2"
+],
+"obs_num": 315
+},
+{
+"obs_mean_onset": 67.587482993,
+"xml_id": [
+"u17i8tj7",
+"gljk2wr"
+],
+"obs_num": 316
+},
+{
+"obs_mean_onset": 67.796462585,
+"xml_id": [
+"xbjt81o",
+"i1phof43"
+],
+"obs_num": 317
+},
+{
+"obs_mean_onset": 67.988027211,
+"xml_id": [
+"y7qgvo3",
+"j1bc5r6w"
+],
+"obs_num": 318
+},
+{
+"obs_mean_onset": 68.231836735,
+"xml_id": [
+"ze50gb8",
+"l1m42a8i"
+],
+"obs_num": 319
+},
+{
+"obs_mean_onset": 68.423401361,
+"xml_id": [
+"axszgpf",
+"m6pvqow"
+],
+"obs_num": 320
+},
+{
+"obs_mean_onset": 68.632380952,
+"xml_id": [
+"bva6ztu",
+"oo1hg1z"
+],
+"obs_num": 321
+},
+{
+"obs_mean_onset": 68.841360544,
+"xml_id": [
+"c16ht58b",
+"sro6g3"
+],
+"obs_num": 322
+},
+{
+"obs_mean_onset": 69.03292517,
+"xml_id": [
+"umvjvnf"
+],
+"obs_num": 323
+},
+{
+"obs_mean_onset": 69.29414966,
+"xml_id": [
+"e111ply7",
+"gtc1hwt",
+"vl7a0f1"
+],
+"obs_num": 324
+},
+{
+"obs_mean_onset": 69.485714286,
+"xml_id": [
+"whbnp2c"
+],
+"obs_num": 325
+},
+{
+"obs_mean_onset": 69.677278912,
+"xml_id": [
+"ila0423",
+"kc7yvtc",
+"x1uivnyj"
+],
+"obs_num": 326
+},
+{
+"obs_mean_onset": 69.886258503,
+"xml_id": [
+"zfegx53"
+],
+"obs_num": 327
+},
+{
+"obs_mean_onset": 70.095238095,
+"xml_id": [
+"i1mjgr10",
+"k1o55r0k",
+"y18f0e6m"
+],
+"obs_num": 328
+},
+{
+"obs_mean_onset": 70.321632653,
+"xml_id": [
+"aehivqr"
+],
+"obs_num": 329
+},
+{
+"obs_mean_onset": 70.513197279,
+"xml_id": [
+"lq83qze"
+],
+"obs_num": 330
+},
+{
+"obs_mean_onset": 70.704761905,
+"xml_id": [
+"e1knucmj"
+],
+"obs_num": 331
+},
+{
+"obs_mean_onset": 70.913741497,
+"xml_id": [
+"mmm0kp2"
+],
+"obs_num": 332
+},
+{
+"obs_mean_onset": 71.105306122,
+"xml_id": [
+"g1k5tdop"
+],
+"obs_num": 333
+},
+{
+"obs_mean_onset": 71.314285714,
+"xml_id": [
+"p1wwpur3",
+"a1cd3r6y",
+"c11plqei"
+],
+"obs_num": 334
+},
+{
+"obs_mean_onset": 71.523265306,
+"xml_id": [
+"d1yzaazp",
+"f1orp9th"
+],
+"obs_num": 335
+},
+{
+"obs_mean_onset": 71.749659864,
+"xml_id": [
+"q1pbrcs4"
+],
+"obs_num": 336
+},
+{
+"obs_mean_onset": 71.94122449,
+"xml_id": [
+"h1coihof",
+"j1foo9g6"
+],
+"obs_num": 337
+},
+{
+"obs_mean_onset": 72.167619048,
+"xml_id": [
+"s11bmc9a"
+],
+"obs_num": 338
+},
+{
+"obs_mean_onset": 72.376598639,
+"xml_id": [
+"l6ol8t7",
+"n1wz7ft7"
+],
+"obs_num": 339
+},
+{
+"obs_mean_onset": 72.568163265,
+"xml_id": [
+"z844pv0",
+"g1ywwof8",
+"jtz1oam"
+],
+"obs_num": 340
+},
+{
+"obs_mean_onset": 72.759727891,
+"xml_id": [
+"kuu2lab",
+"noyauwm"
+],
+"obs_num": 341
+},
+{
+"obs_mean_onset": 72.986122449,
+"xml_id": [
+"a691pqv"
+],
+"obs_num": 342
+},
+{
+"obs_mean_onset": 73.195102041,
+"xml_id": [
+"pzyyqjt",
+"s1ssp0ep"
+],
+"obs_num": 343
+},
+{
+"obs_mean_onset": 73.404081633,
+"xml_id": [
+"c1v3s1ie"
+],
+"obs_num": 344
+},
+{
+"obs_mean_onset": 73.595646259,
+"xml_id": [
+"u1wt5afy",
+"x1o1d27r"
+],
+"obs_num": 345
+},
+{
+"obs_mean_onset": 73.80462585,
+"xml_id": [
+"ffujeuw",
+"q86i4hs",
+"s1ku53c1"
+],
+"obs_num": 346
+},
+{
+"obs_mean_onset": 74.031020408,
+"xml_id": [
+"tylr35f",
+"v1cv4qp1"
+],
+"obs_num": 347
+},
+{
+"obs_mean_onset": 74.257414966,
+"xml_id": [
+"g15wtgwk"
+],
+"obs_num": 348
+},
+{
+"obs_mean_onset": 74.466394558,
+"xml_id": [
+"x1utg8ys",
+"z16bdhjc"
+],
+"obs_num": 349
+},
+{
+"obs_mean_onset": 74.67537415,
+"xml_id": [
+"i1y9tzcf"
+],
+"obs_num": 350
+},
+{
+"obs_mean_onset": 74.866938776,
+"xml_id": [
+"bwol0vm",
+"dfpjzh8"
+],
+"obs_num": 351
+},
+{
+"obs_mean_onset": 75.075918367,
+"xml_id": [
+"unnk2fw",
+"w1b78nq7",
+"z1jqk3wx",
+"chtofdb"
+],
+"obs_num": 352
+},
+{
+"obs_mean_onset": 75.302312925,
+"xml_id": [
+"d19tfd14",
+"g19tf5ko"
+],
+"obs_num": 353
+},
+{
+"obs_mean_onset": 75.528707483,
+"xml_id": [
+"xdkhll5"
+],
+"obs_num": 354
+},
+{
+"obs_mean_onset": 75.720272109,
+"xml_id": [
+"k88bwfn",
+"n1aj9w7g"
+],
+"obs_num": 355
+},
+{
+"obs_mean_onset": 75.929251701,
+"xml_id": [
+"z1nyev2x"
+],
+"obs_num": 356
+},
+{
+"obs_mean_onset": 76.138231293,
+"xml_id": [
+"pgrhy3i",
+"s1mj1k3h"
+],
+"obs_num": 357
+},
+{
+"obs_mean_onset": 76.329795918,
+"xml_id": [
+"ouiv960",
+"qza3ea1",
+"p9qx61n",
+"si6g7c5"
+],
+"obs_num": 358
+},
+{
+"obs_mean_onset": 76.53877551,
+"xml_id": [
+"uwfm864",
+"xg2t70t"
+],
+"obs_num": 359
+},
+{
+"obs_mean_onset": 76.782585034,
+"xml_id": [
+"r1n7otn2"
+],
+"obs_num": 360
+},
+{
+"obs_mean_onset": 76.97414966,
+"xml_id": [
+"c7zylga",
+"fb2j2pp"
+],
+"obs_num": 361
+},
+{
+"obs_mean_onset": 77.183129252,
+"xml_id": [
+"t1smnqoh"
+],
+"obs_num": 362
+},
+{
+"obs_mean_onset": 77.374693878,
+"xml_id": [
+"iq4dhar",
+"lkygckk"
+],
+"obs_num": 363
+},
+{
+"obs_mean_onset": 77.583673469,
+"xml_id": [
+"e16v64z2",
+"h14g8ad9",
+"j11yeaey",
+"l1qwlvlt"
+],
+"obs_num": 364
+},
+{
+"obs_mean_onset": 77.810068027,
+"xml_id": [
+"nesu1z9",
+"p1szmxwp"
+],
+"obs_num": 365
+},
+{
+"obs_mean_onset": 78.053877551,
+"xml_id": [
+"j13ahche"
+],
+"obs_num": 366
+},
+{
+"obs_mean_onset": 78.245442177,
+"xml_id": [
+"uyxm9kr",
+"w1qdifb6"
+],
+"obs_num": 367
+},
+{
+"obs_mean_onset": 78.454421769,
+"xml_id": [
+"k7qfmg"
+],
+"obs_num": 368
+},
+{
+"obs_mean_onset": 78.645986395,
+"xml_id": [
+"z1626hyt",
+"bd0l9jp"
+],
+"obs_num": 369
+},
+{
+"obs_mean_onset": 78.854965986,
+"xml_id": [
+"r9inf6c",
+"u1r9fuuw",
+"a5lriaa",
+"c10nb4yn"
+],
+"obs_num": 370
+},
+{
+"obs_mean_onset": 79.081360544,
+"xml_id": [
+"d1kf84c2",
+"fj1t5tj"
+],
+"obs_num": 371
+},
+{
+"obs_mean_onset": 79.290340136,
+"xml_id": [
+"w1o6ll8x"
+],
+"obs_num": 372
+},
+{
+"obs_mean_onset": 79.516734694,
+"xml_id": [
+"juc4cnh",
+"l1m5c1sk"
+],
+"obs_num": 373
+},
+{
+"obs_mean_onset": 79.70829932,
+"xml_id": [
+"x1f88mq7"
+],
+"obs_num": 374
+},
+{
+"obs_mean_onset": 79.899863946,
+"xml_id": [
+"n1c8uc7e",
+"pfpb3f1"
+],
+"obs_num": 375
+},
+{
+"obs_mean_onset": 80.108843537,
+"xml_id": [
+"k1hwz8m8",
+"n3wpg5l",
+"o9c5yp8",
+"qr9abdy"
+],
+"obs_num": 376
+},
+{
+"obs_mean_onset": 80.335238095,
+"xml_id": [
+"r4l43xa",
+"t1wyqorl"
+],
+"obs_num": 377
+},
+{
+"obs_mean_onset": 80.579047619,
+"xml_id": [
+"pa87jgc"
+],
+"obs_num": 378
+},
+{
+"obs_mean_onset": 80.753197279,
+"xml_id": [
+"xtn31qx",
+"z1ilbc7m"
+],
+"obs_num": 379
+},
+{
+"obs_mean_onset": 80.962176871,
+"xml_id": [
+"r18g8ufq",
+"t1hy6nhs",
+"d1w6p7g5",
+"f1xa9fjv"
+],
+"obs_num": 380
+},
+{
+"obs_mean_onset": 81.171156463,
+"xml_id": [
+"goutdc4",
+"ihvlr9p"
+],
+"obs_num": 381
+},
+{
+"obs_mean_onset": 81.39755102,
+"xml_id": [
+"e3d667b"
+],
+"obs_num": 382
+},
+{
+"obs_mean_onset": 81.57170068,
+"xml_id": [
+"kkfa0cd",
+"m1h578t8"
+],
+"obs_num": 383
+},
+{
+"obs_mean_onset": 81.798095238,
+"xml_id": [
+"fgtkrlr",
+"h6fzb7k",
+"qdngoxa",
+"t18vqdo2"
+],
+"obs_num": 384
+},
+{
+"obs_mean_onset": 82.00707483,
+"xml_id": [
+"u1vb6gwb",
+"w1v876g8"
+],
+"obs_num": 385
+},
+{
+"obs_mean_onset": 82.250884354,
+"xml_id": [
+"i1u6sdtu"
+],
+"obs_num": 386
+},
+{
+"obs_mean_onset": 82.459863946,
+"xml_id": [
+"a188u0xx",
+"cxddnk5"
+],
+"obs_num": 387
+},
+{
+"obs_mean_onset": 82.686258503,
+"xml_id": [
+"l1lgf1jc"
+],
+"obs_num": 388
+},
+{
+"obs_mean_onset": 82.877823129,
+"xml_id": [
+"w12qu0yl",
+"y1d3y5se"
+],
+"obs_num": 389
+},
+{
+"obs_mean_onset": 83.069387755,
+"xml_id": [
+"oc6imys"
+],
+"obs_num": 390
+},
+{
+"obs_mean_onset": 83.278367347,
+"xml_id": [
+"b5waw7t",
+"d29ou7b"
+],
+"obs_num": 391
+},
+{
+"obs_mean_onset": 83.487346939,
+"xml_id": [
+"pok8mpb"
+],
+"obs_num": 392
+},
+{
+"obs_mean_onset": 83.713741497,
+"xml_id": [
+"g1x9sjym",
+"i1dtdkql"
+],
+"obs_num": 393
+},
+{
+"obs_mean_onset": 83.922721088,
+"xml_id": [
+"cgv6q1g",
+"e1i4jc8m",
+"hrsxeqg"
+],
+"obs_num": 394
+},
+{
+"obs_mean_onset": 84.13170068,
+"xml_id": [
+"ivmqjq3",
+"m16favks"
+],
+"obs_num": 395
+},
+{
+"obs_mean_onset": 84.358095238,
+"xml_id": [
+"nmu9czx",
+"pj7q6jt"
+],
+"obs_num": 396
+},
+{
+"obs_mean_onset": 84.56707483,
+"xml_id": [
+"qt576fb",
+"srklo3g"
+],
+"obs_num": 397
+},
+{
+"obs_mean_onset": 84.776054422,
+"xml_id": [
+"uiu9r35",
+"w1rzbwjh"
+],
+"obs_num": 398
+},
+{
+"obs_mean_onset": 84.985034014,
+"xml_id": [
+"fjne58u",
+"xgum2xk",
+"z1qigw8d"
+],
+"obs_num": 399
+},
+{
+"obs_mean_onset": 85.194013605,
+"xml_id": [
+"ske8ejq",
+"vpkxffz",
+"y1i0l0yv"
+],
+"obs_num": 400
+},
+{
+"obs_mean_onset": 85.385578231,
+"xml_id": [
+"zvy7gwk",
+"clxlywl"
+],
+"obs_num": 401
+},
+{
+"obs_mean_onset": 85.611972789,
+"xml_id": [
+"d1p8uezg",
+"fkdyinf"
+],
+"obs_num": 402
+},
+{
+"obs_mean_onset": 85.820952381,
+"xml_id": [
+"g10e78s2",
+"i1f4gz5t"
+],
+"obs_num": 403
+},
+{
+"obs_mean_onset": 85.995102041,
+"xml_id": [
+"k5jw7ub",
+"m6xcu7s"
+],
+"obs_num": 404
+},
+{
+"obs_mean_onset": 86.221496599,
+"xml_id": [
+"v1uqn5vu",
+"n19dlti9",
+"p4odiwz"
+],
+"obs_num": 405
+},
+{
+"obs_mean_onset": 86.447891156,
+"xml_id": [
+"j10bov0a",
+"l1isx8ku",
+"oegoces"
+],
+"obs_num": 406
+},
+{
+"obs_mean_onset": 86.639455782,
+"xml_id": [
+"k1czways",
+"p1ulzsyy",
+"r11hmrjl"
+],
+"obs_num": 407
+},
+{
+"obs_mean_onset": 86.86585034,
+"xml_id": [
+"m13edq7m",
+"tl1to08",
+"v8sp9eo"
+],
+"obs_num": 408
+},
+{
+"obs_mean_onset": 87.074829932,
+"xml_id": [
+"nliki7p",
+"w1ey3wh1",
+"y19xud2x"
+],
+"obs_num": 409
+},
+{
+"obs_mean_onset": 87.283809524,
+"xml_id": [
+"pd1z2mr",
+"a5kz1xj",
+"cvkt1xg"
+],
+"obs_num": 410
+},
+{
+"obs_mean_onset": 87.47537415,
+"xml_id": [
+"qij73df",
+"d1ted7je",
+"fb2buyd"
+],
+"obs_num": 411
+},
+{
+"obs_mean_onset": 87.701768707,
+"xml_id": [
+"j6l2uwo",
+"g1seowff",
+"k1a3ootx"
+],
+"obs_num": 412
+},
+{
+"obs_mean_onset": 87.893333333,
+"xml_id": [
+"lbh0hps",
+"o15ibta8"
+],
+"obs_num": 413
+},
+{
+"obs_mean_onset": 88.119727891,
+"xml_id": [
+"q1oui9xe",
+"s9xhj08"
+],
+"obs_num": 414
+},
+{
+"obs_mean_onset": 88.311292517,
+"xml_id": [
+"t1hgcj10",
+"w19zw27m"
+],
+"obs_num": 415
+},
+{
+"obs_mean_onset": 88.520272109,
+"xml_id": [
+"y1o4i3i4",
+"ahw39l3"
+],
+"obs_num": 416
+},
+{
+"obs_mean_onset": 88.746666667,
+"xml_id": [
+"cqq39j1",
+"ewtyuqf"
+],
+"obs_num": 417
+},
+{
+"obs_mean_onset": 88.938231293,
+"xml_id": [
+"ta4wctw",
+"d1xyktad",
+"f17bw5e4"
+],
+"obs_num": 418
+},
+{
+"obs_mean_onset": 89.373605442,
+"xml_id": [
+"u1o4mbwg",
+"g15ue6lb",
+"jyo4l0c",
+"k1dsthlg"
+],
+"obs_num": 419
+},
+{
+"obs_mean_onset": 89.826394558,
+"xml_id": [
+"veuagkx",
+"l125xlfa",
+"niqgnwm",
+"obnxv4d"
+],
+"obs_num": 420
+},
+{
+"obs_mean_onset": 90.348843537,
+"xml_id": [
+"s1i2o7i2",
+"qvg78ya",
+"itan9qx",
+"lybmvsh"
+],
+"obs_num": 421
+},
+{
+"obs_mean_onset": 91.237006803,
+"xml_id": [
+"u1j0bqve",
+"momfv0a",
+"o1q7w0nd"
+],
+"obs_num": 422
+},
+{
+"obs_mean_onset": 91.672380952,
+"xml_id": [
+"y13r62rm",
+"n1ndve94",
+"q6rdnbv",
+"hsh16ou"
+],
+"obs_num": 423
+},
+{
+"obs_mean_onset": 92.212244898,
+"xml_id": [
+"z16jsob5",
+"r1aaz5oc",
+"tn0tznk",
+"i1nfcdwq"
+],
+"obs_num": 424
+},
+{
+"obs_mean_onset": 92.630204082,
+"xml_id": [
+"aamrwpi",
+"u1tvn086",
+"wjlq8cw",
+"j15m8wvv"
+],
+"obs_num": 425
+},
+{
+"obs_mean_onset": 93.065578231,
+"xml_id": [
+"agkk4at",
+"n15xn5em",
+"rt6oadu",
+"s1ql3ihh"
+],
+"obs_num": 426
+},
+{
+"obs_mean_onset": 93.814421769,
+"xml_id": [
+"c1ejijrv",
+"tdu4m25",
+"v1br7ok8"
+],
+"obs_num": 427
+},
+{
+"obs_mean_onset": 94.214965986,
+"xml_id": [
+"iufjh2w",
+"qo4f8cq",
+"t10zb95y"
+],
+"obs_num": 428
+},
+{
+"obs_mean_onset": 94.406530612,
+"xml_id": [
+"u1tyz511",
+"w1uwc3uw"
+],
+"obs_num": 429
+},
+{
+"obs_mean_onset": 94.615510204,
+"xml_id": [
+"je735h6",
+"xyl5n7w",
+"z1qu1zzb"
+],
+"obs_num": 430
+},
+{
+"obs_mean_onset": 95.016054422,
+"xml_id": [
+"k1c0n15",
+"a1tg61lg",
+"d5j5gz4"
+],
+"obs_num": 431
+},
+{
+"obs_mean_onset": 95.416598639,
+"xml_id": [
+"p1emz44s",
+"ypt9jlb",
+"a1tocl2b"
+],
+"obs_num": 432
+},
+{
+"obs_mean_onset": 95.660408163,
+"xml_id": [
+"b14ty9sq"
+],
+"obs_num": 433
+},
+{
+"obs_mean_onset": 95.869387755,
+"xml_id": [
+"d1pcj31u"
+],
+"obs_num": 434
+},
+{
+"obs_mean_onset": 96.043537415,
+"xml_id": [
+"f1iw90fg"
+],
+"obs_num": 435
+},
+{
+"obs_mean_onset": 96.217687075,
+"xml_id": [
+"hv8obkr"
+],
+"obs_num": 436
+},
+{
+"obs_mean_onset": 96.409251701,
+"xml_id": [
+"j1sw19f"
+],
+"obs_num": 437
+},
+{
+"obs_mean_onset": 96.635646259,
+"xml_id": [
+"p1uxyh18",
+"rgw48uh",
+"fk2ev04"
+],
+"obs_num": 438
+},
+{
+"obs_mean_onset": 97.071020408,
+"xml_id": [
+"saxdyb4",
+"u1u3nwj",
+"h1nfinse"
+],
+"obs_num": 439
+},
+{
+"obs_mean_onset": 97.523809524,
+"xml_id": [
+"v1ixujt6",
+"xjuz5ah",
+"jpxrye4"
+],
+"obs_num": 440
+},
+{
+"obs_mean_onset": 98.011428571,
+"xml_id": [
+"c16vvtkb",
+"yiyp95a",
+"n19xn0s7"
+],
+"obs_num": 441
+},
+{
+"obs_mean_onset": 98.638367347,
+"xml_id": [
+"q3igg2f"
+],
+"obs_num": 442
+},
+{
+"obs_mean_onset": 98.742857143,
+"xml_id": [
+"s1vwk9kh"
+],
+"obs_num": 443
+},
+{
+"obs_mean_onset": 98.899591837,
+"xml_id": [
+"aejeybj",
+"toj0759"
+],
+"obs_num": 444
+},
+{
+"obs_mean_onset": 99.31755102,
+"xml_id": [
+"e1chz2q9",
+"a1upbjfj",
+"v1jel8e8",
+"r785i39"
+],
+"obs_num": 445
+},
+{
+"obs_mean_onset": 99.718095238,
+"xml_id": [
+"fuqk5ay",
+"b17s1b6g",
+"x85g2fk",
+"s6z7kqv"
+],
+"obs_num": 446
+},
+{
+"obs_mean_onset": 100.170884354,
+"xml_id": [
+"gxjxbl4",
+"c17tegqs",
+"y1ne2oju",
+"tf0qadh"
+],
+"obs_num": 447
+},
+{
+"obs_mean_onset": 100.658503401,
+"xml_id": [
+"g1aipqn1",
+"ccstmn",
+"x14y5or3",
+"tyeu1pb"
+],
+"obs_num": 448
+},
+{
+"obs_mean_onset": 101.442176871,
+"xml_id": [
+"ir4ud88",
+"embedcc",
+"a1dwbrg9",
+"v9675et"
+],
+"obs_num": 449
+},
+{
+"obs_mean_onset": 101.87755102,
+"xml_id": [
+"o1uqwv8n",
+"w1vcei50",
+"zr7jrhq"
+],
+"obs_num": 450
+},
+{
+"obs_mean_onset": 102.069115646,
+"xml_id": [
+"a7uiyyc",
+"c1gyp9rl"
+],
+"obs_num": 451
+},
+{
+"obs_mean_onset": 102.260680272,
+"xml_id": [
+"p1emb23b",
+"dvorwo2",
+"f1bqab56"
+],
+"obs_num": 452
+},
+{
+"obs_mean_onset": 102.678639456,
+"xml_id": [
+"q1h8cchq",
+"gvkje4o",
+"j12bs7gq"
+],
+"obs_num": 453
+},
+{
+"obs_mean_onset": 103.096598639,
+"xml_id": [
+"f2apxhu",
+"hy03fup",
+"jwylryx",
+"m1i2dlj3"
+],
+"obs_num": 454
+},
+{
+"obs_mean_onset": 103.340408163,
+"xml_id": [
+"nde1hix",
+"q132tiq5"
+],
+"obs_num": 455
+},
+{
+"obs_mean_onset": 103.531972789,
+"xml_id": [
+"j17how8c"
+],
+"obs_num": 456
+},
+{
+"obs_mean_onset": 103.706122449,
+"xml_id": [
+"u15jzdfj",
+"wyj6bry"
+],
+"obs_num": 457
+},
+{
+"obs_mean_onset": 103.915102041,
+"xml_id": [
+"m1r4viea"
+],
+"obs_num": 458
+},
+{
+"obs_mean_onset": 104.106666667,
+"xml_id": [
+"yqigitg",
+"ac1zynt"
+],
+"obs_num": 459
+},
+{
+"obs_mean_onset": 104.315646259,
+"xml_id": [
+"u1d8yn8p"
+],
+"obs_num": 460
+},
+{
+"obs_mean_onset": 104.52462585,
+"xml_id": [
+"eq8lpsl",
+"gckbj22"
+],
+"obs_num": 461
+},
+{
+"obs_mean_onset": 104.716190476,
+"xml_id": [
+"w17ne1lt"
+],
+"obs_num": 462
+},
+{
+"obs_mean_onset": 104.925170068,
+"xml_id": [
+"i1ehr6s6",
+"k1655hzi"
+],
+"obs_num": 463
+},
+{
+"obs_mean_onset": 105.13414966,
+"xml_id": [
+"zyftk0n"
+],
+"obs_num": 464
+},
+{
+"obs_mean_onset": 105.325714286,
+"xml_id": [
+"m19yaw3y",
+"ob8rbdg"
+],
+"obs_num": 465
+},
+{
+"obs_mean_onset": 105.517278912,
+"xml_id": [
+"j134210i",
+"l1ai52dv"
+],
+"obs_num": 466
+},
+{
+"obs_mean_onset": 105.639183673,
+"xml_id": [
+"vxov2of"
+],
+"obs_num": 467
+},
+{
+"obs_mean_onset": 105.743673469,
+"xml_id": [
+"wroxi6x"
+],
+"obs_num": 468
+},
+{
+"obs_mean_onset": 105.865578231,
+"xml_id": [
+"xuw2srq"
+],
+"obs_num": 469
+},
+{
+"obs_mean_onset": 105.970068027,
+"xml_id": [
+"mxssmzz",
+"p14yi92c"
+],
+"obs_num": 470
+},
+{
+"obs_mean_onset": 106.057142857,
+"xml_id": [
+"a1kt9yk0"
+],
+"obs_num": 471
+},
+{
+"obs_mean_onset": 106.161632653,
+"xml_id": [
+"bplnn4e"
+],
+"obs_num": 472
+},
+{
+"obs_mean_onset": 106.266122449,
+"xml_id": [
+"ck2n090"
+],
+"obs_num": 473
+},
+{
+"obs_mean_onset": 106.370612245,
+"xml_id": [
+"r19kn9mq",
+"t1hftaaj"
+],
+"obs_num": 474
+},
+{
+"obs_mean_onset": 106.457687075,
+"xml_id": [
+"fnerej7"
+],
+"obs_num": 475
+},
+{
+"obs_mean_onset": 106.579591837,
+"xml_id": [
+"gfcumem"
+],
+"obs_num": 476
+},
+{
+"obs_mean_onset": 106.666666667,
+"xml_id": [
+"h1fixoii"
+],
+"obs_num": 477
+},
+{
+"obs_mean_onset": 106.788571429,
+"xml_id": [
+"x100lt3b",
+"zlfjqdf"
+],
+"obs_num": 478
+},
+{
+"obs_mean_onset": 106.875646259,
+"xml_id": [
+"i1el3qtk"
+],
+"obs_num": 479
+},
+{
+"obs_mean_onset": 106.99755102,
+"xml_id": [
+"j1p6y5gr"
+],
+"obs_num": 480
+},
+{
+"obs_mean_onset": 107.102040816,
+"xml_id": [
+"kmdzr7j"
+],
+"obs_num": 481
+},
+{
+"obs_mean_onset": 107.223945578,
+"xml_id": [
+"a14rudi2",
+"d11kwr4a"
+],
+"obs_num": 482
+},
+{
+"obs_mean_onset": 107.311020408,
+"xml_id": [
+"n1kaimqb"
+],
+"obs_num": 483
+},
+{
+"obs_mean_onset": 107.415510204,
+"xml_id": [
+"oqqsu12"
+],
+"obs_num": 484
+},
+{
+"obs_mean_onset": 107.554829932,
+"xml_id": [
+"p1qzn5o5"
+],
+"obs_num": 485
+},
+{
+"obs_mean_onset": 107.659319728,
+"xml_id": [
+"fhck538",
+"htb1h38"
+],
+"obs_num": 486
+},
+{
+"obs_mean_onset": 107.763809524,
+"xml_id": [
+"s185ynkv"
+],
+"obs_num": 487
+},
+{
+"obs_mean_onset": 107.850884354,
+"xml_id": [
+"tww2bxf"
+],
+"obs_num": 488
+},
+{
+"obs_mean_onset": 107.937959184,
+"xml_id": [
+"vhgzvav"
+],
+"obs_num": 489
+},
+{
+"obs_mean_onset": 108.059863946,
+"xml_id": [
+"g1vy3uzi",
+"u1xd2pjw",
+"wx9w0sf",
+"xgtc67v"
+],
+"obs_num": 490
+},
+{
+"obs_mean_onset": 108.12952381,
+"xml_id": [
+"h1tbngww"
+],
+"obs_num": 491
+},
+{
+"obs_mean_onset": 108.234013605,
+"xml_id": [
+"i16nxsp1"
+],
+"obs_num": 492
+},
+{
+"obs_mean_onset": 108.338503401,
+"xml_id": [
+"j1ilqn7o"
+],
+"obs_num": 493
+},
+{
+"obs_mean_onset": 108.512653061,
+"xml_id": [
+"l3xgubk"
+],
+"obs_num": 494
+},
+{
+"obs_mean_onset": 108.617142857,
+"xml_id": [
+"m8v21cg"
+],
+"obs_num": 495
+},
+{
+"obs_mean_onset": 108.721632653,
+"xml_id": [
+"nsgc32j"
+],
+"obs_num": 496
+},
+{
+"obs_mean_onset": 108.808707483,
+"xml_id": [
+"oyiw4s"
+],
+"obs_num": 497
+},
+{
+"obs_mean_onset": 108.913197279,
+"xml_id": [
+"q49p5fv",
+"agcqhca"
+],
+"obs_num": 498
+},
+{
+"obs_mean_onset": 109.017687075,
+"xml_id": [
+"r1ce55rt"
+],
+"obs_num": 499
+},
+{
+"obs_mean_onset": 109.087346939,
+"xml_id": [
+"srsh4b3"
+],
+"obs_num": 500
+},
+{
+"obs_mean_onset": 109.191836735,
+"xml_id": [
+"t6cf84h",
+"ciret62"
+],
+"obs_num": 501
+},
+{
+"obs_mean_onset": 109.244081633,
+"xml_id": [
+"dyftmn3"
+],
+"obs_num": 502
+},
+{
+"obs_mean_onset": 109.313741497,
+"xml_id": [
+"q14lm5gs",
+"haqoxh"
+],
+"obs_num": 503
+},
+{
+"obs_mean_onset": 109.435646259,
+"xml_id": [
+"rsbqh30"
+],
+"obs_num": 504
+},
+{
+"obs_mean_onset": 109.522721088,
+"xml_id": [
+"s1nvd16i"
+],
+"obs_num": 505
+},
+{
+"obs_mean_onset": 109.627210884,
+"xml_id": [
+"t1r3xu3k"
+],
+"obs_num": 506
+},
+{
+"obs_mean_onset": 109.714285714,
+"xml_id": [
+"vv5y7n5"
+],
+"obs_num": 507
+},
+{
+"obs_mean_onset": 109.81877551,
+"xml_id": [
+"wmsxcab"
+],
+"obs_num": 508
+},
+{
+"obs_mean_onset": 109.940680272,
+"xml_id": [
+"xi7d1ug"
+],
+"obs_num": 509
+},
+{
+"obs_mean_onset": 109.99292517,
+"xml_id": [
+"y1dkxir7"
+],
+"obs_num": 510
+},
+{
+"obs_mean_onset": 110.114829932,
+"xml_id": [
+"a17gb6d",
+"j18ftah4"
+],
+"obs_num": 511
+},
+{
+"obs_mean_onset": 110.219319728,
+"xml_id": [
+"b1yo2aed"
+],
+"obs_num": 512
+},
+{
+"obs_mean_onset": 110.323809524,
+"xml_id": [
+"c1hriae7"
+],
+"obs_num": 513
+},
+{
+"obs_mean_onset": 110.42829932,
+"xml_id": [
+"d19cca7r",
+"m1at2feb"
+],
+"obs_num": 514
+},
+{
+"obs_mean_onset": 110.480544218,
+"xml_id": [
+"nxvlwm3"
+],
+"obs_num": 515
+},
+{
+"obs_mean_onset": 110.550204082,
+"xml_id": [
+"ybu3sdt",
+"qfa984c"
+],
+"obs_num": 516
+},
+{
+"obs_mean_onset": 110.672108844,
+"xml_id": [
+"zoslvx"
+],
+"obs_num": 517
+},
+{
+"obs_mean_onset": 110.759183673,
+"xml_id": [
+"ap6gten"
+],
+"obs_num": 518
+},
+{
+"obs_mean_onset": 110.863673469,
+"xml_id": [
+"bomqnht"
+],
+"obs_num": 519
+},
+{
+"obs_mean_onset": 110.950748299,
+"xml_id": [
+"dt5qmj3"
+],
+"obs_num": 520
+},
+{
+"obs_mean_onset": 111.055238095,
+"xml_id": [
+"e1hlykfd"
+],
+"obs_num": 521
+},
+{
+"obs_mean_onset": 111.142312925,
+"xml_id": [
+"f1d4rq3l"
+],
+"obs_num": 522
+},
+{
+"obs_mean_onset": 111.229387755,
+"xml_id": [
+"gdiju9p"
+],
+"obs_num": 523
+},
+{
+"obs_mean_onset": 111.333877551,
+"xml_id": [
+"i1hvygy1",
+"s1itb0p"
+],
+"obs_num": 524
+},
+{
+"obs_mean_onset": 111.438367347,
+"xml_id": [
+"j1410qw3"
+],
+"obs_num": 525
+},
+{
+"obs_mean_onset": 111.525442177,
+"xml_id": [
+"kqs7hu0"
+],
+"obs_num": 526
+},
+{
+"obs_mean_onset": 111.629931973,
+"xml_id": [
+"l185sx79",
+"ug06o5z"
+],
+"obs_num": 527
+},
+{
+"obs_mean_onset": 111.682176871,
+"xml_id": [
+"v1s25hif"
+],
+"obs_num": 528
+},
+{
+"obs_mean_onset": 111.769251701,
+"xml_id": [
+"i1mz7oej",
+"y1gzbcwb"
+],
+"obs_num": 529
+},
+{
+"obs_mean_onset": 111.856326531,
+"xml_id": [
+"j15z6ykm"
+],
+"obs_num": 530
+},
+{
+"obs_mean_onset": 111.995646259,
+"xml_id": [
+"k1vpxlgq"
+],
+"obs_num": 531
+},
+{
+"obs_mean_onset": 112.11755102,
+"xml_id": [
+"le26apx"
+],
+"obs_num": 532
+},
+{
+"obs_mean_onset": 112.187210884,
+"xml_id": [
+"n1m6t16x",
+"z1qq5ybc"
+],
+"obs_num": 533
+},
+{
+"obs_mean_onset": 112.29170068,
+"xml_id": [
+"o1avgjae"
+],
+"obs_num": 534
+},
+{
+"obs_mean_onset": 112.448435374,
+"xml_id": [
+"p19gqlhd"
+],
+"obs_num": 535
+},
+{
+"obs_mean_onset": 112.55292517,
+"xml_id": [
+"qehyg30"
+],
+"obs_num": 536
+},
+{
+"obs_mean_onset": 112.622585034,
+"xml_id": [
+"s1bdsqzm",
+"bzf89a9"
+],
+"obs_num": 537
+},
+{
+"obs_mean_onset": 112.709659864,
+"xml_id": [
+"tnf011j"
+],
+"obs_num": 538
+},
+{
+"obs_mean_onset": 112.81414966,
+"xml_id": [
+"uhjbzbl"
+],
+"obs_num": 539
+},
+{
+"obs_mean_onset": 112.918639456,
+"xml_id": [
+"vhjlr7k",
+"e16j4c71"
+],
+"obs_num": 540
+},
+{
+"obs_mean_onset": 112.970884354,
+"xml_id": [
+"f18636gr"
+],
+"obs_num": 541
+},
+{
+"obs_mean_onset": 113.023129252,
+"xml_id": [
+"p144743z",
+"r1eq2lo5",
+"s1vjauvp",
+"t11dwsys",
+"icm1wbh"
+],
+"obs_num": 542
+},
+{
+"obs_mean_onset": 113.597823129,
+"xml_id": [
+"u1qemsav",
+"w11q6f5g",
+"l16vl1lt"
+],
+"obs_num": 543
+},
+{
+"obs_mean_onset": 114.189931973,
+"xml_id": [
+"x1eaasw3",
+"a1bcm8gm",
+"miy1qye"
+],
+"obs_num": 544
+},
+{
+"obs_mean_onset": 114.381496599,
+"xml_id": [
+"y13vigvc",
+"a1lj9a71",
+"p1k9ewad"
+],
+"obs_num": 545
+},
+{
+"obs_mean_onset": 114.869115646,
+"xml_id": [
+"bv1vm4r",
+"d1l6ubke",
+"s1k5u4pn"
+],
+"obs_num": 546
+},
+{
+"obs_mean_onset": 115.54829932,
+"xml_id": [
+"eem1cfq",
+"t11s878k"
+],
+"obs_num": 547
+},
+{
+"obs_mean_onset": 115.792108844,
+"xml_id": [
+"iketxsp",
+"s1gh971s"
+],
+"obs_num": 548
+},
+{
+"obs_mean_onset": 116.018503401,
+"xml_id": [
+"k1ulfmo8",
+"u1op34yv"
+],
+"obs_num": 549
+},
+{
+"obs_mean_onset": 116.105578231,
+"xml_id": [
+"lf2us49",
+"v4p5jug"
+],
+"obs_num": 550
+},
+{
+"obs_mean_onset": 116.175238095,
+"xml_id": [
+"m13e6zmb",
+"we88ha3"
+],
+"obs_num": 551
+},
+{
+"obs_mean_onset": 116.575782313,
+"xml_id": [
+"o1jxbfy7",
+"q16to7ef",
+"yqwyfif",
+"a1fn2iyv",
+"b1gigvds"
+],
+"obs_num": 552
+},
+{
+"obs_mean_onset": 117.028571429,
+"xml_id": [
+"n1y82hrx",
+"pomqh9p",
+"dwwrnup",
+"fm17j1k",
+"go748qz"
+],
+"obs_num": 553
+},
+{
+"obs_mean_onset": 117.603265306,
+"xml_id": [
+"qu3nnj",
+"s1c9kra9",
+"h1ixdxw0"
+],
+"obs_num": 554
+},
+{
+"obs_mean_onset": 118.961632653,
+"xml_id": [
+"i1m0l7ns",
+"n42jfwh"
+],
+"obs_num": 555
+},
+{
+"obs_mean_onset": 119.414421769,
+"xml_id": [
+"q17g0035",
+"k1yrb36y"
+],
+"obs_num": 556
+},
+{
+"obs_mean_onset": 119.88462585,
+"xml_id": [
+"s13z6mvd",
+"lie1idu"
+],
+"obs_num": 557
+},
+{
+"obs_mean_onset": 120.459319728,
+"xml_id": [
+"ucnk6mq",
+"sks0b50",
+"jmj401",
+"m1rsi1o2"
+],
+"obs_num": 558
+},
+{
+"obs_mean_onset": 121.312653061,
+"xml_id": [
+"n1ijctud",
+"q1y6kmmr"
+],
+"obs_num": 559
+},
+{
+"obs_mean_onset": 121.765442177,
+"xml_id": [
+"h16dilef"
+],
+"obs_num": 560
+},
+{
+"obs_mean_onset": 122.131156463,
+"xml_id": [
+"qbjrags",
+"n1yqnq5f",
+"j18ul3ow"
+],
+"obs_num": 561
+},
+{
+"obs_mean_onset": 122.601360544,
+"xml_id": [
+"s1khc4na",
+"kgkxeip"
+],
+"obs_num": 562
+},
+{
+"obs_mean_onset": 123.193469388,
+"xml_id": [
+"u1nw1d2n",
+"sgs6vm9",
+"jve3m42",
+"mfeg1kx"
+],
+"obs_num": 563
+},
+{
+"obs_mean_onset": 123.994557823,
+"xml_id": [
+"njjmjra",
+"q1mi4gme"
+],
+"obs_num": 564
+},
+{
+"obs_mean_onset": 124.429931973,
+"xml_id": [
+"pyqgpv6",
+"rk93k2m",
+"sg8l2yh",
+"h19n1lh0"
+],
+"obs_num": 565
+},
+{
+"obs_mean_onset": 124.847891156,
+"xml_id": [
+"jen7ptc"
+],
+"obs_num": 566
+},
+{
+"obs_mean_onset": 125.300680272,
+"xml_id": [
+"k1t14rbs"
+],
+"obs_num": 567
+},
+{
+"obs_mean_onset": 125.70122449,
+"xml_id": [
+"w1kw5nzc",
+"y1og204a",
+"z1vcelqa",
+"isxucno"
+],
+"obs_num": 568
+},
+{
+"obs_mean_onset": 126.188843537,
+"xml_id": [
+"kpxe20s"
+],
+"obs_num": 569
+},
+{
+"obs_mean_onset": 126.571972789,
+"xml_id": [
+"pv5md7e"
+],
+"obs_num": 570
+},
+{
+"obs_mean_onset": 127.042176871,
+"xml_id": [
+"w1i6oomx",
+"y1ope7d5",
+"z6qlicx"
+],
+"obs_num": 571
+},
+{
+"obs_mean_onset": 127.47755102,
+"xml_id": [
+"p1a57u01"
+],
+"obs_num": 572
+},
+{
+"obs_mean_onset": 127.878095238,
+"xml_id": [
+"q152022u"
+],
+"obs_num": 573
+},
+{
+"obs_mean_onset": 128.34829932,
+"xml_id": [
+"y962ycf",
+"a1ku4dsy",
+"nm31w3d"
+],
+"obs_num": 574
+},
+{
+"obs_mean_onset": 128.557278912,
+"xml_id": [
+"p1yybdwe"
+],
+"obs_num": 575
+},
+{
+"obs_mean_onset": 128.801088435,
+"xml_id": [
+"qj71a9b"
+],
+"obs_num": 576
+},
+{
+"obs_mean_onset": 128.992653061,
+"xml_id": [
+"rl7efgx"
+],
+"obs_num": 577
+},
+{
+"obs_mean_onset": 129.184217687,
+"xml_id": [
+"s8uyegt"
+],
+"obs_num": 578
+},
+{
+"obs_mean_onset": 129.375782313,
+"xml_id": [
+"t16hwzqj"
+],
+"obs_num": 579
+},
+{
+"obs_mean_onset": 129.584761905,
+"xml_id": [
+"q11a5oxx"
+],
+"obs_num": 580
+},
+{
+"obs_mean_onset": 129.898231293,
+"xml_id": [
+"s1mvswly"
+],
+"obs_num": 581
+},
+{
+"obs_mean_onset": 130.020136054,
+"xml_id": [
+"agnqmkf",
+"tcttu15"
+],
+"obs_num": 582
+},
+{
+"obs_mean_onset": 130.455510204,
+"xml_id": [
+"c194ds5i",
+"uv64mxw"
+],
+"obs_num": 583
+},
+{
+"obs_mean_onset": 131.047619048,
+"xml_id": [
+"f13r9dm8",
+"h169q7n1",
+"tvndd0t",
+"w6fpnni"
+],
+"obs_num": 584
+},
+{
+"obs_mean_onset": 131.831292517,
+"xml_id": [
+"x10bo95q",
+"a11n8orv"
+],
+"obs_num": 585
+},
+{
+"obs_mean_onset": 132.249251701,
+"xml_id": [
+"uu6hdw"
+],
+"obs_num": 586
+},
+{
+"obs_mean_onset": 132.667210884,
+"xml_id": [
+"dxbyq29",
+"a9v4e2",
+"w3ou4rj"
+],
+"obs_num": 587
+},
+{
+"obs_mean_onset": 133.085170068,
+"xml_id": [
+"f1b4z332",
+"x3ot6a7"
+],
+"obs_num": 588
+},
+{
+"obs_mean_onset": 133.572789116,
+"xml_id": [
+"i1kk56j0",
+"k18w7nz2",
+"w5rhh9x",
+"zfvubhh"
+],
+"obs_num": 589
+},
+{
+"obs_mean_onset": 134.443537415,
+"xml_id": [
+"aqrtxhs",
+"do0t153"
+],
+"obs_num": 590
+},
+{
+"obs_mean_onset": 134.896326531,
+"xml_id": [
+"f1gcv2f8",
+"h15g2hzz",
+"i1y3lnlx",
+"x1i8t97x"
+],
+"obs_num": 591
+},
+{
+"obs_mean_onset": 135.349115646,
+"xml_id": [
+"z1qpjw9c"
+],
+"obs_num": 592
+},
+{
+"obs_mean_onset": 135.76707483,
+"xml_id": [
+"ai1oben"
+],
+"obs_num": 593
+},
+{
+"obs_mean_onset": 136.219863946,
+"xml_id": [
+"f8l5k57",
+"hkx70tu",
+"irquwct",
+"yri7gzv"
+],
+"obs_num": 594
+},
+{
+"obs_mean_onset": 136.655238095,
+"xml_id": [
+"ak8agbk"
+],
+"obs_num": 595
+},
+{
+"obs_mean_onset": 137.073197279,
+"xml_id": [
+"b1di2l2n"
+],
+"obs_num": 596
+},
+{
+"obs_mean_onset": 137.508571429,
+"xml_id": [
+"c5bi8l",
+"eunrj6v",
+"f6pupo5"
+],
+"obs_num": 597
+},
+{
+"obs_mean_onset": 137.97877551,
+"xml_id": [
+"yvh4x1t"
+],
+"obs_num": 598
+},
+{
+"obs_mean_onset": 138.448979592,
+"xml_id": [
+"z181txln"
+],
+"obs_num": 599
+},
+{
+"obs_mean_onset": 138.797278912,
+"xml_id": [
+"fcjaa8h",
+"h1ggrm29",
+"vy1nb3y"
+],
+"obs_num": 600
+},
+{
+"obs_mean_onset": 139.023673469,
+"xml_id": [
+"x10ti76w"
+],
+"obs_num": 601
+},
+{
+"obs_mean_onset": 139.215238095,
+"xml_id": [
+"i1y4c6q9"
+],
+"obs_num": 602
+},
+{
+"obs_mean_onset": 139.424217687,
+"xml_id": [
+"bm294v5"
+],
+"obs_num": 603
+},
+{
+"obs_mean_onset": 139.615782313,
+"xml_id": [
+"j1ey6uq7"
+],
+"obs_num": 604
+},
+{
+"obs_mean_onset": 139.824761905,
+"xml_id": [
+"dpss5f4"
+],
+"obs_num": 605
+},
+{
+"obs_mean_onset": 140.033741497,
+"xml_id": [
+"mb015ma",
+"x124j2bs",
+"zirgqkq"
+],
+"obs_num": 606
+},
+{
+"obs_mean_onset": 140.242721088,
+"xml_id": [
+"a1kayrwu",
+"c1i30bka"
+],
+"obs_num": 607
+},
+{
+"obs_mean_onset": 140.469115646,
+"xml_id": [
+"ndud0l2"
+],
+"obs_num": 608
+},
+{
+"obs_mean_onset": 140.678095238,
+"xml_id": [
+"e16xs5p4",
+"g5ptobh"
+],
+"obs_num": 609
+},
+{
+"obs_mean_onset": 140.904489796,
+"xml_id": [
+"p1wfz612"
+],
+"obs_num": 610
+},
+{
+"obs_mean_onset": 141.113469388,
+"xml_id": [
+"i10owyw4",
+"k1n79cp1"
+],
+"obs_num": 611
+},
+{
+"obs_mean_onset": 141.305034014,
+"xml_id": [
+"wj580vs",
+"d17ql2am",
+"g19mq4yc"
+],
+"obs_num": 612
+},
+{
+"obs_mean_onset": 141.514013605,
+"xml_id": [
+"h1rlmtet",
+"k1fkfdn2"
+],
+"obs_num": 613
+},
+{
+"obs_mean_onset": 141.740408163,
+"xml_id": [
+"x11t3u8s"
+],
+"obs_num": 614
+},
+{
+"obs_mean_onset": 141.949387755,
+"xml_id": [
+"m1md97ge",
+"p1j2542m"
+],
+"obs_num": 615
+},
+{
+"obs_mean_onset": 142.158367347,
+"xml_id": [
+"z81mo9r"
+],
+"obs_num": 616
+},
+{
+"obs_mean_onset": 142.349931973,
+"xml_id": [
+"r18blk21",
+"u1xmouya"
+],
+"obs_num": 617
+},
+{
+"obs_mean_onset": 142.558911565,
+"xml_id": [
+"c1wc1il0",
+"ncwa68a",
+"pze72sm"
+],
+"obs_num": 618
+},
+{
+"obs_mean_onset": 142.767891156,
+"xml_id": [
+"q1sp0swa",
+"sbm9vf5"
+],
+"obs_num": 619
+},
+{
+"obs_mean_onset": 143.01170068,
+"xml_id": [
+"d1oijp7u"
+],
+"obs_num": 620
+},
+{
+"obs_mean_onset": 143.220680272,
+"xml_id": [
+"uyktsby",
+"woj8i7t"
+],
+"obs_num": 621
+},
+{
+"obs_mean_onset": 143.429659864,
+"xml_id": [
+"f12xvbm"
+],
+"obs_num": 622
+},
+{
+"obs_mean_onset": 143.62122449,
+"xml_id": [
+"y7v4x7b",
+"a1ik96bs"
+],
+"obs_num": 623
+},
+{
+"obs_mean_onset": 143.830204082,
+"xml_id": [
+"rm30czr",
+"t14iiotl",
+"w158zpva",
+"z1kgkw8e"
+],
+"obs_num": 624
+},
+{
+"obs_mean_onset": 144.056598639,
+"xml_id": [
+"aiv7bqi",
+"d1aigcp1"
+],
+"obs_num": 625
+},
+{
+"obs_mean_onset": 144.282993197,
+"xml_id": [
+"uavz3bs"
+],
+"obs_num": 626
+},
+{
+"obs_mean_onset": 144.474557823,
+"xml_id": [
+"hsuozz7",
+"k1lj0uot"
+],
+"obs_num": 627
+},
+{
+"obs_mean_onset": 144.683537415,
+"xml_id": [
+"v1cff97l"
+],
+"obs_num": 628
+},
+{
+"obs_mean_onset": 144.875102041,
+"xml_id": [
+"m4sdb2n",
+"p1def19m"
+],
+"obs_num": 629
+},
+{
+"obs_mean_onset": 145.084081633,
+"xml_id": [
+"o1xf8io5",
+"qrafhmx",
+"lznj6gy",
+"n14pdu27",
+"pqjrc90"
+],
+"obs_num": 630
+},
+{
+"obs_mean_onset": 145.31047619,
+"xml_id": [
+"rn8sg3e",
+"t8ulks6",
+"v1ilgl88"
+],
+"obs_num": 631
+},
+{
+"obs_mean_onset": 145.554285714,
+"xml_id": [
+"r1mhx8vh"
+],
+"obs_num": 632
+},
+{
+"obs_mean_onset": 145.74585034,
+"xml_id": [
+"a61kzkp",
+"c3tnqcr",
+"e3h9w3g"
+],
+"obs_num": 633
+},
+{
+"obs_mean_onset": 145.972244898,
+"xml_id": [
+"s1ajf7xm"
+],
+"obs_num": 634
+},
+{
+"obs_mean_onset": 146.163809524,
+"xml_id": [
+"h1mcvmyp",
+"j1ljryqh",
+"l1b3ovlk"
+],
+"obs_num": 635
+},
+{
+"obs_mean_onset": 146.35537415,
+"xml_id": [
+"z1wyvhc9",
+"c134rhln",
+"i1pxtf75",
+"k1qeh1cj"
+],
+"obs_num": 636
+},
+{
+"obs_mean_onset": 146.581768707,
+"xml_id": [
+"l2x366b",
+"nkb1prn"
+],
+"obs_num": 637
+},
+{
+"obs_mean_onset": 146.825578231,
+"xml_id": [
+"e7yfadt"
+],
+"obs_num": 638
+},
+{
+"obs_mean_onset": 147.017142857,
+"xml_id": [
+"rcrybzn",
+"tyvuvb1"
+],
+"obs_num": 639
+},
+{
+"obs_mean_onset": 147.208707483,
+"xml_id": [
+"glulico"
+],
+"obs_num": 640
+},
+{
+"obs_mean_onset": 147.400272109,
+"xml_id": [
+"v11t0fjc",
+"x666pzl"
+],
+"obs_num": 641
+},
+{
+"obs_mean_onset": 147.591836735,
+"xml_id": [
+"s1cwixok",
+"v13bmb7m",
+"xduv8dm",
+"z1mlf0at",
+"a18g8maz"
+],
+"obs_num": 642
+},
+{
+"obs_mean_onset": 147.818231293,
+"xml_id": [
+"b10pcvnp",
+"d2078s1",
+"e1uhsiai"
+],
+"obs_num": 643
+},
+{
+"obs_mean_onset": 148.062040816,
+"xml_id": [
+"xcdxbkq"
+],
+"obs_num": 644
+},
+{
+"obs_mean_onset": 148.271020408,
+"xml_id": [
+"i17b4sm8",
+"k1lbyrlk",
+"lgsrj93"
+],
+"obs_num": 645
+},
+{
+"obs_mean_onset": 148.48,
+"xml_id": [
+"z1iv870h"
+],
+"obs_num": 646
+},
+{
+"obs_mean_onset": 148.688979592,
+"xml_id": [
+"n2ydc3r",
+"p1msdot9",
+"qcpr0m1"
+],
+"obs_num": 647
+},
+{
+"obs_mean_onset": 148.897959184,
+"xml_id": [
+"pj3p8dm",
+"r74ct9i",
+"q7by3s9",
+"s14jp4yl",
+"t2exbf2"
+],
+"obs_num": 648
+},
+{
+"obs_mean_onset": 149.124353741,
+"xml_id": [
+"vxlf85x",
+"x10lltke",
+"y9h95cp"
+],
+"obs_num": 649
+},
+{
+"obs_mean_onset": 149.350748299,
+"xml_id": [
+"sjsppop"
+],
+"obs_num": 650
+},
+{
+"obs_mean_onset": 149.542312925,
+"xml_id": [
+"dvuq32n",
+"fhoropo",
+"g1humt8a"
+],
+"obs_num": 651
+},
+{
+"obs_mean_onset": 149.733877551,
+"xml_id": [
+"t1193v7r"
+],
+"obs_num": 652
+},
+{
+"obs_mean_onset": 149.925442177,
+"xml_id": [
+"jlkysjv",
+"lzgjx9b",
+"mf5ndnb"
+],
+"obs_num": 653
+},
+{
+"obs_mean_onset": 150.117006803,
+"xml_id": [
+"nclugdt",
+"pi50t96",
+"kmk5ivb",
+"mj36h4g",
+"od2xx8s"
+],
+"obs_num": 654
+},
+{
+"obs_mean_onset": 150.343401361,
+"xml_id": [
+"qje4br8",
+"siv3018",
+"umtj2oh"
+],
+"obs_num": 655
+},
+{
+"obs_mean_onset": 150.587210884,
+"xml_id": [
+"qanqrdj"
+],
+"obs_num": 656
+},
+{
+"obs_mean_onset": 150.77877551,
+"xml_id": [
+"z1f0i72b",
+"b1i4klqu",
+"dxbbt1t"
+],
+"obs_num": 657
+},
+{
+"obs_mean_onset": 150.987755102,
+"xml_id": [
+"rs1nu2n"
+],
+"obs_num": 658
+},
+{
+"obs_mean_onset": 151.179319728,
+"xml_id": [
+"g4e20ls",
+"i1netec",
+"k1kah7ns"
+],
+"obs_num": 659
+},
+{
+"obs_mean_onset": 151.38829932,
+"xml_id": [
+"y1xwb3sy",
+"a143gjqr",
+"huwo371",
+"j1cb98xk"
+],
+"obs_num": 660
+},
+{
+"obs_mean_onset": 151.597278912,
+"xml_id": [
+"ko1n5y2",
+"mi6jxn5"
+],
+"obs_num": 661
+},
+{
+"obs_mean_onset": 151.841088435,
+"xml_id": [
+"bc1h6d7"
+],
+"obs_num": 662
+},
+{
+"obs_mean_onset": 152.032653061,
+"xml_id": [
+"q1r616jx",
+"sg1d9xb"
+],
+"obs_num": 663
+},
+{
+"obs_mean_onset": 152.241632653,
+"xml_id": [
+"cxq0xjm"
+],
+"obs_num": 664
+},
+{
+"obs_mean_onset": 152.433197279,
+"xml_id": [
+"udjitxf",
+"wgoev2i"
+],
+"obs_num": 665
+},
+{
+"obs_mean_onset": 152.642176871,
+"xml_id": [
+"n1kaheny",
+"q3uayxn",
+"shw1cub",
+"unoi9l2",
+"v1lr3v77"
+],
+"obs_num": 666
+},
+{
+"obs_mean_onset": 152.851156463,
+"xml_id": [
+"w1r69uvy",
+"ycyr4p0",
+"z4v2do0"
+],
+"obs_num": 667
+},
+{
+"obs_mean_onset": 153.094965986,
+"xml_id": [
+"sxihc2j"
+],
+"obs_num": 668
+},
+{
+"obs_mean_onset": 153.286530612,
+"xml_id": [
+"d1h880ed",
+"fdg7bb0",
+"gmyobkf"
+],
+"obs_num": 669
+},
+{
+"obs_mean_onset": 153.495510204,
+"xml_id": [
+"u1478ifp"
+],
+"obs_num": 670
+},
+{
+"obs_mean_onset": 153.68707483,
+"xml_id": [
+"iuuyxgk",
+"k1hfhil8",
+"l7jag4s"
+],
+"obs_num": 671
+},
+{
+"obs_mean_onset": 153.896054422,
+"xml_id": [
+"g17lfmny",
+"i1vz4onn",
+"lmpn3ho",
+"nrwb0bu",
+"o1bdd4ws"
+],
+"obs_num": 672
+},
+{
+"obs_mean_onset": 154.105034014,
+"xml_id": [
+"p1s3jcke",
+"r1as0nhx",
+"s17772l1"
+],
+"obs_num": 673
+},
+{
+"obs_mean_onset": 154.331428571,
+"xml_id": [
+"j1huyqb6"
+],
+"obs_num": 674
+},
+{
+"obs_mean_onset": 154.540408163,
+"xml_id": [
+"w4lvm9y",
+"y9z0035",
+"zxd8wt9"
+],
+"obs_num": 675
+},
+{
+"obs_mean_onset": 154.731972789,
+"xml_id": [
+"k6iao50"
+],
+"obs_num": 676
+},
+{
+"obs_mean_onset": 154.923537415,
+"xml_id": [
+"b1pfxziv",
+"deces4s",
+"e1o6xl9c"
+],
+"obs_num": 677
+},
+{
+"obs_mean_onset": 155.132517007,
+"xml_id": [
+"v1b47ffq",
+"y1hjs47",
+"a1twu90j",
+"c1h0les2"
+],
+"obs_num": 678
+},
+{
+"obs_mean_onset": 155.358911565,
+"xml_id": [
+"e1r70yfr",
+"grackzb"
+],
+"obs_num": 679
+},
+{
+"obs_mean_onset": 155.602721088,
+"xml_id": [
+"a1s392w2"
+],
+"obs_num": 680
+},
+{
+"obs_mean_onset": 155.794285714,
+"xml_id": [
+"ldrhgpt",
+"n90oyjx"
+],
+"obs_num": 681
+},
+{
+"obs_mean_onset": 155.98585034,
+"xml_id": [
+"caszcyb"
+],
+"obs_num": 682
+},
+{
+"obs_mean_onset": 156.177414966,
+"xml_id": [
+"q9avw2y",
+"ss66wmr"
+],
+"obs_num": 683
+},
+{
+"obs_mean_onset": 156.386394558,
+"xml_id": [
+"p1sfgxwv",
+"r1x6lptk",
+"u132rour"
+],
+"obs_num": 684
+},
+{
+"obs_mean_onset": 156.612789116,
+"xml_id": [
+"w1x4ik0p",
+"z1tx79na"
+],
+"obs_num": 685
+},
+{
+"obs_mean_onset": 156.821768707,
+"xml_id": [
+"a1wvc3op",
+"c1tkeymj"
+],
+"obs_num": 686
+},
+{
+"obs_mean_onset": 157.013333333,
+"xml_id": [
+"e7hemov",
+"gg5hhqs"
+],
+"obs_num": 687
+},
+{
+"obs_mean_onset": 157.204897959,
+"xml_id": [
+"hvcknkl",
+"kfz88jz"
+],
+"obs_num": 688
+},
+{
+"obs_mean_onset": 157.448707483,
+"xml_id": [
+"txj39nh",
+"l1fy4ed9",
+"ni4b2fn"
+],
+"obs_num": 689
+},
+{
+"obs_mean_onset": 157.622857143,
+"xml_id": [
+"eorrd7a",
+"is0uull",
+"l16fuvmd"
+],
+"obs_num": 690
+},
+{
+"obs_mean_onset": 157.814421769,
+"xml_id": [
+"mewpfv1",
+"pvl8ex4"
+],
+"obs_num": 691
+},
+{
+"obs_mean_onset": 158.040816327,
+"xml_id": [
+"qpn2mek",
+"s1pwe4l"
+],
+"obs_num": 692
+},
+{
+"obs_mean_onset": 158.249795918,
+"xml_id": [
+"t17oojav",
+"vm692tg"
+],
+"obs_num": 693
+},
+{
+"obs_mean_onset": 158.45877551,
+"xml_id": [
+"w2vn6xd",
+"z1q6443l"
+],
+"obs_num": 694
+},
+{
+"obs_mean_onset": 158.667755102,
+"xml_id": [
+"i9zd0sq",
+"a17x62te",
+"c1h3m4v4"
+],
+"obs_num": 695
+},
+{
+"obs_mean_onset": 158.876734694,
+"xml_id": [
+"vjmk6tf",
+"y1r4l8l9",
+"bj3v28f"
+],
+"obs_num": 696
+},
+{
+"obs_mean_onset": 159.085714286,
+"xml_id": [
+"w17ft38u",
+"cicohep",
+"e1k5zr1l"
+],
+"obs_num": 697
+},
+{
+"obs_mean_onset": 159.294693878,
+"xml_id": [
+"y1pf5y6y",
+"fy44c26",
+"i14meo5"
+],
+"obs_num": 698
+},
+{
+"obs_mean_onset": 159.503673469,
+"xml_id": [
+"z1wx08s9",
+"j172vm11",
+"l1doedo6"
+],
+"obs_num": 699
+},
+{
+"obs_mean_onset": 159.712653061,
+"xml_id": [
+"b1jodl40",
+"m1v9ev5t",
+"pa6xymr"
+],
+"obs_num": 700
+},
+{
+"obs_mean_onset": 159.904217687,
+"xml_id": [
+"c1xywnf5",
+"q1p21jeu",
+"syj3irs"
+],
+"obs_num": 701
+},
+{
+"obs_mean_onset": 160.148027211,
+"xml_id": [
+"x6c3uxp",
+"qztso14",
+"tiw03bl"
+],
+"obs_num": 702
+},
+{
+"obs_mean_onset": 161.558639456,
+"xml_id": [
+"ltuuz4p",
+"p1c6e9nd",
+"t14swy0d"
+],
+"obs_num": 703
+},
+{
+"obs_mean_onset": 161.88952381,
+"xml_id": [
+"m1tjmq73",
+"u11j36th",
+"w4c5rg5"
+],
+"obs_num": 704
+},
+{
+"obs_mean_onset": 162.133333333,
+"xml_id": [
+"o9effc5",
+"xkqdeu5",
+"z1uhx5y2"
+],
+"obs_num": 705
+},
+{
+"obs_mean_onset": 162.342312925,
+"xml_id": [
+"p4euw76",
+"a1ttbd19",
+"cj879di"
+],
+"obs_num": 706
+},
+{
+"obs_mean_onset": 162.551292517,
+"xml_id": [
+"r1cy1ly5",
+"d1ly726z",
+"fhr5i1m"
+],
+"obs_num": 707
+},
+{
+"obs_mean_onset": 162.777687075,
+"xml_id": [
+"s1x0x2h5",
+"g1k2ndsm",
+"i1ipvne3"
+],
+"obs_num": 708
+},
+{
+"obs_mean_onset": 163.004081633,
+"xml_id": [
+"m1dn8nkg",
+"g55lsen",
+"ilme7bn"
+],
+"obs_num": 709
+},
+{
+"obs_mean_onset": 164.432108844,
+"xml_id": [
+"v1ob9tyu",
+"n10qzhva",
+"rz8v0ax",
+"fxprco8"
+],
+"obs_num": 710
+},
+{
+"obs_mean_onset": 164.937142857,
+"xml_id": [
+"xghkw1y",
+"h1oa0tzz"
+],
+"obs_num": 711
+},
+{
+"obs_mean_onset": 165.163537415,
+"xml_id": [
+"y506uev",
+"ioqi9ih"
+],
+"obs_num": 712
+},
+{
+"obs_mean_onset": 165.389931973,
+"xml_id": [
+"z15vw6qm",
+"j60ksnn"
+],
+"obs_num": 713
+},
+{
+"obs_mean_onset": 165.598911565,
+"xml_id": [
+"a1vzhtq2",
+"khidgtd"
+],
+"obs_num": 714
+},
+{
+"obs_mean_onset": 165.860136054,
+"xml_id": [
+"b3gsx3n",
+"l1wqa4pa"
+],
+"obs_num": 715
+},
+{
+"obs_mean_onset": 166.05170068,
+"xml_id": [
+"c10addf9",
+"r1kvicz0"
+],
+"obs_num": 716
+},
+{
+"obs_mean_onset": 167.514557823,
+"xml_id": [
+"v1dgwiws",
+"l1ud88sy",
+"h1o0rqr",
+"wvmlncf"
+],
+"obs_num": 717
+},
+{
+"obs_mean_onset": 167.810612245,
+"xml_id": [
+"mvlllp3",
+"zvt5njt"
+],
+"obs_num": 718
+},
+{
+"obs_mean_onset": 168.037006803,
+"xml_id": [
+"o1iak2pr",
+"a1v8degc"
+],
+"obs_num": 719
+},
+{
+"obs_mean_onset": 168.245986395,
+"xml_id": [
+"pwj71t6",
+"c17xlwew"
+],
+"obs_num": 720
+},
+{
+"obs_mean_onset": 168.472380952,
+"xml_id": [
+"r1xkuy2y",
+"du72m2q"
+],
+"obs_num": 721
+},
+{
+"obs_mean_onset": 168.681360544,
+"xml_id": [
+"s1jx66h3",
+"f185ieod"
+],
+"obs_num": 722
+},
+{
+"obs_mean_onset": 168.942585034,
+"xml_id": [
+"sohgo3i",
+"jz2x3gl"
+],
+"obs_num": 723
+},
+{
+"obs_mean_onset": 170.091972789,
+"xml_id": [
+"w5g806h",
+"o1mrpdll"
+],
+"obs_num": 724
+},
+{
+"obs_mean_onset": 170.440272109,
+"xml_id": [
+"y173cpr7"
+],
+"obs_num": 725
+},
+{
+"obs_mean_onset": 170.858231293,
+"xml_id": [
+"zazrdmr"
+],
+"obs_num": 726
+},
+{
+"obs_mean_onset": 171.102040816,
+"xml_id": [
+"a6wwrvl"
+],
+"obs_num": 727
+},
+{
+"obs_mean_onset": 171.363265306,
+"xml_id": [
+"b1vkkjqi",
+"qgjl9x5"
+],
+"obs_num": 728
+},
+{
+"obs_mean_onset": 171.937959184,
+"xml_id": [
+"c101h1wx"
+],
+"obs_num": 729
+},
+{
+"obs_mean_onset": 172.12952381,
+"xml_id": [
+"z9i292j",
+"sop6vvf"
+],
+"obs_num": 730
+},
+{
+"obs_mean_onset": 172.321088435,
+"xml_id": [
+"adp9joz"
+],
+"obs_num": 731
+},
+{
+"obs_mean_onset": 172.547482993,
+"xml_id": [
+"b1rl7cd0"
+],
+"obs_num": 732
+},
+{
+"obs_mean_onset": 172.756462585,
+"xml_id": [
+"d47qm4e"
+],
+"obs_num": 733
+},
+{
+"obs_mean_onset": 172.965442177,
+"xml_id": [
+"exikpo3",
+"tu6hfat"
+],
+"obs_num": 734
+},
+{
+"obs_mean_onset": 173.139591837,
+"xml_id": [
+"g1k1rpkn"
+],
+"obs_num": 735
+},
+{
+"obs_mean_onset": 173.331156463,
+"xml_id": [
+"g1c8ehu1",
+"xfrnhbe"
+],
+"obs_num": 736
+},
+{
+"obs_mean_onset": 173.574965986,
+"xml_id": [
+"i16emlqy"
+],
+"obs_num": 737
+},
+{
+"obs_mean_onset": 173.81877551,
+"xml_id": [
+"k1kuzb7b"
+],
+"obs_num": 738
+},
+{
+"obs_mean_onset": 173.975510204,
+"xml_id": [
+"l1139bcm"
+],
+"obs_num": 739
+},
+{
+"obs_mean_onset": 174.184489796,
+"xml_id": [
+"n1lfq9ut",
+"af1sdzp"
+],
+"obs_num": 740
+},
+{
+"obs_mean_onset": 174.323809524,
+"xml_id": [
+"ofve4zz"
+],
+"obs_num": 741
+},
+{
+"obs_mean_onset": 174.51537415,
+"xml_id": [
+"n5j4ry3",
+"dwbjvja"
+],
+"obs_num": 742
+},
+{
+"obs_mean_onset": 174.741768707,
+"xml_id": [
+"p3phrbw",
+"f107i5lo"
+],
+"obs_num": 743
+},
+{
+"obs_mean_onset": 174.950748299,
+"xml_id": [
+"q1bc0um6",
+"g1ioc2du"
+],
+"obs_num": 744
+},
+{
+"obs_mean_onset": 175.159727891,
+"xml_id": [
+"sp8wgw6"
+],
+"obs_num": 745
+},
+{
+"obs_mean_onset": 175.368707483,
+"xml_id": [
+"tt903mj"
+],
+"obs_num": 746
+},
+{
+"obs_mean_onset": 175.542857143,
+"xml_id": [
+"v16bejib"
+],
+"obs_num": 747
+},
+{
+"obs_mean_onset": 175.734421769,
+"xml_id": [
+"q1ihorgu",
+"s15pkxf3",
+"i1hgyi94"
+],
+"obs_num": 748
+},
+{
+"obs_mean_onset": 176.20462585,
+"xml_id": [
+"k1fjcvv3"
+],
+"obs_num": 749
+},
+{
+"obs_mean_onset": 176.587755102,
+"xml_id": [
+"lkt4ifh"
+],
+"obs_num": 750
+},
+{
+"obs_mean_onset": 177.040544218,
+"xml_id": [
+"h96vd06"
+],
+"obs_num": 751
+},
+{
+"obs_mean_onset": 177.441088435,
+"xml_id": [
+"j3bap3o"
+],
+"obs_num": 752
+},
+{
+"obs_mean_onset": 178.050612245,
+"xml_id": [
+"k1vi5al3"
+],
+"obs_num": 753
+},
+{
+"obs_mean_onset": 178.259591837,
+"xml_id": [
+"ikzhvr4",
+"c1445ah9"
+],
+"obs_num": 754
+},
+{
+"obs_mean_onset": 178.694965986,
+"xml_id": [
+"kmvz98w"
+],
+"obs_num": 755
+},
+{
+"obs_mean_onset": 179.11292517,
+"xml_id": [
+"loz5x1w"
+],
+"obs_num": 756
+},
+{
+"obs_mean_onset": 179.478639456,
+"xml_id": [
+"i1qe26l2",
+"g1stlr5n"
+],
+"obs_num": 757
+},
+{
+"obs_mean_onset": 179.896598639,
+"xml_id": [
+"o1909q32",
+"a1mbb6ek"
+],
+"obs_num": 758
+},
+{
+"obs_mean_onset": 180.122993197,
+"xml_id": [
+"d1otoi5"
+],
+"obs_num": 759
+},
+{
+"obs_mean_onset": 180.262312925,
+"xml_id": [
+"e1cb4sbs"
+],
+"obs_num": 760
+},
+{
+"obs_mean_onset": 180.471292517,
+"xml_id": [
+"p1l9bfac"
+],
+"obs_num": 761
+},
+{
+"obs_mean_onset": 180.680272109,
+"xml_id": [
+"k1o1ncgg",
+"cw04ih",
+"eye3m8v"
+],
+"obs_num": 762
+},
+{
+"obs_mean_onset": 181.115646259,
+"xml_id": [
+"m17kzpdc",
+"g1wwot5m"
+],
+"obs_num": 763
+},
+{
+"obs_mean_onset": 181.49877551,
+"xml_id": [
+"n12zp0p3",
+"ismyy1z"
+],
+"obs_num": 764
+},
+{
+"obs_mean_onset": 181.899319728,
+"xml_id": [
+"q571a2d",
+"cq8q16i",
+"hwslhsn"
+],
+"obs_num": 765
+},
+{
+"obs_mean_onset": 182.10829932,
+"xml_id": [
+"j16ed5vx"
+],
+"obs_num": 766
+},
+{
+"obs_mean_onset": 182.334693878,
+"xml_id": [
+"k8cbin9"
+],
+"obs_num": 767
+},
+{
+"obs_mean_onset": 182.508843537,
+"xml_id": [
+"m1l5dcwc"
+],
+"obs_num": 768
+},
+{
+"obs_mean_onset": 182.682993197,
+"xml_id": [
+"s8pvxlc",
+"n192ig0q"
+],
+"obs_num": 769
+},
+{
+"obs_mean_onset": 182.874557823,
+"xml_id": [
+"o51t7im"
+],
+"obs_num": 770
+},
+{
+"obs_mean_onset": 183.066122449,
+"xml_id": [
+"tyy4gd1",
+"hf46tfz"
+],
+"obs_num": 771
+},
+{
+"obs_mean_onset": 183.571156463,
+"xml_id": [
+"jyptm7p"
+],
+"obs_num": 772
+},
+{
+"obs_mean_onset": 183.88462585,
+"xml_id": [
+"wz7518r",
+"l1rfjias",
+"o1nkps03"
+],
+"obs_num": 773
+},
+{
+"obs_mean_onset": 184.337414966,
+"xml_id": [
+"y13meqx7",
+"j1ru103e",
+"l13bxd8q"
+],
+"obs_num": 774
+},
+{
+"obs_mean_onset": 185.312653061,
+"xml_id": [
+"bb0tvfu",
+"dcbgc79",
+"qia6a2v"
+],
+"obs_num": 775
+},
+{
+"obs_mean_onset": 185.608707483,
+"xml_id": [
+"es0u4b9",
+"rk14p5r"
+],
+"obs_num": 776
+},
+{
+"obs_mean_onset": 185.730612245,
+"xml_id": [
+"ddzgyfm",
+"fc28hy3",
+"uxx1u2m"
+],
+"obs_num": 777
+},
+{
+"obs_mean_onset": 186.131156463,
+"xml_id": [
+"g23cnv3",
+"iwmueu6",
+"v1wfenae"
+],
+"obs_num": 778
+},
+{
+"obs_mean_onset": 186.549115646,
+"xml_id": [
+"k17fdhkd",
+"mepsdxk",
+"xwwzdt7"
+],
+"obs_num": 779
+},
+{
+"obs_mean_onset": 186.845170068,
+"xml_id": [
+"n1tuq357",
+"pwrez0y",
+"yxep5y2"
+],
+"obs_num": 780
+},
+{
+"obs_mean_onset": 186.96707483,
+"xml_id": [
+"k1ff69x9",
+"mzq6prn",
+"c102ffeu"
+],
+"obs_num": 781
+},
+{
+"obs_mean_onset": 187.367619048,
+"xml_id": [
+"n1i1ywa1",
+"p9hhacn",
+"djtzq18"
+],
+"obs_num": 782
+},
+{
+"obs_mean_onset": 187.785578231,
+"xml_id": [
+"qqfo7b5",
+"s4g5hnp",
+"eh70gap"
+],
+"obs_num": 783
+},
+{
+"obs_mean_onset": 188.220952381,
+"xml_id": [
+"v41cfjl",
+"xm15qta",
+"f1wit1q7",
+"idnlteo"
+],
+"obs_num": 784
+},
+{
+"obs_mean_onset": 188.604081633,
+"xml_id": [
+"yyayonv",
+"a1dpzjiw",
+"j7z6wpe",
+"m16b7iga"
+],
+"obs_num": 785
+},
+{
+"obs_mean_onset": 189.022040816,
+"xml_id": [
+"b1amvb8q",
+"d1k07qzw",
+"n1xpwaxq",
+"qpl2w4c"
+],
+"obs_num": 786
+},
+{
+"obs_mean_onset": 189.44,
+"xml_id": [
+"i4lc3lr",
+"l14gat91",
+"q1xo52g9",
+"t1m53rd0"
+],
+"obs_num": 787
+},
+{
+"obs_mean_onset": 189.857959184,
+"xml_id": [
+"m1u59n4s",
+"o9zwuau",
+"u12y796g",
+"wbydbw2"
+],
+"obs_num": 788
+},
+{
+"obs_mean_onset": 190.241088435,
+"xml_id": [
+"q1nb3x01",
+"s1s99vxf",
+"yi4h1yi"
+],
+"obs_num": 789
+},
+{
+"obs_mean_onset": 190.345578231,
+"xml_id": [
+"a1y3hkj1"
+],
+"obs_num": 790
+},
+{
+"obs_mean_onset": 190.450068027,
+"xml_id": [
+"b8w4pek"
+],
+"obs_num": 791
+},
+{
+"obs_mean_onset": 190.537142857,
+"xml_id": [
+"t1h2p3pm",
+"vkesbbu",
+"c1p1bts4"
+],
+"obs_num": 792
+},
+{
+"obs_mean_onset": 190.641632653,
+"xml_id": [
+"u1n0o90v",
+"w1ed434x",
+"k1xqkm06"
+],
+"obs_num": 793
+},
+{
+"obs_mean_onset": 191.042176871,
+"xml_id": [
+"x2yis3w",
+"z1j2lxrf",
+"l1u58zsz"
+],
+"obs_num": 794
+},
+{
+"obs_mean_onset": 191.442721088,
+"xml_id": [
+"b4j65w4",
+"d1lujhtn",
+"n10mcfii"
+],
+"obs_num": 795
+},
+{
+"obs_mean_onset": 191.56462585,
+"xml_id": [
+"p13wh2jm"
+],
+"obs_num": 796
+},
+{
+"obs_mean_onset": 191.669115646,
+"xml_id": [
+"rd4sj5z"
+],
+"obs_num": 797
+},
+{
+"obs_mean_onset": 191.773605442,
+"xml_id": [
+"e3ljr60",
+"ggfxski",
+"s1xbeybr"
+],
+"obs_num": 798
+},
+{
+"obs_mean_onset": 191.878095238,
+"xml_id": [
+"x1okw5v7",
+"zjdisfk",
+"thyy7e0"
+],
+"obs_num": 799
+},
+{
+"obs_mean_onset": 192.26122449,
+"xml_id": [
+"ajyz6bw",
+"c1ey1c45",
+"uj7sp94"
+],
+"obs_num": 800
+},
+{
+"obs_mean_onset": 192.679183673,
+"xml_id": [
+"dlxfzwy",
+"fptf653",
+"v1o7xlc8"
+],
+"obs_num": 801
+},
+{
+"obs_mean_onset": 193.097142857,
+"xml_id": [
+"c1etpogv",
+"e133kfjr",
+"s1965yzr"
+],
+"obs_num": 802
+},
+{
+"obs_mean_onset": 193.549931973,
+"xml_id": [
+"u9pvbml"
+],
+"obs_num": 803
+},
+{
+"obs_mean_onset": 193.863401361,
+"xml_id": [
+"g10tfdgd",
+"i1yqe9li",
+"wn99f7g",
+"a1tlmj4j"
+],
+"obs_num": 804
+},
+{
+"obs_mean_onset": 194.47292517,
+"xml_id": [
+"b1qchy4z",
+"vf0u4al",
+"x1qhgpwh"
+],
+"obs_num": 805
+},
+{
+"obs_mean_onset": 195.204353741,
+"xml_id": [
+"d1vdk8zp",
+"h19n7lzq",
+"i12hwgrz",
+"z1fmpajm"
+],
+"obs_num": 806
+},
+{
+"obs_mean_onset": 195.726802721,
+"xml_id": [
+"a82edhm",
+"c12lr2av",
+"wev4okw"
+],
+"obs_num": 807
+},
+{
+"obs_mean_onset": 196.51047619,
+"xml_id": [
+"fulnnr4",
+"i1o4ljs3",
+"jqweszi",
+"yeccxg7"
+],
+"obs_num": 808
+},
+{
+"obs_mean_onset": 197.015510204,
+"xml_id": [
+"e1oj9nra",
+"g1y5ceck",
+"x1c44qu1"
+],
+"obs_num": 809
+},
+{
+"obs_mean_onset": 197.834013605,
+"xml_id": [
+"in4bsf5",
+"lcohcfh",
+"beta1kz"
+],
+"obs_num": 810
+},
+{
+"obs_mean_onset": 198.356462585,
+"xml_id": [
+"j1nkloci",
+"l1qj8aqe",
+"z6l9qzc"
+],
+"obs_num": 811
+},
+{
+"obs_mean_onset": 198.565442177,
+"xml_id": [
+"mee2s0c"
+],
+"obs_num": 812
+},
+{
+"obs_mean_onset": 198.791836735,
+"xml_id": [
+"n1x6po9i"
+],
+"obs_num": 813
+},
+{
+"obs_mean_onset": 198.965986395,
+"xml_id": [
+"o1hfixnj",
+"bcv22p"
+],
+"obs_num": 814
+},
+{
+"obs_mean_onset": 199.07047619,
+"xml_id": [
+"c1y8cc55"
+],
+"obs_num": 815
+},
+{
+"obs_mean_onset": 199.174965986,
+"xml_id": [
+"p11919sn",
+"e1v89ptq"
+],
+"obs_num": 816
+},
+{
+"obs_mean_onset": 199.349115646,
+"xml_id": [
+"quvn2rf",
+"f1ssyvl8"
+],
+"obs_num": 817
+},
+{
+"obs_mean_onset": 199.453605442,
+"xml_id": [
+"gmyvmfs"
+],
+"obs_num": 818
+},
+{
+"obs_mean_onset": 199.575510204,
+"xml_id": [
+"s1ycsskt",
+"f1lq9qnk"
+],
+"obs_num": 819
+},
+{
+"obs_mean_onset": 199.76707483,
+"xml_id": [
+"t1szagt5",
+"gvz9qju"
+],
+"obs_num": 820
+},
+{
+"obs_mean_onset": 199.871564626,
+"xml_id": [
+"hunta4t"
+],
+"obs_num": 821
+},
+{
+"obs_mean_onset": 199.976054422,
+"xml_id": [
+"vp239rm",
+"j17dmce7"
+],
+"obs_num": 822
+},
+{
+"obs_mean_onset": 200.167619048,
+"xml_id": [
+"w1marcs9",
+"ldlj9jh"
+],
+"obs_num": 823
+},
+{
+"obs_mean_onset": 200.376598639,
+"xml_id": [
+"ynonbhx",
+"o9u685n"
+],
+"obs_num": 824
+},
+{
+"obs_mean_onset": 200.550748299,
+"xml_id": [
+"z1vhgr73",
+"p3a5oq9"
+],
+"obs_num": 825
+},
+{
+"obs_mean_onset": 200.759727891,
+"xml_id": [
+"g10wj4r0",
+"i16zda9v",
+"u12vwx90"
+],
+"obs_num": 826
+},
+{
+"obs_mean_onset": 201.038367347,
+"xml_id": [
+"j1b8avui",
+"lbx25sv",
+"m1dbwqam",
+"ozm2nn5"
+],
+"obs_num": 827
+},
+{
+"obs_mean_onset": 201.421496599,
+"xml_id": [
+"xdhfl3b"
+],
+"obs_num": 828
+},
+{
+"obs_mean_onset": 201.525986395,
+"xml_id": [
+"ypcw7bx"
+],
+"obs_num": 829
+},
+{
+"obs_mean_onset": 201.613061224,
+"xml_id": [
+"au6gz4u"
+],
+"obs_num": 830
+},
+{
+"obs_mean_onset": 201.71755102,
+"xml_id": [
+"b7b0zfw"
+],
+"obs_num": 831
+},
+{
+"obs_mean_onset": 201.80462585,
+"xml_id": [
+"cbj7naw"
+],
+"obs_num": 832
+},
+{
+"obs_mean_onset": 201.909115646,
+"xml_id": [
+"dwfzez8"
+],
+"obs_num": 833
+},
+{
+"obs_mean_onset": 202.013605442,
+"xml_id": [
+"rnqbwfx",
+"tyle0xp",
+"fpiuv5p"
+],
+"obs_num": 834
+},
+{
+"obs_mean_onset": 202.41414966,
+"xml_id": [
+"u1nh9udl",
+"w18b4y6k",
+"x8omm0f",
+"zxbkfyc"
+],
+"obs_num": 835
+},
+{
+"obs_mean_onset": 202.67537415,
+"xml_id": [
+"ioyseuw"
+],
+"obs_num": 836
+},
+{
+"obs_mean_onset": 202.779863946,
+"xml_id": [
+"j1ujyxef"
+],
+"obs_num": 837
+},
+{
+"obs_mean_onset": 202.866938776,
+"xml_id": [
+"l95j1o2"
+],
+"obs_num": 838
+},
+{
+"obs_mean_onset": 202.971428571,
+"xml_id": [
+"m1capd5l"
+],
+"obs_num": 839
+},
+{
+"obs_mean_onset": 203.075918367,
+"xml_id": [
+"n1y48cnw"
+],
+"obs_num": 840
+},
+{
+"obs_mean_onset": 203.162993197,
+"xml_id": [
+"o1ll70tn"
+],
+"obs_num": 841
+},
+{
+"obs_mean_onset": 203.284897959,
+"xml_id": [
+"ye9ebzt",
+"o8lz0p5"
+],
+"obs_num": 842
+},
+{
+"obs_mean_onset": 203.511292517,
+"xml_id": [
+"z1cltnai"
+],
+"obs_num": 843
+},
+{
+"obs_mean_onset": 203.720272109,
+"xml_id": [
+"a1g11w3b"
+],
+"obs_num": 844
+},
+{
+"obs_mean_onset": 203.911836735,
+"xml_id": [
+"bn76gtj",
+"q1vycjyk"
+],
+"obs_num": 845
+},
+{
+"obs_mean_onset": 203.998911565,
+"xml_id": [
+"r15qy7ut"
+],
+"obs_num": 846
+},
+{
+"obs_mean_onset": 204.120816327,
+"xml_id": [
+"c1q9vn7b",
+"tqr2p5b"
+],
+"obs_num": 847
+},
+{
+"obs_mean_onset": 204.27755102,
+"xml_id": [
+"dhbs2li",
+"uub9t6q"
+],
+"obs_num": 848
+},
+{
+"obs_mean_onset": 204.382040816,
+"xml_id": [
+"v1maovdt"
+],
+"obs_num": 849
+},
+{
+"obs_mean_onset": 204.521360544,
+"xml_id": [
+"d2gfkyu",
+"r1qgy97v"
+],
+"obs_num": 850
+},
+{
+"obs_mean_onset": 204.71292517,
+"xml_id": [
+"e8pe9e3",
+"s1880xwk"
+],
+"obs_num": 851
+},
+{
+"obs_mean_onset": 204.817414966,
+"xml_id": [
+"t1vb4g2s"
+],
+"obs_num": 852
+},
+{
+"obs_mean_onset": 204.939319728,
+"xml_id": [
+"f1pq4ven",
+"vg6ms7j"
+],
+"obs_num": 853
+},
+{
+"obs_mean_onset": 205.130884354,
+"xml_id": [
+"gn7kn0",
+"xgpvkul"
+],
+"obs_num": 854
+},
+{
+"obs_mean_onset": 205.339863946,
+"xml_id": [
+"h1dqdl56",
+"z6e1u0h"
+],
+"obs_num": 855
+},
+{
+"obs_mean_onset": 205.514013605,
+"xml_id": [
+"i1gzmto9",
+"a2pussy"
+],
+"obs_num": 856
+},
+{
+"obs_mean_onset": 205.705578231,
+"xml_id": [
+"pa8n24b",
+"rrx78ue",
+"ypguoa0",
+"b1jzp1yb",
+"c1hv0ycn",
+"degan1i"
+],
+"obs_num": 857
+},
+{
+"obs_mean_onset": 206.158367347,
+"xml_id": [
+"soi1hjn",
+"u3gw3ch",
+"v115ex8o",
+"xyxtnx9"
+],
+"obs_num": 858
+},
+{
+"obs_mean_onset": 206.367346939,
+"xml_id": [
+"glo4add"
+],
+"obs_num": 859
+},
+{
+"obs_mean_onset": 206.506666667,
+"xml_id": [
+"hl92ys3"
+],
+"obs_num": 860
+},
+{
+"obs_mean_onset": 206.611156463,
+"xml_id": [
+"jsly2m4"
+],
+"obs_num": 861
+},
+{
+"obs_mean_onset": 206.715646259,
+"xml_id": [
+"l1uvjhvf"
+],
+"obs_num": 862
+},
+{
+"obs_mean_onset": 206.820136054,
+"xml_id": [
+"m1gfj7ct"
+],
+"obs_num": 863
+},
+{
+"obs_mean_onset": 206.907210884,
+"xml_id": [
+"n11kzvcw"
+],
+"obs_num": 864
+},
+{
+"obs_mean_onset": 207.01170068,
+"xml_id": [
+"b1v3vqok",
+"d1ffi192",
+"o1k5byxr"
+],
+"obs_num": 865
+},
+{
+"obs_mean_onset": 207.429659864,
+"xml_id": [
+"esrxtrk",
+"gxie4gf",
+"hew4p4b",
+"j1cckoz4"
+],
+"obs_num": 866
+},
+{
+"obs_mean_onset": 207.638639456,
+"xml_id": [
+"rvwvx5h"
+],
+"obs_num": 867
+},
+{
+"obs_mean_onset": 207.760544218,
+"xml_id": [
+"s5q3gic"
+],
+"obs_num": 868
+},
+{
+"obs_mean_onset": 207.847619048,
+"xml_id": [
+"u1g3zwv3"
+],
+"obs_num": 869
+},
+{
+"obs_mean_onset": 207.952108844,
+"xml_id": [
+"w1pun038"
+],
+"obs_num": 870
+},
+{
+"obs_mean_onset": 208.056598639,
+"xml_id": [
+"xppolyh"
+],
+"obs_num": 871
+},
+{
+"obs_mean_onset": 208.143673469,
+"xml_id": [
+"yrutvdz"
+],
+"obs_num": 872
+},
+{
+"obs_mean_onset": 208.265578231,
+"xml_id": [
+"j5fjzei",
+"yeixw20"
+],
+"obs_num": 873
+},
+{
+"obs_mean_onset": 208.509387755,
+"xml_id": [
+"l1wkx86m"
+],
+"obs_num": 874
+},
+{
+"obs_mean_onset": 208.753197279,
+"xml_id": [
+"m1vhf8hm"
+],
+"obs_num": 875
+},
+{
+"obs_mean_onset": 208.944761905,
+"xml_id": [
+"n1nitowt",
+"a1d5otef"
+],
+"obs_num": 876
+},
+{
+"obs_mean_onset": 209.014421769,
+"xml_id": [
+"c2ovvaw"
+],
+"obs_num": 877
+},
+{
+"obs_mean_onset": 209.136326531,
+"xml_id": [
+"o2ejy9y",
+"e1ddmwrk"
+],
+"obs_num": 878
+},
+{
+"obs_mean_onset": 209.31047619,
+"xml_id": [
+"pp4ia34",
+"frths7h"
+],
+"obs_num": 879
+},
+{
+"obs_mean_onset": 209.414965986,
+"xml_id": [
+"gqrmqj5"
+],
+"obs_num": 880
+},
+{
+"obs_mean_onset": 209.536870748,
+"xml_id": [
+"s1vupd5m",
+"dlpo6p5"
+],
+"obs_num": 881
+},
+{
+"obs_mean_onset": 209.711020408,
+"xml_id": [
+"u1i2lua1",
+"f10jumcc"
+],
+"obs_num": 882
+},
+{
+"obs_mean_onset": 209.850340136,
+"xml_id": [
+"g1js5usz"
+],
+"obs_num": 883
+},
+{
+"obs_mean_onset": 209.954829932,
+"xml_id": [
+"vg0kwgg",
+"j1hag5dr"
+],
+"obs_num": 884
+},
+{
+"obs_mean_onset": 210.128979592,
+"xml_id": [
+"wxo3k1a",
+"l1wbq80i"
+],
+"obs_num": 885
+},
+{
+"obs_mean_onset": 210.337959184,
+"xml_id": [
+"xm5fhhn",
+"n1247cxc"
+],
+"obs_num": 886
+},
+{
+"obs_mean_onset": 210.52952381,
+"xml_id": [
+"y131h8u5",
+"p1dy2hvr"
+],
+"obs_num": 887
+},
+{
+"obs_mean_onset": 210.721088435,
+"xml_id": [
+"i1j0a5sz",
+"oqs11kw",
+"rxhhj0u",
+"svxfa6r",
+"u1r78wcb"
+],
+"obs_num": 888
+},
+{
+"obs_mean_onset": 211.156462585,
+"xml_id": [
+"k1g6l5n7",
+"n1ya00nq",
+"p1b3ho99",
+"rwmva0x"
+],
+"obs_num": 889
+},
+{
+"obs_mean_onset": 211.382857143,
+"xml_id": [
+"x2r2uwm"
+],
+"obs_num": 890
+},
+{
+"obs_mean_onset": 211.487346939,
+"xml_id": [
+"ypkze3t"
+],
+"obs_num": 891
+},
+{
+"obs_mean_onset": 211.591836735,
+"xml_id": [
+"b1ho48zf"
+],
+"obs_num": 892
+},
+{
+"obs_mean_onset": 211.696326531,
+"xml_id": [
+"djnll3x"
+],
+"obs_num": 893
+},
+{
+"obs_mean_onset": 211.783401361,
+"xml_id": [
+"e1ayqr2"
+],
+"obs_num": 894
+},
+{
+"obs_mean_onset": 211.887891156,
+"xml_id": [
+"g12jk1s8"
+],
+"obs_num": 895
+},
+{
+"obs_mean_onset": 211.992380952,
+"xml_id": [
+"v29mhfz",
+"h132j4jy"
+],
+"obs_num": 896
+},
+{
+"obs_mean_onset": 212.410340136,
+"xml_id": [
+"x134n270",
+"a1l9t7fl",
+"circkn8",
+"d1ft5phl"
+],
+"obs_num": 897
+},
+{
+"obs_mean_onset": 212.619319728,
+"xml_id": [
+"kexzj2"
+],
+"obs_num": 898
+},
+{
+"obs_mean_onset": 212.723809524,
+"xml_id": [
+"lq357vr"
+],
+"obs_num": 899
+},
+{
+"obs_mean_onset": 212.82829932,
+"xml_id": [
+"o1c907cq"
+],
+"obs_num": 900
+},
+{
+"obs_mean_onset": 212.932789116,
+"xml_id": [
+"q1smpsmq"
+],
+"obs_num": 901
+},
+{
+"obs_mean_onset": 213.037278912,
+"xml_id": [
+"r4m1zxo"
+],
+"obs_num": 902
+},
+{
+"obs_mean_onset": 213.141768707,
+"xml_id": [
+"t1b9f1zq"
+],
+"obs_num": 903
+},
+{
+"obs_mean_onset": 213.246258503,
+"xml_id": [
+"m1nbh931",
+"r1yj2nh4"
+],
+"obs_num": 904
+},
+{
+"obs_mean_onset": 213.455238095,
+"xml_id": [
+"oxdunfl"
+],
+"obs_num": 905
+},
+{
+"obs_mean_onset": 213.664217687,
+"xml_id": [
+"p11v1g7l"
+],
+"obs_num": 906
+},
+{
+"obs_mean_onset": 213.768707483,
+"xml_id": [
+"x1nc2ymf"
+],
+"obs_num": 907
+},
+{
+"obs_mean_onset": 213.855782313,
+"xml_id": [
+"r1tzwyu5",
+"y1k3e51f"
+],
+"obs_num": 908
+},
+{
+"obs_mean_onset": 213.960272109,
+"xml_id": [
+"a1wghktj"
+],
+"obs_num": 909
+},
+{
+"obs_mean_onset": 214.047346939,
+"xml_id": [
+"sbbo5m9",
+"c1yqw559"
+],
+"obs_num": 910
+},
+{
+"obs_mean_onset": 214.134421769,
+"xml_id": [
+"eqd9ded"
+],
+"obs_num": 911
+},
+{
+"obs_mean_onset": 214.256326531,
+"xml_id": [
+"ujrsx8h",
+"g1xyv1jb"
+],
+"obs_num": 912
+},
+{
+"obs_mean_onset": 214.360816327,
+"xml_id": [
+"iar9fqx"
+],
+"obs_num": 913
+},
+{
+"obs_mean_onset": 214.465306122,
+"xml_id": [
+"t1k84ai3",
+"i17tc1a2"
+],
+"obs_num": 914
+},
+{
+"obs_mean_onset": 214.552380952,
+"xml_id": [
+"j1xayz4m"
+],
+"obs_num": 915
+},
+{
+"obs_mean_onset": 214.639455782,
+"xml_id": [
+"v1b6okxj",
+"lkosw1r"
+],
+"obs_num": 916
+},
+{
+"obs_mean_onset": 214.743945578,
+"xml_id": [
+"m17k1sqj"
+],
+"obs_num": 917
+},
+{
+"obs_mean_onset": 214.86585034,
+"xml_id": [
+"w10t5c3x",
+"o9zbpwp"
+],
+"obs_num": 918
+},
+{
+"obs_mean_onset": 215.04,
+"xml_id": [
+"yekiac0"
+],
+"obs_num": 919
+},
+{
+"obs_mean_onset": 215.318639456,
+"xml_id": [
+"zqdyr49"
+],
+"obs_num": 920
+},
+{
+"obs_mean_onset": 215.527619048,
+"xml_id": [
+"bepjstb"
+],
+"obs_num": 921
+},
+{
+"obs_mean_onset": 215.754013605,
+"xml_id": [
+"eut6e0y",
+"py1lvlr"
+],
+"obs_num": 922
+},
+{
+"obs_mean_onset": 215.945578231,
+"xml_id": [
+"friri1r"
+],
+"obs_num": 923
+},
+{
+"obs_mean_onset": 216.154557823,
+"xml_id": [
+"g1wnro5b"
+],
+"obs_num": 924
+},
+{
+"obs_mean_onset": 216.259047619,
+"xml_id": [
+"uvkz3fr"
+],
+"obs_num": 925
+},
+{
+"obs_mean_onset": 216.346122449,
+"xml_id": [
+"i1i557ng",
+"v1rmoon3"
+],
+"obs_num": 926
+},
+{
+"obs_mean_onset": 216.450612245,
+"xml_id": [
+"w19ewks6"
+],
+"obs_num": 927
+},
+{
+"obs_mean_onset": 216.537687075,
+"xml_id": [
+"j6a989v",
+"y1ltnpai"
+],
+"obs_num": 928
+},
+{
+"obs_mean_onset": 216.642176871,
+"xml_id": [
+"z154m3q6"
+],
+"obs_num": 929
+},
+{
+"obs_mean_onset": 216.746666667,
+"xml_id": [
+"kui3avg",
+"a1f4137y"
+],
+"obs_num": 930
+},
+{
+"obs_mean_onset": 216.833741497,
+"xml_id": [
+"blksq60"
+],
+"obs_num": 931
+},
+{
+"obs_mean_onset": 216.938231293,
+"xml_id": [
+"g11zqbv6",
+"yndp0zf"
+],
+"obs_num": 932
+},
+{
+"obs_mean_onset": 217.042721088,
+"xml_id": [
+"z1x1667n"
+],
+"obs_num": 933
+},
+{
+"obs_mean_onset": 217.147210884,
+"xml_id": [
+"hhgd33s",
+"av63ja6"
+],
+"obs_num": 934
+},
+{
+"obs_mean_onset": 217.234285714,
+"xml_id": [
+"b1bdpa6b"
+],
+"obs_num": 935
+},
+{
+"obs_mean_onset": 217.373605442,
+"xml_id": [
+"i1psd6qn",
+"cs0vio7"
+],
+"obs_num": 936
+},
+{
+"obs_mean_onset": 217.582585034,
+"xml_id": [
+"j7nd7mk"
+],
+"obs_num": 937
+},
+{
+"obs_mean_onset": 217.791564626,
+"xml_id": [
+"k1rouchd"
+],
+"obs_num": 938
+},
+{
+"obs_mean_onset": 217.983129252,
+"xml_id": [
+"l99rm69"
+],
+"obs_num": 939
+},
+{
+"obs_mean_onset": 218.20952381,
+"xml_id": [
+"sx6a0zn",
+"yieeezh"
+],
+"obs_num": 940
+},
+{
+"obs_mean_onset": 218.435918367,
+"xml_id": [
+"u15hegtw"
+],
+"obs_num": 941
+},
+{
+"obs_mean_onset": 218.644897959,
+"xml_id": [
+"v1anundt"
+],
+"obs_num": 942
+},
+{
+"obs_mean_onset": 218.749387755,
+"xml_id": [
+"e2va216"
+],
+"obs_num": 943
+},
+{
+"obs_mean_onset": 218.853877551,
+"xml_id": [
+"x1k5eirw",
+"f5oaq0g"
+],
+"obs_num": 944
+},
+{
+"obs_mean_onset": 218.940952381,
+"xml_id": [
+"h127djv9"
+],
+"obs_num": 945
+},
+{
+"obs_mean_onset": 219.045442177,
+"xml_id": [
+"ysojjx7",
+"jgiz9ji"
+],
+"obs_num": 946
+},
+{
+"obs_mean_onset": 219.149931973,
+"xml_id": [
+"lovb6l2"
+],
+"obs_num": 947
+},
+{
+"obs_mean_onset": 219.237006803,
+"xml_id": [
+"a1o9uky0",
+"n1dp3my0"
+],
+"obs_num": 948
+},
+{
+"obs_mean_onset": 219.341496599,
+"xml_id": [
+"o1bwecy9"
+],
+"obs_num": 949
+},
+{
+"obs_mean_onset": 219.445986395,
+"xml_id": [
+"y1az7fkb",
+"o1pu4sde"
+],
+"obs_num": 950
+},
+{
+"obs_mean_onset": 219.533061224,
+"xml_id": [
+"p1fshzab"
+],
+"obs_num": 951
+},
+{
+"obs_mean_onset": 219.620136054,
+"xml_id": [
+"a1qgzm3o",
+"q1qtip3p"
+],
+"obs_num": 952
+},
+{
+"obs_mean_onset": 219.72462585,
+"xml_id": [
+"r1fvwn9v"
+],
+"obs_num": 953
+},
+{
+"obs_mean_onset": 219.829115646,
+"xml_id": [
+"bwu5h9p",
+"sa7uses"
+],
+"obs_num": 954
+},
+{
+"obs_mean_onset": 220.038095238,
+"xml_id": [
+"dzw4d31"
+],
+"obs_num": 955
+},
+{
+"obs_mean_onset": 220.24707483,
+"xml_id": [
+"e19c03dv",
+"v5o37q3"
+],
+"obs_num": 956
+},
+{
+"obs_mean_onset": 220.42122449,
+"xml_id": [
+"g1bzicwx"
+],
+"obs_num": 957
+},
+{
+"obs_mean_onset": 220.612789116,
+"xml_id": [
+"l1c9w0qs",
+"a17poa7k"
+],
+"obs_num": 958
+},
+{
+"obs_mean_onset": 220.856598639,
+"xml_id": [
+"m1if39am"
+],
+"obs_num": 959
+},
+{
+"obs_mean_onset": 221.100408163,
+"xml_id": [
+"ncr177t"
+],
+"obs_num": 960
+},
+{
+"obs_mean_onset": 221.326802721,
+"xml_id": [
+"occq0a8"
+],
+"obs_num": 961
+},
+{
+"obs_mean_onset": 221.518367347,
+"xml_id": [
+"p1cz5p5u",
+"c13ntikv"
+],
+"obs_num": 962
+},
+{
+"obs_mean_onset": 221.640272109,
+"xml_id": [
+"f1rszywt"
+],
+"obs_num": 963
+},
+{
+"obs_mean_onset": 221.727346939,
+"xml_id": [
+"q1f0r2wo",
+"h1xjbrph"
+],
+"obs_num": 964
+},
+{
+"obs_mean_onset": 221.831836735,
+"xml_id": [
+"igbspd6"
+],
+"obs_num": 965
+},
+{
+"obs_mean_onset": 221.936326531,
+"xml_id": [
+"pe7728y",
+"e1xxzgnn"
+],
+"obs_num": 966
+},
+{
+"obs_mean_onset": 222.145306122,
+"xml_id": [
+"q14eb2ts"
+],
+"obs_num": 967
+},
+{
+"obs_mean_onset": 222.389115646,
+"xml_id": [
+"rzeqi9j"
+],
+"obs_num": 968
+},
+{
+"obs_mean_onset": 222.598095238,
+"xml_id": [
+"sisi53v"
+],
+"obs_num": 969
+},
+{
+"obs_mean_onset": 222.789659864,
+"xml_id": [
+"t20gz27",
+"g17pun6y"
+],
+"obs_num": 970
+},
+{
+"obs_mean_onset": 222.911564626,
+"xml_id": [
+"j135j63g"
+],
+"obs_num": 971
+},
+{
+"obs_mean_onset": 222.998639456,
+"xml_id": [
+"upxn5y8",
+"lmvkzdi"
+],
+"obs_num": 972
+},
+{
+"obs_mean_onset": 223.103129252,
+"xml_id": [
+"mrjme4b"
+],
+"obs_num": 973
+},
+{
+"obs_mean_onset": 223.207619048,
+"xml_id": [
+"w1sstbpr",
+"i15o7s3j"
+],
+"obs_num": 974
+},
+{
+"obs_mean_onset": 223.834557823,
+"xml_id": [
+"y1v0kaey",
+"kyun3oh"
+],
+"obs_num": 975
+},
+{
+"obs_mean_onset": 223.939047619,
+"xml_id": [
+"b1dm40ab",
+"n10n2bfs"
+],
+"obs_num": 976
+},
+{
+"obs_mean_onset": 224.043537415,
+"xml_id": [
+"drbmz0d",
+"pw3iq9e"
+],
+"obs_num": 977
+},
+{
+"obs_mean_onset": 224.148027211,
+"xml_id": [
+"f45t85l",
+"rgmxqgg"
+],
+"obs_num": 978
+},
+{
+"obs_mean_onset": 224.235102041,
+"xml_id": [
+"hmn7rpu",
+"tugs0nj"
+],
+"obs_num": 979
+},
+{
+"obs_mean_onset": 224.339591837,
+"xml_id": [
+"i15t554k",
+"u1sykg57"
+],
+"obs_num": 980
+},
+{
+"obs_mean_onset": 224.461496599,
+"xml_id": [
+"b1ctmskx",
+"v10108m8"
+],
+"obs_num": 981
+},
+{
+"obs_mean_onset": 225.349659864,
+"xml_id": [
+"d19rna4i",
+"g15kk5wz",
+"x11aqyps"
+],
+"obs_num": 982
+},
+{
+"obs_mean_onset": 226.377142857,
+"xml_id": [
+"n1awxd8u",
+"y1k2qkd8"
+],
+"obs_num": 983
+},
+{
+"obs_mean_onset": 226.551292517,
+"xml_id": [
+"177+1/8"
+],
+"obs_num": 984
+},
+{
+"obs_mean_onset": 226.847346939,
+"xml_id": [
+"c1f41cwt"
+],
+"obs_num": 985
+},
+{
+"obs_mean_onset": 227.213061224,
+"xml_id": [
+"f2w6apz"
+],
+"obs_num": 986
+},
+{
+"obs_mean_onset": 227.543945578,
+"xml_id": [
+"suprz4a",
+"fv1n28h"
+],
+"obs_num": 987
+},
+{
+"obs_mean_onset": 227.874829932,
+"xml_id": [
+"178+1/4"
+],
+"obs_num": 988
+},
+{
+"obs_mean_onset": 228.397278912,
+"xml_id": [
+"hrsyl2d"
+],
+"obs_num": 989
+},
+{
+"obs_mean_onset": 228.623673469,
+"xml_id": [
+"j191mm6l"
+],
+"obs_num": 990
+},
+{
+"obs_mean_onset": 229.059047619,
+"xml_id": [
+"x1czl6sk",
+"t8yehid",
+"j11svmll"
+],
+"obs_num": 991
+},
+{
+"obs_mean_onset": 229.285442177,
+"xml_id": [
+"k34vk1u"
+],
+"obs_num": 992
+},
+{
+"obs_mean_onset": 229.494421769,
+"xml_id": [
+"y1nb530d",
+"l1pnyuw9",
+"o1riblxs"
+],
+"obs_num": 993
+},
+{
+"obs_mean_onset": 229.894965986,
+"xml_id": [
+"z1id29wj"
+],
+"obs_num": 994
+},
+{
+"obs_mean_onset": 230.103945578,
+"xml_id": [
+"p1ut9dq5",
+"r12umaw8"
+],
+"obs_num": 995
+},
+{
+"obs_mean_onset": 230.31292517,
+"xml_id": [
+"x16wzr1p",
+"mpeyp5l",
+"p1nrdeo9"
+],
+"obs_num": 996
+},
+{
+"obs_mean_onset": 230.765714286,
+"xml_id": [
+"y42jvfm"
+],
+"obs_num": 997
+},
+{
+"obs_mean_onset": 231.235918367,
+"xml_id": [
+"qdygmu7",
+"s1ym9k4e"
+],
+"obs_num": 998
+},
+{
+"obs_mean_onset": 231.671292517,
+"xml_id": [
+"e1p9krnn",
+"m1part09"
+],
+"obs_num": 999
+},
+{
+"obs_mean_onset": 232.106666667,
+"xml_id": [
+"gjcvv54",
+"i1scyhhb"
+],
+"obs_num": 1000
+},
+{
+"obs_mean_onset": 232.298231293,
+"xml_id": [
+"vbcdi1a"
+],
+"obs_num": 1001
+},
+{
+"obs_mean_onset": 232.507210884,
+"xml_id": [
+"ybw9l1i"
+],
+"obs_num": 1002
+},
+{
+"obs_mean_onset": 232.751020408,
+"xml_id": [
+"zlc07nr"
+],
+"obs_num": 1003
+},
+{
+"obs_mean_onset": 232.942585034,
+"xml_id": [
+"le7lz41",
+"yiw5b2l"
+],
+"obs_num": 1004
+},
+{
+"obs_mean_onset": 233.151564626,
+"xml_id": [
+"a1syhb6w"
+],
+"obs_num": 1005
+},
+{
+"obs_mean_onset": 233.377959184,
+"xml_id": [
+"n1b4gjah",
+"plh59n2",
+"b183s2wz"
+],
+"obs_num": 1006
+},
+{
+"obs_mean_onset": 233.586938776,
+"xml_id": [
+"d18lavkq"
+],
+"obs_num": 1007
+},
+{
+"obs_mean_onset": 233.795918367,
+"xml_id": [
+"euzuj3i"
+],
+"obs_num": 1008
+},
+{
+"obs_mean_onset": 233.970068027,
+"xml_id": [
+"gm52q6d"
+],
+"obs_num": 1009
+},
+{
+"obs_mean_onset": 234.196462585,
+"xml_id": [
+"s18hamqd",
+"e1irhuwp"
+],
+"obs_num": 1010
+},
+{
+"obs_mean_onset": 234.405442177,
+"xml_id": [
+"h6076pn"
+],
+"obs_num": 1011
+},
+{
+"obs_mean_onset": 234.597006803,
+"xml_id": [
+"t19triia",
+"vqe9mdi",
+"iz4podx"
+],
+"obs_num": 1012
+},
+{
+"obs_mean_onset": 234.788571429,
+"xml_id": [
+"k1frrtfl"
+],
+"obs_num": 1013
+},
+{
+"obs_mean_onset": 235.014965986,
+"xml_id": [
+"w51svbl",
+"z1cu1ini",
+"l1f5c6cl"
+],
+"obs_num": 1014
+},
+{
+"obs_mean_onset": 235.25877551,
+"xml_id": [
+"m12ni2y3"
+],
+"obs_num": 1015
+},
+{
+"obs_mean_onset": 235.43292517,
+"xml_id": [
+"a1646o1u",
+"cxfztiu",
+"odwbeii"
+],
+"obs_num": 1016
+},
+{
+"obs_mean_onset": 235.624489796,
+"xml_id": [
+"qqidq6g"
+],
+"obs_num": 1017
+},
+{
+"obs_mean_onset": 235.850884354,
+"xml_id": [
+"sdujwu0"
+],
+"obs_num": 1018
+},
+{
+"obs_mean_onset": 236.059863946,
+"xml_id": [
+"tquht3"
+],
+"obs_num": 1019
+},
+{
+"obs_mean_onset": 236.251428571,
+"xml_id": [
+"u17muegr"
+],
+"obs_num": 1020
+},
+{
+"obs_mean_onset": 236.477823129,
+"xml_id": [
+"vjh0ndd"
+],
+"obs_num": 1021
+},
+{
+"obs_mean_onset": 236.651972789,
+"xml_id": [
+"e1c5ob7t",
+"s1sc39gv",
+"w1ryqmuv"
+],
+"obs_num": 1022
+},
+{
+"obs_mean_onset": 236.773877551,
+"xml_id": [
+"fai9dep"
+],
+"obs_num": 1023
+},
+{
+"obs_mean_onset": 236.860952381,
+"xml_id": [
+"y1sv8rfo",
+"a1kxeob4"
+],
+"obs_num": 1024
+},
+{
+"obs_mean_onset": 236.913197279,
+"xml_id": [
+"185+5/32"
+],
+"obs_num": 1025
+},
+{
+"obs_mean_onset": 236.948027211,
+"xml_id": [
+"goglirc"
+],
+"obs_num": 1026
+},
+{
+"obs_mean_onset": 237.069931973,
+"xml_id": [
+"j1a7zh7y",
+"fxo84wv",
+"j76as5r"
+],
+"obs_num": 1027
+},
+{
+"obs_mean_onset": 237.174421769,
+"xml_id": [
+"k62bglx"
+],
+"obs_num": 1028
+},
+{
+"obs_mean_onset": 237.261496599,
+"xml_id": [
+"lqqqefr",
+"n3v7b1n"
+],
+"obs_num": 1029
+},
+{
+"obs_mean_onset": 237.313741497,
+"xml_id": [
+"185+13/32"
+],
+"obs_num": 1030
+},
+{
+"obs_mean_onset": 237.348571429,
+"xml_id": [
+"lo9wq53"
+],
+"obs_num": 1031
+},
+{
+"obs_mean_onset": 237.47047619,
+"xml_id": [
+"o1fwp8ib",
+"p1w8ubu7",
+"tbdk0bu"
+],
+"obs_num": 1032
+},
+{
+"obs_mean_onset": 237.574965986,
+"xml_id": [
+"pr1zk8a"
+],
+"obs_num": 1033
+},
+{
+"obs_mean_onset": 237.679455782,
+"xml_id": [
+"v1e5hcjh",
+"xu1puq1"
+],
+"obs_num": 1034
+},
+{
+"obs_mean_onset": 237.73170068,
+"xml_id": [
+"185+21/32"
+],
+"obs_num": 1035
+},
+{
+"obs_mean_onset": 237.766530612,
+"xml_id": [
+"q6yc63c"
+],
+"obs_num": 1036
+},
+{
+"obs_mean_onset": 237.888435374,
+"xml_id": [
+"h1sa1u22",
+"eww4lki",
+"i8zigis"
+],
+"obs_num": 1037
+},
+{
+"obs_mean_onset": 237.99292517,
+"xml_id": [
+"i1sofbix"
+],
+"obs_num": 1038
+},
+{
+"obs_mean_onset": 238.08,
+"xml_id": [
+"k1tir2tt",
+"m3gk5fw"
+],
+"obs_num": 1039
+},
+{
+"obs_mean_onset": 238.132244898,
+"xml_id": [
+"186+5/32"
+],
+"obs_num": 1040
+},
+{
+"obs_mean_onset": 238.16707483,
+"xml_id": [
+"j1efpi0s"
+],
+"obs_num": 1041
+},
+{
+"obs_mean_onset": 238.288979592,
+"xml_id": [
+"m1610xko",
+"o1esbhxy",
+"rvg66j7"
+],
+"obs_num": 1042
+},
+{
+"obs_mean_onset": 238.393469388,
+"xml_id": [
+"n1uup9u6"
+],
+"obs_num": 1043
+},
+{
+"obs_mean_onset": 238.480544218,
+"xml_id": [
+"s11w7yen",
+"ueq994u"
+],
+"obs_num": 1044
+},
+{
+"obs_mean_onset": 238.532789116,
+"xml_id": [
+"186+13/32"
+],
+"obs_num": 1045
+},
+{
+"obs_mean_onset": 238.567619048,
+"xml_id": [
+"osvzcit"
+],
+"obs_num": 1046
+},
+{
+"obs_mean_onset": 238.706938776,
+"xml_id": [
+"r1qbd5g1",
+"w9wjcne"
+],
+"obs_num": 1047
+},
+{
+"obs_mean_onset": 238.811428571,
+"xml_id": [
+"s199w8x0"
+],
+"obs_num": 1048
+},
+{
+"obs_mean_onset": 238.898503401,
+"xml_id": [
+"z1mg2niq"
+],
+"obs_num": 1049
+},
+{
+"obs_mean_onset": 238.968163265,
+"xml_id": [
+"186+21/32"
+],
+"obs_num": 1050
+},
+{
+"obs_mean_onset": 239.002993197,
+"xml_id": [
+"uzt70yw"
+],
+"obs_num": 1051
+},
+{
+"obs_mean_onset": 239.124897959,
+"xml_id": [
+"ac72g7c",
+"c1t5xxeh",
+"k18q2vmm"
+],
+"obs_num": 1052
+},
+{
+"obs_mean_onset": 239.316462585,
+"xml_id": [
+"m1n8vquv"
+],
+"obs_num": 1053
+},
+{
+"obs_mean_onset": 239.525442177,
+"xml_id": [
+"d1rzqgy4",
+"xi5d3oq",
+"odv3zh"
+],
+"obs_num": 1054
+},
+{
+"obs_mean_onset": 239.717006803,
+"xml_id": [
+"qxj9vbw"
+],
+"obs_num": 1055
+},
+{
+"obs_mean_onset": 239.943401361,
+"xml_id": [
+"e53db1r",
+"y2k9rao",
+"s1itsbe4"
+],
+"obs_num": 1056
+},
+{
+"obs_mean_onset": 240.169795918,
+"xml_id": [
+"udvvf38"
+],
+"obs_num": 1057
+},
+{
+"obs_mean_onset": 240.396190476,
+"xml_id": [
+"ztvr726",
+"xo2h3l1",
+"r5n9y6q"
+],
+"obs_num": 1058
+},
+{
+"obs_mean_onset": 240.779319728,
+"xml_id": [
+"a1lu1p0a"
+],
+"obs_num": 1059
+},
+{
+"obs_mean_onset": 240.98829932,
+"xml_id": [
+"to1dysw"
+],
+"obs_num": 1060
+},
+{
+"obs_mean_onset": 241.214693878,
+"xml_id": [
+"bqdg77a",
+"vr25r3h"
+],
+"obs_num": 1061
+},
+{
+"obs_mean_onset": 241.754557823,
+"xml_id": [
+"gmdpxbj",
+"q1jh5fxo"
+],
+"obs_num": 1062
+},
+{
+"obs_mean_onset": 242.068027211,
+"xml_id": [
+"iczzalt"
+],
+"obs_num": 1063
+},
+{
+"obs_mean_onset": 242.398911565,
+"xml_id": [
+"j5kbula"
+],
+"obs_num": 1064
+},
+{
+"obs_mean_onset": 242.555646259,
+"xml_id": [
+"l1wje7ac",
+"zgkf6or"
+],
+"obs_num": 1065
+},
+{
+"obs_mean_onset": 242.729795918,
+"xml_id": [
+"mblnzzu",
+"cq9p0qd"
+],
+"obs_num": 1066
+},
+{
+"obs_mean_onset": 242.903945578,
+"xml_id": [
+"nqs2yrq",
+"dub9h4w"
+],
+"obs_num": 1067
+},
+{
+"obs_mean_onset": 243.095510204,
+"xml_id": [
+"l76y7x4",
+"b1eak1hs"
+],
+"obs_num": 1068
+},
+{
+"obs_mean_onset": 243.304489796,
+"xml_id": [
+"m1xfgg20",
+"c1654x7b"
+],
+"obs_num": 1069
+},
+{
+"obs_mean_onset": 243.513469388,
+"xml_id": [
+"nrrhctd",
+"djkls95"
+],
+"obs_num": 1070
+},
+{
+"obs_mean_onset": 243.739863946,
+"xml_id": [
+"o1a86tan",
+"f1kpruia"
+],
+"obs_num": 1071
+},
+{
+"obs_mean_onset": 243.948843537,
+"xml_id": [
+"p1t5xap3",
+"g156v0k9"
+],
+"obs_num": 1072
+},
+{
+"obs_mean_onset": 244.157823129,
+"xml_id": [
+"q1k0aq14",
+"i6mj471"
+],
+"obs_num": 1073
+},
+{
+"obs_mean_onset": 244.349387755,
+"xml_id": [
+"ru2mcqi",
+"g18ah3u"
+],
+"obs_num": 1074
+},
+{
+"obs_mean_onset": 244.575782313,
+"xml_id": [
+"jb0j4l1"
+],
+"obs_num": 1075
+},
+{
+"obs_mean_onset": 244.784761905,
+"xml_id": [
+"sz0dpfk",
+"v1dsw0hx",
+"kh70gn7"
+],
+"obs_num": 1076
+},
+{
+"obs_mean_onset": 244.993741497,
+"xml_id": [
+"lbilfcn"
+],
+"obs_num": 1077
+},
+{
+"obs_mean_onset": 245.202721088,
+"xml_id": [
+"x1lm29wr",
+"z1k83l06",
+"nixplds"
+],
+"obs_num": 1078
+},
+{
+"obs_mean_onset": 245.394285714,
+"xml_id": [
+"p73ui16"
+],
+"obs_num": 1079
+},
+{
+"obs_mean_onset": 245.620680272,
+"xml_id": [
+"yldnyw6",
+"a1atw0nv",
+"o10lu32b"
+],
+"obs_num": 1080
+},
+{
+"obs_mean_onset": 245.812244898,
+"xml_id": [
+"q1mlfp6q"
+],
+"obs_num": 1081
+},
+{
+"obs_mean_onset": 246.02122449,
+"xml_id": [
+"bm533hk"
+],
+"obs_num": 1082
+},
+{
+"obs_mean_onset": 246.212789116,
+"xml_id": [
+"u1cax1de"
+],
+"obs_num": 1083
+},
+{
+"obs_mean_onset": 246.421768707,
+"xml_id": [
+"coocuro"
+],
+"obs_num": 1084
+},
+{
+"obs_mean_onset": 246.630748299,
+"xml_id": [
+"w1dbxy1r"
+],
+"obs_num": 1085
+},
+{
+"obs_mean_onset": 246.839727891,
+"xml_id": [
+"kh0ot61",
+"r1ai86yu",
+"ur0j025"
+],
+"obs_num": 1086
+},
+{
+"obs_mean_onset": 247.048707483,
+"xml_id": [
+"v135ypaw",
+"y1ack08q"
+],
+"obs_num": 1087
+},
+{
+"obs_mean_onset": 247.257687075,
+"xml_id": [
+"lurbqpi"
+],
+"obs_num": 1088
+},
+{
+"obs_mean_onset": 247.449251701,
+"xml_id": [
+"a1n6pj1j",
+"d1pjnldc"
+],
+"obs_num": 1089
+},
+{
+"obs_mean_onset": 247.675646259,
+"xml_id": [
+"mkm5cq1"
+],
+"obs_num": 1090
+},
+{
+"obs_mean_onset": 247.88462585,
+"xml_id": [
+"fczgl4e",
+"i1rt2z08"
+],
+"obs_num": 1091
+},
+{
+"obs_mean_onset": 248.093605442,
+"xml_id": [
+"u3xkn84",
+"b113ylf0",
+"ev9rhd5"
+],
+"obs_num": 1092
+},
+{
+"obs_mean_onset": 248.302585034,
+"xml_id": [
+"f10l5m9z",
+"i1iu7pdk"
+],
+"obs_num": 1093
+},
+{
+"obs_mean_onset": 248.528979592,
+"xml_id": [
+"vd8t0cs"
+],
+"obs_num": 1094
+},
+{
+"obs_mean_onset": 248.720544218,
+"xml_id": [
+"k1s0nuga",
+"n1nd5z2q"
+],
+"obs_num": 1095
+},
+{
+"obs_mean_onset": 248.92952381,
+"xml_id": [
+"x1bobuha"
+],
+"obs_num": 1096
+},
+{
+"obs_mean_onset": 249.155918367,
+"xml_id": [
+"pqg08m2",
+"s1b57ogf"
+],
+"obs_num": 1097
+},
+{
+"obs_mean_onset": 249.347482993,
+"xml_id": [
+"e1f62507",
+"lbfhcdz",
+"o18jm39"
+],
+"obs_num": 1098
+},
+{
+"obs_mean_onset": 249.556462585,
+"xml_id": [
+"puayq40",
+"s1hgxhpx"
+],
+"obs_num": 1099
+},
+{
+"obs_mean_onset": 249.765442177,
+"xml_id": [
+"f1f24676"
+],
+"obs_num": 1100
+},
+{
+"obs_mean_onset": 249.974421769,
+"xml_id": [
+"u1rqomjh",
+"xip4fgm"
+],
+"obs_num": 1101
+},
+{
+"obs_mean_onset": 250.183401361,
+"xml_id": [
+"g1jmjmyi"
+],
+"obs_num": 1102
+},
+{
+"obs_mean_onset": 250.392380952,
+"xml_id": [
+"z19ksl3k",
+"c1b12so5"
+],
+"obs_num": 1103
+},
+{
+"obs_mean_onset": 250.583945578,
+"xml_id": [
+"r147iaja",
+"t1yr63yw",
+"w1epfau7",
+"z1v3lt6r"
+],
+"obs_num": 1104
+},
+{
+"obs_mean_onset": 250.810340136,
+"xml_id": [
+"a1njzbgy",
+"d1kapl9h"
+],
+"obs_num": 1105
+},
+{
+"obs_mean_onset": 251.019319728,
+"xml_id": [
+"u1xlpbtv"
+],
+"obs_num": 1106
+},
+{
+"obs_mean_onset": 251.22829932,
+"xml_id": [
+"hrrtvuj",
+"k1uz3wjy"
+],
+"obs_num": 1107
+},
+{
+"obs_mean_onset": 251.419863946,
+"xml_id": [
+"w157aydw"
+],
+"obs_num": 1108
+},
+{
+"obs_mean_onset": 251.628843537,
+"xml_id": [
+"m1v8906n",
+"p5fm6ap"
+],
+"obs_num": 1109
+},
+{
+"obs_mean_onset": 251.837823129,
+"xml_id": [
+"mbbz5xa",
+"pc6i2fx",
+"n2b7ruz",
+"q7302l3"
+],
+"obs_num": 1110
+},
+{
+"obs_mean_onset": 252.064217687,
+"xml_id": [
+"s1yp95lq",
+"v4m9iv2"
+],
+"obs_num": 1111
+},
+{
+"obs_mean_onset": 252.290612245,
+"xml_id": [
+"r8au5lj"
+],
+"obs_num": 1112
+},
+{
+"obs_mean_onset": 252.482176871,
+"xml_id": [
+"a1cvxdzv",
+"d18880wi"
+],
+"obs_num": 1113
+},
+{
+"obs_mean_onset": 252.691156463,
+"xml_id": [
+"t99oe1x"
+],
+"obs_num": 1114
+},
+{
+"obs_mean_onset": 252.882721088,
+"xml_id": [
+"g1vdep0m",
+"jk1c7jn"
+],
+"obs_num": 1115
+},
+{
+"obs_mean_onset": 253.109115646,
+"xml_id": [
+"erjbda1",
+"h103n3pb",
+"j1e7hkpu",
+"ll93zat"
+],
+"obs_num": 1116
+},
+{
+"obs_mean_onset": 253.318095238,
+"xml_id": [
+"n5ej27f",
+"p25viij"
+],
+"obs_num": 1117
+},
+{
+"obs_mean_onset": 253.52707483,
+"xml_id": [
+"j1luqeje"
+],
+"obs_num": 1118
+},
+{
+"obs_mean_onset": 253.736054422,
+"xml_id": [
+"uu9lhwk",
+"wwulcu4"
+],
+"obs_num": 1119
+},
+{
+"obs_mean_onset": 253.945034014,
+"xml_id": [
+"k1740m2f"
+],
+"obs_num": 1120
+},
+{
+"obs_mean_onset": 254.119183673,
+"xml_id": [
+"z1arrokf",
+"b9uujih"
+],
+"obs_num": 1121
+},
+{
+"obs_mean_onset": 254.328163265,
+"xml_id": [
+"syukz4n",
+"v1ndy5ch",
+"bb3oir4",
+"d16dkfxb"
+],
+"obs_num": 1122
+},
+{
+"obs_mean_onset": 254.554557823,
+"xml_id": [
+"eicm84g",
+"g1c2ndvy"
+],
+"obs_num": 1123
+},
+{
+"obs_mean_onset": 254.780952381,
+"xml_id": [
+"x1hth2aa"
+],
+"obs_num": 1124
+},
+{
+"obs_mean_onset": 254.972517007,
+"xml_id": [
+"k1suwxte",
+"m1otjeun"
+],
+"obs_num": 1125
+},
+{
+"obs_mean_onset": 255.181496599,
+"xml_id": [
+"y14nid2u"
+],
+"obs_num": 1126
+},
+{
+"obs_mean_onset": 255.373061224,
+"xml_id": [
+"o1uoia7t",
+"q1bb55a2"
+],
+"obs_num": 1127
+},
+{
+"obs_mean_onset": 255.56462585,
+"xml_id": [
+"n5y7h0a",
+"q15lt7wp",
+"p44vpbj",
+"r7y6978"
+],
+"obs_num": 1128
+},
+{
+"obs_mean_onset": 255.791020408,
+"xml_id": [
+"s1e7n3f6",
+"u1exbqha"
+],
+"obs_num": 1129
+},
+{
+"obs_mean_onset": 256.0,
+"xml_id": [
+"solp1v"
+],
+"obs_num": 1130
+},
+{
+"obs_mean_onset": 256.191564626,
+"xml_id": [
+"y1ckpk4r",
+"axs5tl8"
+],
+"obs_num": 1131
+},
+{
+"obs_mean_onset": 256.400544218,
+"xml_id": [
+"u1br2aql",
+"w16bixrx",
+"e15290mz",
+"g1r5c62m"
+],
+"obs_num": 1132
+},
+{
+"obs_mean_onset": 256.626938776,
+"xml_id": [
+"i7pybi0",
+"k1m5at2m"
+],
+"obs_num": 1133
+},
+{
+"obs_mean_onset": 256.853333333,
+"xml_id": [
+"knwkzqi"
+],
+"obs_num": 1134
+},
+{
+"obs_mean_onset": 257.027482993,
+"xml_id": [
+"m1jk5ra0",
+"o1qcsbwc"
+],
+"obs_num": 1135
+},
+{
+"obs_mean_onset": 257.236462585,
+"xml_id": [
+"ll1wvvs",
+"n9gvk4t",
+"t1dk4l8y",
+"w1nttrnq"
+],
+"obs_num": 1136
+},
+{
+"obs_mean_onset": 257.462857143,
+"xml_id": [
+"y19g0qf4",
+"adf3p6d"
+],
+"obs_num": 1137
+},
+{
+"obs_mean_onset": 257.689251701,
+"xml_id": [
+"okff21m"
+],
+"obs_num": 1138
+},
+{
+"obs_mean_onset": 257.880816327,
+"xml_id": [
+"f1jfcat6",
+"hh0gc2d"
+],
+"obs_num": 1139
+},
+{
+"obs_mean_onset": 258.089795918,
+"xml_id": [
+"v1olb04a"
+],
+"obs_num": 1140
+},
+{
+"obs_mean_onset": 258.281360544,
+"xml_id": [
+"dibwl1v",
+"f2kgnix"
+],
+"obs_num": 1141
+},
+{
+"obs_mean_onset": 258.490340136,
+"xml_id": [
+"y1l6csml"
+],
+"obs_num": 1142
+},
+{
+"obs_mean_onset": 258.699319728,
+"xml_id": [
+"i17jxesq",
+"k13cvwm6"
+],
+"obs_num": 1143
+},
+{
+"obs_mean_onset": 258.90829932,
+"xml_id": [
+"z6o3zes"
+],
+"obs_num": 1144
+},
+{
+"obs_mean_onset": 259.08244898,
+"xml_id": [
+"n1vowbjy",
+"pekv6et"
+],
+"obs_num": 1145
+},
+{
+"obs_mean_onset": 259.291428571,
+"xml_id": [
+"p1r3f6fx",
+"oiamh1d",
+"r1pbsvuv"
+],
+"obs_num": 1146
+},
+{
+"obs_mean_onset": 259.482993197,
+"xml_id": [
+"s1ttu6fq",
+"v15qs55s"
+],
+"obs_num": 1147
+},
+{
+"obs_mean_onset": 259.726802721,
+"xml_id": [
+"w1oxrw2t",
+"y1o4kiro"
+],
+"obs_num": 1148
+},
+{
+"obs_mean_onset": 259.918367347,
+"xml_id": [
+"a59mpyp",
+"cruro1e"
+],
+"obs_num": 1149
+},
+{
+"obs_mean_onset": 260.144761905,
+"xml_id": [
+"e1odj6pd",
+"gq54kb2"
+],
+"obs_num": 1150
+},
+{
+"obs_mean_onset": 260.353741497,
+"xml_id": [
+"szly6m1",
+"hpmlgxv",
+"jdvhtp7"
+],
+"obs_num": 1151
+},
+{
+"obs_mean_onset": 260.545306122,
+"xml_id": [
+"ihf3o9m",
+"h1gdbe5o",
+"j1632tha"
+],
+"obs_num": 1152
+},
+{
+"obs_mean_onset": 260.719455782,
+"xml_id": [
+"k190ib1b",
+"ou8dj3d"
+],
+"obs_num": 1153
+},
+{
+"obs_mean_onset": 260.963265306,
+"xml_id": [
+"ph8fo66",
+"r63ilvh"
+],
+"obs_num": 1154
+},
+{
+"obs_mean_onset": 261.154829932,
+"xml_id": [
+"t1wpp37c",
+"v19dvko5"
+],
+"obs_num": 1155
+},
+{
+"obs_mean_onset": 261.363809524,
+"xml_id": [
+"xdqzj21",
+"zbtoouk"
+],
+"obs_num": 1156
+},
+{
+"obs_mean_onset": 261.572789116,
+"xml_id": [
+"lsyk9j6",
+"a18wxm6u",
+"c94hgwy"
+],
+"obs_num": 1157
+},
+{
+"obs_mean_onset": 261.781768707,
+"xml_id": [
+"bkcvk2g",
+"b18lpu7n",
+"daxk7dx"
+],
+"obs_num": 1158
+},
+{
+"obs_mean_onset": 261.990748299,
+"xml_id": [
+"c156djhf",
+"e1yqz763",
+"ge029lg"
+],
+"obs_num": 1159
+},
+{
+"obs_mean_onset": 262.199727891,
+"xml_id": [
+"el052oo",
+"i141i2uk",
+"k58pxue"
+],
+"obs_num": 1160
+},
+{
+"obs_mean_onset": 262.408707483,
+"xml_id": [
+"f164tczg",
+"l15qy5lm",
+"n11dj796"
+],
+"obs_num": 1161
+},
+{
+"obs_mean_onset": 262.600272109,
+"xml_id": [
+"g1mz908p",
+"pso1tly",
+"r1og4ueq"
+],
+"obs_num": 1162
+},
+{
+"obs_mean_onset": 262.826666667,
+"xml_id": [
+"h1xu50bh",
+"s1ngp1zl",
+"u1w4h2q3"
+],
+"obs_num": 1163
+},
+{
+"obs_mean_onset": 263.018231293,
+"xml_id": [
+"v1hx0xku",
+"v1tkq29i",
+"x1uv7ju3"
+],
+"obs_num": 1164
+},
+{
+"obs_mean_onset": 263.209795918,
+"xml_id": [
+"y1nc02ph",
+"b1uz6s96"
+],
+"obs_num": 1165
+},
+{
+"obs_mean_onset": 263.453605442,
+"xml_id": [
+"dwwzr8b",
+"fo9r7xz"
+],
+"obs_num": 1166
+},
+{
+"obs_mean_onset": 263.645170068,
+"xml_id": [
+"g13a8jws",
+"j1wsa49v"
+],
+"obs_num": 1167
+},
+{
+"obs_mean_onset": 263.836734694,
+"xml_id": [
+"kiipii0",
+"mux7y3r"
+],
+"obs_num": 1168
+},
+{
+"obs_mean_onset": 264.02829932,
+"xml_id": [
+"o1vj4p87",
+"qh8wdcc"
+],
+"obs_num": 1169
+},
+{
+"obs_mean_onset": 264.219863946,
+"xml_id": [
+"g9jhv74",
+"p1me5xcr",
+"s10z79l0"
+],
+"obs_num": 1170
+},
+{
+"obs_mean_onset": 264.690068027,
+"xml_id": [
+"ik9r04f",
+"dtolkcl",
+"t1g39qje",
+"w5xou5j"
+],
+"obs_num": 1171
+},
+{
+"obs_mean_onset": 265.108027211,
+"xml_id": [
+"k1mnaf2u",
+"e1tt64sj",
+"x1pxjksk",
+"a2qkn64"
+],
+"obs_num": 1172
+},
+{
+"obs_mean_onset": 265.63047619,
+"xml_id": [
+"kas4eh7",
+"i17kshhq",
+"z1501v7k",
+"d1hwm3l4"
+],
+"obs_num": 1173
+},
+{
+"obs_mean_onset": 266.536054422,
+"xml_id": [
+"n9jzt1m",
+"e1d7yej1",
+"g4fd3ei"
+],
+"obs_num": 1174
+},
+{
+"obs_mean_onset": 267.180408163,
+"xml_id": [
+"w1h6xm3p",
+"m1iafw40",
+"o16cphwh",
+"f178x427"
+],
+"obs_num": 1175
+},
+{
+"obs_mean_onset": 267.563537415,
+"xml_id": [
+"x1hp6wb2",
+"p1lhxfng",
+"ruczlp",
+"h13n4osy"
+],
+"obs_num": 1176
+},
+{
+"obs_mean_onset": 267.981496599,
+"xml_id": [
+"yjcubso",
+"smfkilu",
+"uzttskp",
+"jlrd02n"
+],
+"obs_num": 1177
+},
+{
+"obs_mean_onset": 268.399455782,
+"xml_id": [
+"bd7y9x9",
+"o1fuacen",
+"r191zf8o",
+"s1b97y4m"
+],
+"obs_num": 1178
+},
+{
+"obs_mean_onset": 269.113469388,
+"xml_id": [
+"d1kwwgd0",
+"ummb86k",
+"we4mt5v"
+],
+"obs_num": 1179
+},
+{
+"obs_mean_onset": 269.531428571,
+"xml_id": [
+"m1kii4x4",
+"u9u5rjt",
+"xj4dey2"
+],
+"obs_num": 1180
+},
+{
+"obs_mean_onset": 269.775238095,
+"xml_id": [
+"ykfdlwc",
+"a1ocn8n3"
+],
+"obs_num": 1181
+},
+{
+"obs_mean_onset": 269.966802721,
+"xml_id": [
+"of1o26q",
+"c16yy0sf",
+"ek5cpj1"
+],
+"obs_num": 1182
+},
+{
+"obs_mean_onset": 270.349931973,
+"xml_id": [
+"ptwqr17",
+"f7ot9b3",
+"h1q8pytw"
+],
+"obs_num": 1183
+},
+{
+"obs_mean_onset": 270.733061224,
+"xml_id": [
+"y1g7fz8b",
+"g1lo4po9",
+"iigv8c"
+],
+"obs_num": 1184
+},
+{
+"obs_mean_onset": 270.994285714,
+"xml_id": [
+"j1dzvute"
+],
+"obs_num": 1185
+},
+{
+"obs_mean_onset": 271.18585034,
+"xml_id": [
+"lxwqvek"
+],
+"obs_num": 1186
+},
+{
+"obs_mean_onset": 271.36,
+"xml_id": [
+"nsppvn2"
+],
+"obs_num": 1187
+},
+{
+"obs_mean_onset": 271.53414966,
+"xml_id": [
+"p1lghfh3"
+],
+"obs_num": 1188
+},
+{
+"obs_mean_onset": 271.725714286,
+"xml_id": [
+"s5186cm"
+],
+"obs_num": 1189
+},
+{
+"obs_mean_onset": 271.934693878,
+"xml_id": [
+"b15c7xou",
+"d11q1g3h",
+"r1nvoxsx"
+],
+"obs_num": 1190
+},
+{
+"obs_mean_onset": 272.370068027,
+"xml_id": [
+"f2l5go6",
+"hm7qak3",
+"tls6z5p"
+],
+"obs_num": 1191
+},
+{
+"obs_mean_onset": 272.822857143,
+"xml_id": [
+"jzsk3y4",
+"ljyhugv",
+"vmi6l57"
+],
+"obs_num": 1192
+},
+{
+"obs_mean_onset": 273.293061224,
+"xml_id": [
+"r7ip4rw",
+"m1qljzhe",
+"clpquyv"
+],
+"obs_num": 1193
+},
+{
+"obs_mean_onset": 273.92,
+"xml_id": [
+"f1la5s3o"
+],
+"obs_num": 1194
+},
+{
+"obs_mean_onset": 274.024489796,
+"xml_id": [
+"g1i2nsz2"
+],
+"obs_num": 1195
+},
+{
+"obs_mean_onset": 274.163809524,
+"xml_id": [
+"pg1hbmx",
+"h1tpexru"
+],
+"obs_num": 1196
+},
+{
+"obs_mean_onset": 274.668843537,
+"xml_id": [
+"wnmvn42",
+"sztbbmv",
+"o1rqrune",
+"hwjufq"
+],
+"obs_num": 1197
+},
+{
+"obs_mean_onset": 275.051972789,
+"xml_id": [
+"xaj99ix",
+"t1b2qla7",
+"pytuze2",
+"jlxef4m"
+],
+"obs_num": 1198
+},
+{
+"obs_mean_onset": 275.452517007,
+"xml_id": [
+"yet1r4c",
+"ubhaqsy",
+"qebtdll",
+"l1aqvg7q"
+],
+"obs_num": 1199
+},
+{
+"obs_mean_onset": 275.95755102,
+"xml_id": [
+"y1f26hdy",
+"uecshhi",
+"qpcor76",
+"l8ogv34"
+],
+"obs_num": 1200
+},
+{
+"obs_mean_onset": 276.810884354,
+"xml_id": [
+"b16q4szu",
+"w14l1qyk",
+"suxlkc3",
+"ob3nh6o"
+],
+"obs_num": 1201
+},
+{
+"obs_mean_onset": 277.246258503,
+"xml_id": [
+"io1n14s",
+"q1dt1xry",
+"t10id5ix"
+],
+"obs_num": 1202
+},
+{
+"obs_mean_onset": 277.437823129,
+"xml_id": [
+"u1ubq6z5",
+"wn8cmn7"
+],
+"obs_num": 1203
+},
+{
+"obs_mean_onset": 277.646802721,
+"xml_id": [
+"kvvfm7a",
+"yl4g50a",
+"a1ati9df"
+],
+"obs_num": 1204
+},
+{
+"obs_mean_onset": 278.064761905,
+"xml_id": [
+"lrn0t8q",
+"b1be98p0",
+"d1avigm3"
+],
+"obs_num": 1205
+},
+{
+"obs_mean_onset": 278.465306122,
+"xml_id": [
+"azh88bi",
+"cr7km5h",
+"f7ots4j",
+"h18p02zx"
+],
+"obs_num": 1206
+},
+{
+"obs_mean_onset": 278.709115646,
+"xml_id": [
+"ipxod67",
+"k9s2ds7"
+],
+"obs_num": 1207
+},
+{
+"obs_mean_onset": 278.900680272,
+"xml_id": [
+"e111wygp"
+],
+"obs_num": 1208
+},
+{
+"obs_mean_onset": 279.092244898,
+"xml_id": [
+"o1oqtbpw",
+"q1gs8xn4"
+],
+"obs_num": 1209
+},
+{
+"obs_mean_onset": 279.30122449,
+"xml_id": [
+"hggrkuu"
+],
+"obs_num": 1210
+},
+{
+"obs_mean_onset": 279.492789116,
+"xml_id": [
+"t1wtw1ac",
+"v172wl3b"
+],
+"obs_num": 1211
+},
+{
+"obs_mean_onset": 279.701768707,
+"xml_id": [
+"ptl8kh3"
+],
+"obs_num": 1212
+},
+{
+"obs_mean_onset": 279.893333333,
+"xml_id": [
+"z1hkgt4h",
+"cpno3l"
+],
+"obs_num": 1213
+},
+{
+"obs_mean_onset": 280.102312925,
+"xml_id": [
+"s1srbcdr"
+],
+"obs_num": 1214
+},
+{
+"obs_mean_onset": 280.293877551,
+"xml_id": [
+"e1nm2mex",
+"g4hdm48"
+],
+"obs_num": 1215
+},
+{
+"obs_mean_onset": 280.520272109,
+"xml_id": [
+"vp6veq4"
+],
+"obs_num": 1216
+},
+{
+"obs_mean_onset": 280.694421769,
+"xml_id": [
+"ikxckmj",
+"kck3jqd"
+],
+"obs_num": 1217
+},
+{
+"obs_mean_onset": 280.903401361,
+"xml_id": [
+"hc52ozb",
+"jouq7xx"
+],
+"obs_num": 1218
+},
+{
+"obs_mean_onset": 281.025306122,
+"xml_id": [
+"q1n67vw8"
+],
+"obs_num": 1219
+},
+{
+"obs_mean_onset": 281.129795918,
+"xml_id": [
+"r15etth8"
+],
+"obs_num": 1220
+},
+{
+"obs_mean_onset": 281.234285714,
+"xml_id": [
+"s13z18qj"
+],
+"obs_num": 1221
+},
+{
+"obs_mean_onset": 281.33877551,
+"xml_id": [
+"lfy1ych",
+"o11dsd4j"
+],
+"obs_num": 1222
+},
+{
+"obs_mean_onset": 281.42585034,
+"xml_id": [
+"vpns72"
+],
+"obs_num": 1223
+},
+{
+"obs_mean_onset": 281.547755102,
+"xml_id": [
+"wujumkr"
+],
+"obs_num": 1224
+},
+{
+"obs_mean_onset": 281.634829932,
+"xml_id": [
+"y1ltwvxv"
+],
+"obs_num": 1225
+},
+{
+"obs_mean_onset": 281.739319728,
+"xml_id": [
+"r19pxuk7",
+"t14jg60e"
+],
+"obs_num": 1226
+},
+{
+"obs_mean_onset": 281.826394558,
+"xml_id": [
+"b1sl3j8f"
+],
+"obs_num": 1227
+},
+{
+"obs_mean_onset": 281.94829932,
+"xml_id": [
+"c10nd920"
+],
+"obs_num": 1228
+},
+{
+"obs_mean_onset": 282.03537415,
+"xml_id": [
+"dxu6qt8"
+],
+"obs_num": 1229
+},
+{
+"obs_mean_onset": 282.174693878,
+"xml_id": [
+"z1ci92bq",
+"c18oa41n"
+],
+"obs_num": 1230
+},
+{
+"obs_mean_onset": 282.244353741,
+"xml_id": [
+"j17o9qjn"
+],
+"obs_num": 1231
+},
+{
+"obs_mean_onset": 282.348843537,
+"xml_id": [
+"lxsgmj5"
+],
+"obs_num": 1232
+},
+{
+"obs_mean_onset": 282.435918367,
+"xml_id": [
+"m3qfly4"
+],
+"obs_num": 1233
+},
+{
+"obs_mean_onset": 282.557823129,
+"xml_id": [
+"frlo4u9",
+"ifygc1j"
+],
+"obs_num": 1234
+},
+{
+"obs_mean_onset": 282.662312925,
+"xml_id": [
+"q1xl7f8x"
+],
+"obs_num": 1235
+},
+{
+"obs_mean_onset": 282.766802721,
+"xml_id": [
+"riq2t4g"
+],
+"obs_num": 1236
+},
+{
+"obs_mean_onset": 282.871292517,
+"xml_id": [
+"sfj0h9d"
+],
+"obs_num": 1237
+},
+{
+"obs_mean_onset": 282.975782313,
+"xml_id": [
+"l56l2va",
+"nfwfb4i"
+],
+"obs_num": 1238
+},
+{
+"obs_mean_onset": 283.080272109,
+"xml_id": [
+"veg9dik"
+],
+"obs_num": 1239
+},
+{
+"obs_mean_onset": 283.184761905,
+"xml_id": [
+"w62grjd"
+],
+"obs_num": 1240
+},
+{
+"obs_mean_onset": 283.271836735,
+"xml_id": [
+"x1nmg825"
+],
+"obs_num": 1241
+},
+{
+"obs_mean_onset": 283.428571429,
+"xml_id": [
+"n1ywq47a",
+"b1x3pwm8",
+"dc10qej",
+"eoamzvo"
+],
+"obs_num": 1242
+},
+{
+"obs_mean_onset": 283.498231293,
+"xml_id": [
+"o8kw1vh"
+],
+"obs_num": 1243
+},
+{
+"obs_mean_onset": 283.567891156,
+"xml_id": [
+"pgzv9ue"
+],
+"obs_num": 1244
+},
+{
+"obs_mean_onset": 283.672380952,
+"xml_id": [
+"qgdnrlc"
+],
+"obs_num": 1245
+},
+{
+"obs_mean_onset": 283.794285714,
+"xml_id": [
+"srmtnw0"
+],
+"obs_num": 1246
+},
+{
+"obs_mean_onset": 283.916190476,
+"xml_id": [
+"t15z9lu4"
+],
+"obs_num": 1247
+},
+{
+"obs_mean_onset": 284.003265306,
+"xml_id": [
+"u9mk5pj"
+],
+"obs_num": 1248
+},
+{
+"obs_mean_onset": 284.107755102,
+"xml_id": [
+"v1gofnrt"
+],
+"obs_num": 1249
+},
+{
+"obs_mean_onset": 284.194829932,
+"xml_id": [
+"x1aqiuz5",
+"hf3wsyh"
+],
+"obs_num": 1250
+},
+{
+"obs_mean_onset": 284.299319728,
+"xml_id": [
+"y1k47u0w"
+],
+"obs_num": 1251
+},
+{
+"obs_mean_onset": 284.386394558,
+"xml_id": [
+"z197drmk"
+],
+"obs_num": 1252
+},
+{
+"obs_mean_onset": 284.473469388,
+"xml_id": [
+"a18fkkks",
+"ji963xg"
+],
+"obs_num": 1253
+},
+{
+"obs_mean_onset": 284.525714286,
+"xml_id": [
+"k1gi3rew"
+],
+"obs_num": 1254
+},
+{
+"obs_mean_onset": 284.577959184,
+"xml_id": [
+"wbj2wua",
+"o1pxk6no"
+],
+"obs_num": 1255
+},
+{
+"obs_mean_onset": 284.68244898,
+"xml_id": [
+"x1a6fvlp"
+],
+"obs_num": 1256
+},
+{
+"obs_mean_onset": 284.786938776,
+"xml_id": [
+"y1rbtio1"
+],
+"obs_num": 1257
+},
+{
+"obs_mean_onset": 284.891428571,
+"xml_id": [
+"z5g6fcn"
+],
+"obs_num": 1258
+},
+{
+"obs_mean_onset": 284.995918367,
+"xml_id": [
+"b19at54d"
+],
+"obs_num": 1259
+},
+{
+"obs_mean_onset": 285.100408163,
+"xml_id": [
+"cooe441"
+],
+"obs_num": 1260
+},
+{
+"obs_mean_onset": 285.204897959,
+"xml_id": [
+"d1cbk7ts"
+],
+"obs_num": 1261
+},
+{
+"obs_mean_onset": 285.309387755,
+"xml_id": [
+"e1cuh1js"
+],
+"obs_num": 1262
+},
+{
+"obs_mean_onset": 285.413877551,
+"xml_id": [
+"gvfqdgu",
+"qrnylds"
+],
+"obs_num": 1263
+},
+{
+"obs_mean_onset": 285.500952381,
+"xml_id": [
+"h10zdbt4"
+],
+"obs_num": 1264
+},
+{
+"obs_mean_onset": 285.588027211,
+"xml_id": [
+"j1xo0f1m"
+],
+"obs_num": 1265
+},
+{
+"obs_mean_onset": 285.675102041,
+"xml_id": [
+"k1fl881h",
+"skv1h1g"
+],
+"obs_num": 1266
+},
+{
+"obs_mean_onset": 285.727346939,
+"xml_id": [
+"tggyh61"
+],
+"obs_num": 1267
+},
+{
+"obs_mean_onset": 285.814421769,
+"xml_id": [
+"f17s3iup",
+"x6rbukr"
+],
+"obs_num": 1268
+},
+{
+"obs_mean_onset": 285.918911565,
+"xml_id": [
+"g6ioupt"
+],
+"obs_num": 1269
+},
+{
+"obs_mean_onset": 286.023401361,
+"xml_id": [
+"hxnamni"
+],
+"obs_num": 1270
+},
+{
+"obs_mean_onset": 286.127891156,
+"xml_id": [
+"if8cxdx"
+],
+"obs_num": 1271
+},
+{
+"obs_mean_onset": 286.232380952,
+"xml_id": [
+"ke4xyd0"
+],
+"obs_num": 1272
+},
+{
+"obs_mean_onset": 286.336870748,
+"xml_id": [
+"l1tld8pb"
+],
+"obs_num": 1273
+},
+{
+"obs_mean_onset": 286.441360544,
+"xml_id": [
+"mnzsvsd"
+],
+"obs_num": 1274
+},
+{
+"obs_mean_onset": 286.528435374,
+"xml_id": [
+"nz5qtc2"
+],
+"obs_num": 1275
+},
+{
+"obs_mean_onset": 286.598095238,
+"xml_id": [
+"pb8vasz",
+"z1izvkd3"
+],
+"obs_num": 1276
+},
+{
+"obs_mean_onset": 286.72,
+"xml_id": [
+"q1edjv7n"
+],
+"obs_num": 1277
+},
+{
+"obs_mean_onset": 286.789659864,
+"xml_id": [
+"rwmg9c"
+],
+"obs_num": 1278
+},
+{
+"obs_mean_onset": 286.89414966,
+"xml_id": [
+"sujf18y",
+"b17m5n3r"
+],
+"obs_num": 1279
+},
+{
+"obs_mean_onset": 286.946394558,
+"xml_id": [
+"ch5lsn8"
+],
+"obs_num": 1280
+},
+{
+"obs_mean_onset": 286.998639456,
+"xml_id": [
+"o1bxnl0b",
+"f1gig03z"
+],
+"obs_num": 1281
+},
+{
+"obs_mean_onset": 287.085714286,
+"xml_id": [
+"p1hq5okd"
+],
+"obs_num": 1282
+},
+{
+"obs_mean_onset": 287.172789116,
+"xml_id": [
+"qim9kap"
+],
+"obs_num": 1283
+},
+{
+"obs_mean_onset": 287.294693878,
+"xml_id": [
+"r1wbjz5"
+],
+"obs_num": 1284
+},
+{
+"obs_mean_onset": 287.381768707,
+"xml_id": [
+"tb8ru18",
+"g1jfnvuo"
+],
+"obs_num": 1285
+},
+{
+"obs_mean_onset": 287.468843537,
+"xml_id": [
+"u188ngm7"
+],
+"obs_num": 1286
+},
+{
+"obs_mean_onset": 287.608163265,
+"xml_id": [
+"v8w5um2"
+],
+"obs_num": 1287
+},
+{
+"obs_mean_onset": 287.747482993,
+"xml_id": [
+"w1fnf1wu"
+],
+"obs_num": 1288
+},
+{
+"obs_mean_onset": 287.851972789,
+"xml_id": [
+"yhpslbz",
+"i15p1vya"
+],
+"obs_num": 1289
+},
+{
+"obs_mean_onset": 287.921632653,
+"xml_id": [
+"z1mlvbyc"
+],
+"obs_num": 1290
+},
+{
+"obs_mean_onset": 287.991292517,
+"xml_id": [
+"bc38bdc"
+],
+"obs_num": 1291
+},
+{
+"obs_mean_onset": 288.130612245,
+"xml_id": [
+"cwvi7im",
+"kmh2p1n"
+],
+"obs_num": 1292
+},
+{
+"obs_mean_onset": 288.182857143,
+"xml_id": [
+"l1toce0v"
+],
+"obs_num": 1293
+},
+{
+"obs_mean_onset": 288.252517007,
+"xml_id": [
+"x1gsuo2f",
+"z1h9bw26",
+"ajsuzo7",
+"b1aoin0u",
+"q15wrjcj"
+],
+"obs_num": 1294
+},
+{
+"obs_mean_onset": 288.75755102,
+"xml_id": [
+"c1ohiuy",
+"e799qnv",
+"t59zn9"
+],
+"obs_num": 1295
+},
+{
+"obs_mean_onset": 289.436734694,
+"xml_id": [
+"fq4pzyh",
+"i1pprtjw",
+"ur5imqx"
+],
+"obs_num": 1296
+},
+{
+"obs_mean_onset": 289.645714286,
+"xml_id": [
+"c21lj4m",
+"eipnx7m",
+"w7ssgi8"
+],
+"obs_num": 1297
+},
+{
+"obs_mean_onset": 290.115918367,
+"xml_id": [
+"f1vxe1v4",
+"h1up6los",
+"z1s8hkgs"
+],
+"obs_num": 1298
+},
+{
+"obs_mean_onset": 290.551292517,
+"xml_id": [
+"i1dfchiq",
+"a13qqdu5"
+],
+"obs_num": 1299
+},
+{
+"obs_mean_onset": 291.073741497,
+"xml_id": [
+"j19m2th3",
+"wn0z03h"
+],
+"obs_num": 1300
+},
+{
+"obs_mean_onset": 291.213061224,
+"xml_id": [
+"m18cc8jm",
+"zkcfcit"
+],
+"obs_num": 1301
+},
+{
+"obs_mean_onset": 291.300136054,
+"xml_id": [
+"nmm7rw3",
+"aoy0oqe"
+],
+"obs_num": 1302
+},
+{
+"obs_mean_onset": 291.596190476,
+"xml_id": [
+"o1bi4u83",
+"b1jac034"
+],
+"obs_num": 1303
+},
+{
+"obs_mean_onset": 291.805170068,
+"xml_id": [
+"q46kum6",
+"s19oqb95",
+"d1a114ej",
+"f1klrr8b",
+"g1hv478s"
+],
+"obs_num": 1304
+},
+{
+"obs_mean_onset": 292.27537415,
+"xml_id": [
+"m1cqtw36",
+"o164bvpb",
+"f1fbahe3",
+"h18fbp3g",
+"ihtv8u5"
+],
+"obs_num": 1305
+},
+{
+"obs_mean_onset": 292.815238095,
+"xml_id": [
+"p1ci51l2",
+"r7rcwrt",
+"j7zqo9v"
+],
+"obs_num": 1306
+}
+]
