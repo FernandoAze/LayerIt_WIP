@@ -14,7 +14,7 @@ maps_file = str(root_dir / input_parent_dir / "Schumann_Toccata_asap.maps.json")
 svg_score = str(root_dir / input_parent_dir / "Schumann_ScoreWarp.svg")
 
 
-fig = Visualizer(audio=audio_file, score=svg_score, maps=maps_file, performance_start='00:00.00', performance_end='00:07.20')
+fig = Visualizer(audio=audio_file, score=svg_score, maps=maps_file)
 
 fig.add_panel(Waveform(color="#FFD500", normalize=True),
               Onset(onset_color="#000000", line_width=0.5),
